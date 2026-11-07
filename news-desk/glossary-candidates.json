@@ -1,0 +1,79 @@
+{
+  "generatedAt": "2026-11-04T23:57:40.749Z",
+  "items": [
+    {
+      "term": "盤後大漲／創新高",
+      "aliases": [
+        "all-time high",
+        "歷史新高",
+        "post-election rally"
+      ],
+      "cat": "估值",
+      "plain": "股價漲到從來沒見過的最高點，通常是市場氣氛很熱、大家搶著買。",
+      "pro": "股價創下掛牌以來最高價位，常伴隨成交量放大與市場風險偏好上升。"
+    },
+    {
+      "term": "財報優於預期",
+      "aliases": [
+        "beat estimates",
+        "beats",
+        "超預期"
+      ],
+      "cat": "財務",
+      "plain": "公司公布的賺錢數字比分析師原本猜的還要好，股價常因此跳漲。",
+      "pro": "實際每股盈餘或營收高於市場共識預估值（consensus estimate）。"
+    },
+    {
+      "term": "財報不如預期／財測下修",
+      "aliases": [
+        "miss",
+        "cuts guidance",
+        "下調指引"
+      ],
+      "cat": "財務",
+      "plain": "公司賺的比大家猜的少，或乾脆把未來的展望調低，股價容易挨揍。",
+      "pro": "實際業績低於共識預期，或公司下調未來財測指引（guidance cut）。"
+    },
+    {
+      "term": "關稅退稅",
+      "aliases": [
+        "tariff refund",
+        "tariff relief"
+      ],
+      "cat": "事件",
+      "plain": "政府把之前多收的進口稅退還給公司，等於撿到一筆意外之財，帳面數字會變漂亮。",
+      "pro": "進口商因關稅裁定變更或法規救濟而取回的已繳稅款，屬一次性利益。"
+    },
+    {
+      "term": "合併整合",
+      "aliases": [
+        "merger integration",
+        "acquisition integration"
+      ],
+      "cat": "事件",
+      "plain": "兩家公司合併後要把人事、系統、帳務湊在一起的痛苦過程，做不好會拖累業績。",
+      "pro": "併購交割後將雙方營運、財務與資訊系統整合並實現綜效的執行階段。"
+    },
+    {
+      "term": "綜效",
+      "aliases": [
+        "synergy",
+        "synergies",
+        "cost synergies"
+      ],
+      "cat": "財務",
+      "plain": "兩家公司合併後省下的成本或增加的生意，也就是「一加一大於二」的好處。",
+      "pro": "併購後因規模經濟、交叉銷售或成本削減而產生的額外價值。"
+    },
+    {
+      "term": "優先審查",
+      "aliases": [
+        "priority review",
+        "FDA priority review"
+      ],
+      "cat": "名單機制",
+      "plain": "藥廠送審新藥時拿到「快速通關」，政府會比平常更快給答案。",
+      "pro": "監管機關對具顯著臨床效益之申請案給予縮短審查時限之程序。"
+    }
+  ]
+}

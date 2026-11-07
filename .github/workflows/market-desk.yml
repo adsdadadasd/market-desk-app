@@ -1,0 +1,86 @@
+name: market-desk
+
+on:
+  schedule:
+    # 每 5 分鐘。雲端負責本機關機時的警報；跨機器去重靠 ntfy ledger。
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: market-desk
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    defaults:
+      run:
+        working-directory: news-desk
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: 注入 ntfy topic（用 secret，不會被 commit）
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+        run: |
+          if [ -n "$NTFY_TOPIC" ]; then
+            node -e "const fs=require('fs');const c=JSON.parse(fs.readFileSync('config.json','utf8'));c.ntfy.topic=process.env.NTFY_TOPIC;fs.writeFileSync('config.json',JSON.stringify(c,null,2));"
+          fi
+
+      - name: 採集（有警報時 exit 8，屬正常）
+        run: node collect.mjs --quiet || true
+
+      - name: 自動摘要（沒有正式簡報時才寫）
+        run: node digest-auto.mjs || true
+
+      - name: 新聞解讀（有 API 金鑰才跑）
+        env:
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+        run: node annotate-auto.mjs --limit=40 || true
+
+      - name: 產生網站
+        run: node build-site.mjs --quiet
+
+      - name: 只保留最近 30 天原始新聞
+        run: find news -name "*.jsonl" -mtime +30 -delete
+
+      - name: 提交資料
+        working-directory: .
+        run: |
+          git checkout -- news-desk/config.json 2>/dev/null || true
+          git config user.name "market-desk-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A news-desk/news news-desk/digest news-desk/alerts news-desk/site
+          git add news-desk/state.json news-desk/watchlist.json 2>/dev/null || true
+          if [ -f news-desk/watchlist-history.jsonl ]; then git add news-desk/watchlist-history.jsonl; fi
+          if git diff --staged --quiet; then
+            echo "沒有變更"
+          else
+            git commit -m "data: $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+          fi
+
+      - uses: actions/configure-pages@v5
+        with:
+          enablement: true
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: news-desk/site
+
+      - id: deploy
+        uses: actions/deploy-pages@v4

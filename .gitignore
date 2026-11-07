@@ -1,0 +1,7 @@
+news-desk/.secrets.json
+news-desk/.cache/
+news-desk/.tmp/
+news-desk/*.log
+*.log
+.DS_Store
+Thumbs.db
