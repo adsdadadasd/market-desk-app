@@ -1,332 +1,332 @@
 {
-    "version":  1,
-    "watchlistFile":  "watchlist.json",
-    "thresholds":  {
-                       "alert":  8,
-                       "digest":  5,
-                       "alertCapPerDay":  6,
-                       "quietHours":  [
-                                          1,
-                                          7
-                                      ],
-                       "quietMinScore":  10,
-                       "minSourceTier":  2,
-                       "confirmDomains":  2
-                   },
-    "ntfy":  {
-                 "server":  "https://ntfy.sh",
-                 "topic":  "mktdesk-6232c7bae6f4c485",
-                 "priorityAlert":  "high",
-                 "priorityDigest":  "default"
-             },
-    "collect":  {
-                    "maxPerFeed":  25,
-                    "lookbackHours":  24,
-                    "seenRetentionDays":  7,
-                    "pendingRetentionDays":  3,
-                    "priceMovePct":  5,
-                    "yahooTickerNews":  false,
-                    "secFilings":  true,
-                    "secCoreOnly":  true,
-                    "quotes":  true
-                },
-    "googleNews":  [
-                       {
-                           "id":  "macro",
-                           "q":  "(Federal Reserve OR FOMC OR CPI OR \"interest rate\" OR Powell) when:1d"
-                       },
-                       {
-                           "id":  "market",
-                           "q":  "(\"stock market\" OR \"S\u0026P 500\" OR Nasdaq OR \"Wall Street\") when:1d"
-                       },
-                       {
-                           "id":  "geopolitics",
-                           "q":  "(tariff OR sanctions OR \"trade war\" OR OPEC OR \"oil prices\" OR Taiwan) when:1d"
-                       },
-                       {
-                           "id":  "earnings",
-                           "q":  "(guidance OR \"profit warning\" OR \"quarterly results\" OR preannounce) when:1d"
-                       },
-                       {
-                           "id":  "deals",
-                           "q":  "(merger OR acquisition OR takeover OR buyout OR \"activist investor\") when:1d"
-                       },
-                       {
-                           "id":  "regulatory",
-                           "q":  "(antitrust OR \"SEC probe\" OR FDA OR \"class action\" OR recall) when:1d"
-                       }
-                   ],
-    "severity":  [
-                     {
-                         "label":  "貨幣政策",
-                         "re":  "federal reserve|fomc|rate hike|rate cut|interest rate|quantitative easing|powell",
-                         "breadth":  3
-                     },
-                     {
-                         "label":  "通脹數據",
-                         "re":  "inflation|\\bcpi\\b|\\bpce\\b|producer price",
-                         "breadth":  2
-                     },
-                     {
-                         "label":  "就業數據",
-                         "re":  "jobs report|nonfarm payroll|unemployment rate|jobless claims",
-                         "breadth":  2
-                     },
-                     {
-                         "label":  "地緣衝突",
-                         "re":  "\\bwar\\b|invasion|missile|airstrike|air strike|military strike|nuclear",
-                         "breadth":  3
-                     },
-                     {
-                         "label":  "貿易制裁",
-                         "re":  "tariff|sanctions|export ban|export controls|trade war|embargo",
-                         "breadth":  3
-                     },
-                     {
-                         "label":  "信用事件",
-                         "re":  "bankrupt|chapter 11|\\bdefault\\b|insolven|bailout|bank run|liquidity crisis|margin call",
-                         "breadth":  3
-                     },
-                     {
-                         "label":  "交易異動",
-                         "re":  "trading halt|halted|circuit breaker|suspend",
-                         "breadth":  2
-                     },
-                     {
-                         "label":  "併購",
-                         "re":  "merger|acquisition|takeover|buyout|tender offer|activist investor|stake in",
-                         "breadth":  2
-                     },
-                     {
-                         "label":  "財測",
-                         "re":  "guidance|profit warning|warns|slashes|cuts forecast|cuts outlook|outlook cut|preannounce",
-                         "breadth":  2
-                     },
-                     {
-                         "label":  "財報",
-                         "re":  "earnings|quarterly results|revenue|beats estimates|misses estimates|\\beps\\b",
-                         "breadth":  1
-                     },
-                     {
-                         "label":  "監管訴訟",
-                         "re":  "antitrust|probe|investigation|subpoena|lawsuit|class action|settlement|fine",
-                         "breadth":  2
-                     },
-                     {
-                         "label":  "醫療監管",
-                         "re":  "\\bfda\\b|approval|recall|clinical trial|phase 3|trial data",
-                         "breadth":  2
-                     },
-                     {
-                         "label":  "人事",
-                         "re":  "\\bceo\\b|chief executive|resign|steps down|fired|ousted|departure",
-                         "breadth":  2
-                     },
-                     {
-                         "label":  "營運",
-                         "re":  "layoff|job cuts|restructur|strike|shutdown|plant closure",
-                         "breadth":  2
-                     },
-                     {
-                         "label":  "評級",
-                         "re":  "upgrade|downgrade|price target",
-                         "breadth":  1
-                     },
-                     {
-                         "label":  "申報",
-                         "re":  "8-k|current report|material event|13d|13f|form 4",
-                         "breadth":  2
-                     },
-                     {
-                         "label":  "政治事件",
-                         "re":  "\\belection\\b|midterm|congress|senate|\\bhouse\\b|impeach|blue wave|red wave|government shutdown",
-                         "breadth":  3
-                     },
-                     {
-                         "label":  "重大事故",
-                         "re":  "explosion|blast|derail|train crash|collapse|chemical leak|blackout|power outage|grid failure|refinery fire|plant fire",
-                         "breadth":  3
-                     },
-                     {
-                         "label":  "恐襲與安全",
-                         "re":  "terror|terrorist|hostage|bombing|shooting|mass casualty|security incident",
-                         "breadth":  3
-                     },
-                     {
-                         "label":  "領導人變故",
-                         "re":  "assassinat|leader (killed|dies|dead)|president (killed|dies|dead)|prime minister (killed|dies|resign)|coup|succession",
-                         "breadth":  3
-                     },
-                     {
-                         "label":  "天災",
-                         "re":  "earthquake|hurricane|typhoon|flood|wildfire|tsunami|drought|volcanic|pandemic",
-                         "breadth":  3
-                     }
-                 ],
-    "sourceTier":  [
-                       {
-                           "match":  "reuters.com",
-                           "tier":  3
-                       },
-                       {
-                           "match":  "bloomberg.com",
-                           "tier":  3
-                       },
-                       {
-                           "match":  "wsj.com",
-                           "tier":  3
-                       },
-                       {
-                           "match":  "ft.com",
-                           "tier":  3
-                       },
-                       {
-                           "match":  "apnews.com",
-                           "tier":  3
-                       },
-                       {
-                           "match":  "cnbc.com",
-                           "tier":  3
-                       },
-                       {
-                           "match":  "barrons.com",
-                           "tier":  3
-                       },
-                       {
-                           "match":  "nytimes.com",
-                           "tier":  3
-                       },
-                       {
-                           "match":  "economist.com",
-                           "tier":  3
-                       },
-                       {
-                           "match":  "sec.gov",
-                           "tier":  3
-                       },
-                       {
-                           "match":  "federalreserve.gov",
-                           "tier":  3
-                       },
-                       {
-                           "match":  "bls.gov",
-                           "tier":  3
-                       },
-                       {
-                           "match":  "fda.gov",
-                           "tier":  3
-                       },
-                       {
-                           "match":  "treasury.gov",
-                           "tier":  3
-                       },
-                       {
-                           "match":  "whitehouse.gov",
-                           "tier":  3
-                       },
-                       {
-                           "match":  "marketwatch.com",
-                           "tier":  2
-                       },
-                       {
-                           "match":  "yahoo.com",
-                           "tier":  2
-                       },
-                       {
-                           "match":  "investing.com",
-                           "tier":  2
-                       },
-                       {
-                           "match":  "benzinga.com",
-                           "tier":  2
-                       },
-                       {
-                           "match":  "businessinsider.com",
-                           "tier":  2
-                       },
-                       {
-                           "match":  "axios.com",
-                           "tier":  2
-                       },
-                       {
-                           "match":  "politico.com",
-                           "tier":  2
-                       },
-                       {
-                           "match":  "seekingalpha.com",
-                           "tier":  2
-                       },
-                       {
-                           "match":  "morningstar.com",
-                           "tier":  2
-                       },
-                       {
-                           "match":  "theinformation.com",
-                           "tier":  2
-                       },
-                       {
-                           "match":  "motleyfool.com",
-                           "tier":  1
-                       },
-                       {
-                           "match":  "fool.com",
-                           "tier":  1
-                       },
-                       {
-                           "match":  "prnewswire.com",
-                           "tier":  1
-                       },
-                       {
-                           "match":  "businesswire.com",
-                           "tier":  1
-                       },
-                       {
-                           "match":  "globenewswire.com",
-                           "tier":  1
-                       },
-                       {
-                           "match":  "medium.com",
-                           "tier":  1
-                       },
-                       {
-                           "match":  "substack.com",
-                           "tier":  1
-                       },
-                       {
-                           "match":  "x.com",
-                           "tier":  1
-                       },
-                       {
-                           "match":  "reddit.com",
-                           "tier":  1
-                       }
-                   ],
-    "primaryDomains":  [
-                           "sec.gov",
-                           "federalreserve.gov",
-                           "bls.gov",
-                           "fda.gov",
-                           "treasury.gov",
-                           "whitehouse.gov"
-                       ],
-    "sectorKeywords":  [
-                           "semiconductor",
-                           "chipmaker",
-                           "chips",
-                           "artificial intelligence",
-                           "cloud computing",
-                           "software",
-                           "bank",
-                           "banks",
-                           "oil",
-                           "crude",
-                           "opec",
-                           "retailer",
-                           "pharma",
-                           "biotech",
-                           "drugmaker",
-                           "airline",
-                           "defense",
-                           "tariff"
-                       ]
+  "version": 1,
+  "watchlistFile": "watchlist.json",
+  "thresholds": {
+    "alert": 8,
+    "digest": 5,
+    "alertCapPerDay": 6,
+    "quietHours": [
+      1,
+      7
+    ],
+    "quietMinScore": 10,
+    "minSourceTier": 2,
+    "confirmDomains": 2
+  },
+  "ntfy": {
+    "server": "https://ntfy.sh",
+    "topic": "",
+    "priorityAlert": "high",
+    "priorityDigest": "default"
+  },
+  "collect": {
+    "maxPerFeed": 25,
+    "lookbackHours": 24,
+    "seenRetentionDays": 7,
+    "pendingRetentionDays": 3,
+    "priceMovePct": 5,
+    "yahooTickerNews": false,
+    "secFilings": true,
+    "secCoreOnly": true,
+    "quotes": true
+  },
+  "googleNews": [
+    {
+      "id": "macro",
+      "q": "(Federal Reserve OR FOMC OR CPI OR \"interest rate\" OR Powell) when:1d"
+    },
+    {
+      "id": "market",
+      "q": "(\"stock market\" OR \"S&P 500\" OR Nasdaq OR \"Wall Street\") when:1d"
+    },
+    {
+      "id": "geopolitics",
+      "q": "(tariff OR sanctions OR \"trade war\" OR OPEC OR \"oil prices\" OR Taiwan) when:1d"
+    },
+    {
+      "id": "earnings",
+      "q": "(guidance OR \"profit warning\" OR \"quarterly results\" OR preannounce) when:1d"
+    },
+    {
+      "id": "deals",
+      "q": "(merger OR acquisition OR takeover OR buyout OR \"activist investor\") when:1d"
+    },
+    {
+      "id": "regulatory",
+      "q": "(antitrust OR \"SEC probe\" OR FDA OR \"class action\" OR recall) when:1d"
+    }
+  ],
+  "severity": [
+    {
+      "label": "貨幣政策",
+      "re": "federal reserve|fomc|rate hike|rate cut|interest rate|quantitative easing|powell",
+      "breadth": 3
+    },
+    {
+      "label": "通脹數據",
+      "re": "inflation|\\bcpi\\b|\\bpce\\b|producer price",
+      "breadth": 2
+    },
+    {
+      "label": "就業數據",
+      "re": "jobs report|nonfarm payroll|unemployment rate|jobless claims",
+      "breadth": 2
+    },
+    {
+      "label": "地緣衝突",
+      "re": "\\bwar\\b|invasion|missile|airstrike|air strike|military strike|nuclear",
+      "breadth": 3
+    },
+    {
+      "label": "貿易制裁",
+      "re": "tariff|sanctions|export ban|export controls|trade war|embargo",
+      "breadth": 3
+    },
+    {
+      "label": "信用事件",
+      "re": "bankrupt|chapter 11|\\bdefault\\b|insolven|bailout|bank run|liquidity crisis|margin call",
+      "breadth": 3
+    },
+    {
+      "label": "交易異動",
+      "re": "trading halt|halted|circuit breaker|suspend",
+      "breadth": 2
+    },
+    {
+      "label": "併購",
+      "re": "merger|acquisition|takeover|buyout|tender offer|activist investor|stake in",
+      "breadth": 2
+    },
+    {
+      "label": "財測",
+      "re": "guidance|profit warning|warns|slashes|cuts forecast|cuts outlook|outlook cut|preannounce",
+      "breadth": 2
+    },
+    {
+      "label": "財報",
+      "re": "earnings|quarterly results|revenue|beats estimates|misses estimates|\\beps\\b",
+      "breadth": 1
+    },
+    {
+      "label": "監管訴訟",
+      "re": "antitrust|probe|investigation|subpoena|lawsuit|class action|settlement|fine",
+      "breadth": 2
+    },
+    {
+      "label": "醫療監管",
+      "re": "\\bfda\\b|approval|recall|clinical trial|phase 3|trial data",
+      "breadth": 2
+    },
+    {
+      "label": "人事",
+      "re": "\\bceo\\b|chief executive|resign|steps down|fired|ousted|departure",
+      "breadth": 2
+    },
+    {
+      "label": "營運",
+      "re": "layoff|job cuts|restructur|strike|shutdown|plant closure",
+      "breadth": 2
+    },
+    {
+      "label": "評級",
+      "re": "upgrade|downgrade|price target",
+      "breadth": 1
+    },
+    {
+      "label": "申報",
+      "re": "8-k|current report|material event|13d|13f|form 4",
+      "breadth": 2
+    },
+    {
+      "label": "政治事件",
+      "re": "\\belection\\b|midterm|congress|senate|\\bhouse\\b|impeach|blue wave|red wave|government shutdown",
+      "breadth": 3
+    },
+    {
+      "label": "重大事故",
+      "re": "explosion|blast|derail|train crash|collapse|chemical leak|blackout|power outage|grid failure|refinery fire|plant fire",
+      "breadth": 3
+    },
+    {
+      "label": "恐襲與安全",
+      "re": "terror|terrorist|hostage|bombing|shooting|mass casualty|security incident",
+      "breadth": 3
+    },
+    {
+      "label": "領導人變故",
+      "re": "assassinat|leader (killed|dies|dead)|president (killed|dies|dead)|prime minister (killed|dies|resign)|coup|succession",
+      "breadth": 3
+    },
+    {
+      "label": "天災",
+      "re": "earthquake|hurricane|typhoon|flood|wildfire|tsunami|drought|volcanic|pandemic",
+      "breadth": 3
+    }
+  ],
+  "sourceTier": [
+    {
+      "match": "reuters.com",
+      "tier": 3
+    },
+    {
+      "match": "bloomberg.com",
+      "tier": 3
+    },
+    {
+      "match": "wsj.com",
+      "tier": 3
+    },
+    {
+      "match": "ft.com",
+      "tier": 3
+    },
+    {
+      "match": "apnews.com",
+      "tier": 3
+    },
+    {
+      "match": "cnbc.com",
+      "tier": 3
+    },
+    {
+      "match": "barrons.com",
+      "tier": 3
+    },
+    {
+      "match": "nytimes.com",
+      "tier": 3
+    },
+    {
+      "match": "economist.com",
+      "tier": 3
+    },
+    {
+      "match": "sec.gov",
+      "tier": 3
+    },
+    {
+      "match": "federalreserve.gov",
+      "tier": 3
+    },
+    {
+      "match": "bls.gov",
+      "tier": 3
+    },
+    {
+      "match": "fda.gov",
+      "tier": 3
+    },
+    {
+      "match": "treasury.gov",
+      "tier": 3
+    },
+    {
+      "match": "whitehouse.gov",
+      "tier": 3
+    },
+    {
+      "match": "marketwatch.com",
+      "tier": 2
+    },
+    {
+      "match": "yahoo.com",
+      "tier": 2
+    },
+    {
+      "match": "investing.com",
+      "tier": 2
+    },
+    {
+      "match": "benzinga.com",
+      "tier": 2
+    },
+    {
+      "match": "businessinsider.com",
+      "tier": 2
+    },
+    {
+      "match": "axios.com",
+      "tier": 2
+    },
+    {
+      "match": "politico.com",
+      "tier": 2
+    },
+    {
+      "match": "seekingalpha.com",
+      "tier": 2
+    },
+    {
+      "match": "morningstar.com",
+      "tier": 2
+    },
+    {
+      "match": "theinformation.com",
+      "tier": 2
+    },
+    {
+      "match": "motleyfool.com",
+      "tier": 1
+    },
+    {
+      "match": "fool.com",
+      "tier": 1
+    },
+    {
+      "match": "prnewswire.com",
+      "tier": 1
+    },
+    {
+      "match": "businesswire.com",
+      "tier": 1
+    },
+    {
+      "match": "globenewswire.com",
+      "tier": 1
+    },
+    {
+      "match": "medium.com",
+      "tier": 1
+    },
+    {
+      "match": "substack.com",
+      "tier": 1
+    },
+    {
+      "match": "x.com",
+      "tier": 1
+    },
+    {
+      "match": "reddit.com",
+      "tier": 1
+    }
+  ],
+  "primaryDomains": [
+    "sec.gov",
+    "federalreserve.gov",
+    "bls.gov",
+    "fda.gov",
+    "treasury.gov",
+    "whitehouse.gov"
+  ],
+  "sectorKeywords": [
+    "semiconductor",
+    "chipmaker",
+    "chips",
+    "artificial intelligence",
+    "cloud computing",
+    "software",
+    "bank",
+    "banks",
+    "oil",
+    "crude",
+    "opec",
+    "retailer",
+    "pharma",
+    "biotech",
+    "drugmaker",
+    "airline",
+    "defense",
+    "tariff"
+  ]
 }

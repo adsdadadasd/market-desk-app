@@ -53,7 +53,7 @@ Exit code：`0` 正常、`8` 有警報、`2` 失敗、`3` 設定錯誤。
 ## 通知（ntfy）
 
 1. 手機裝 **ntfy**（iOS / Android，免費）。
-2. 新增訂閱，topic 填 `mktdesk-9c4e17b2a8d3`（或 `https://ntfy.sh/mktdesk-9c4e17b2a8d3`）。
+2. 新增訂閱，topic 填 `（由 NTFY_TOPIC 環境變數指定）`（或 `https://ntfy.sh/（由 NTFY_TOPIC 環境變數指定）`）。
 3. 換 topic 就改 `config.json` 的 `ntfy.topic`，等於換頻道。
 
 Topic 是公開伺服器上的共享密鑰：知道 topic 的人都能讀。用長隨機字串就是最低成本的隱私保護；要更嚴謹可自架 ntfy。

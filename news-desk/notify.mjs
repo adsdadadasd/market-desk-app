@@ -10,6 +10,7 @@
  * topic 在 config.json 的 ntfy.topic；換 topic 就等於換頻道。
  */
 import { readFileSync } from 'node:fs';
+import os from 'node:os';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 
@@ -25,7 +26,13 @@ function asciiTitle(t) {
 export function ntfyTopic() {
   const n = CONFIG.ntfy || {};
   const server = (process.env.NTFY_SERVER || n.server || 'https://ntfy.sh').replace(/\/+$/, '');
-  const topic = process.env.NTFY_TOPIC || n.topic || '';
+  let topic = process.env.NTFY_TOPIC || n.topic || '';
+  if (!topic) {
+    try {
+      const f = path.join(os.homedir(), 'AppData', 'Roaming', 'market-desk', 'topic.txt');
+      topic = readFileSync(f, 'utf8').trim();
+    } catch {}
+  }
   return { server, topic };
 }
 

@@ -20,9 +20,10 @@ import { fileURLToPath } from 'node:url';
 import { sendNtfy } from './notify.mjs';
 import { zhAlert } from './zh.mjs';
 
-const NTFY_TOPIC = process.env.NTFY_TOPIC || 'mktdesk-6232c7bae6f4c485';
+const NTFY_TOPIC = process.env.NTFY_TOPIC || '';
 
 async function recentPushedKeys() {
+  if (!NTFY_TOPIC) return new Set();
   try {
     const r = await fetch(`https://ntfy.sh/${NTFY_TOPIC}/json?poll=1&since=12h`, { signal: AbortSignal.timeout(8000) });
     if (!r.ok) return new Set();
