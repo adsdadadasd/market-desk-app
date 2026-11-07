@@ -10004,7 +10004,23 @@
     "136ea5018b752528": "2026-11-07T22:44:55.105Z",
     "35f060086f22f759": "2026-11-07T22:44:55.105Z",
     "7c8c01938162015c": "2026-11-07T22:44:55.105Z",
-    "4a890074323f6389": "2026-11-07T22:44:55.105Z"
+    "4a890074323f6389": "2026-11-07T22:44:55.105Z",
+    "15da3eab2127216f": "2026-11-07T23:17:03.062Z",
+    "458b8d154c60e386": "2026-11-07T23:17:03.062Z",
+    "b81da19f4e1e8e2a": "2026-11-07T23:17:03.062Z",
+    "dabcd454d64ac6b7": "2026-11-07T23:17:03.062Z",
+    "34491f88ba4d5471": "2026-11-07T23:17:03.062Z",
+    "d10cf0200285be13": "2026-11-07T23:17:03.062Z",
+    "ee951dab6b81aad9": "2026-11-07T23:17:03.062Z",
+    "89f2aa51ee1ab92a": "2026-11-07T23:17:03.062Z",
+    "0583df33b22865ff": "2026-11-07T23:17:03.062Z",
+    "ecb7066071034180": "2026-11-07T23:17:03.062Z",
+    "20700cfb357330cb": "2026-11-07T23:17:03.062Z",
+    "747ba59a22ab1db6": "2026-11-07T23:17:03.062Z",
+    "3d81f257d1228e17": "2026-11-07T23:17:03.062Z",
+    "955947acb74579ac": "2026-11-07T23:17:03.062Z",
+    "2ea05b4b3b119c10": "2026-11-07T23:17:03.062Z",
+    "592fd642a8ff0d7b": "2026-11-07T23:17:03.062Z"
   },
   "alertsByDay": {
     "2026-11-02": 3,
@@ -10169,78 +10185,6 @@
     }
   },
   "pending": [
-    {
-      "key": "6b29c2d4e20d341a",
-      "score": 7,
-      "title": "Bruins Reveal Bad James Hagens News & Recall Dominating AHL Forward - Yahoo Sports",
-      "domain": "sports.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZFQ1LUE1N1Y4Ym1WV0h0V0N3a2lJMElwMmtkdVh1VXF0UTBtOWowdjhVOXVodFBwMjlselBURDFjeWpQTWJ6Z2M1TTdQWVY0RWg4REJXLXJfcklMc3o5UWVTb3YzT1NvS3EwM2stRXd3RWlwcGJJZDIzaE5POUVPVWY3SQ?oc=5",
-      "tickers": [],
-      "at": "2026-11-07T15:59:01.266Z"
-    },
-    {
-      "key": "33a03564d25a552c",
-      "score": 6,
-      "title": "US Sanctions Canadian Firms Over Iran Crypto Deals - Briefs Finance",
-      "domain": "briefs.co",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOLUQyWmVJTmFlNllaZDN4a0pBS2tBb2dPdmtpV2l5c19pRUFHWTFpUTlGTk5fUldTT0p4c3Z2eVZSVEk5MG1oQTNLcGJoZU9RQUhJWkdiSFhONl9ubWxlVFVMSUF6WS10VXR4b25Bem5UaG02U3JCYzBVaGRSRzVsakNCLVhhYkF3N3hud0k2azhFdw?oc=5",
-      "tickers": [],
-      "at": "2026-11-07T15:59:01.266Z"
-    },
-    {
-      "key": "0df71b63a0689141",
-      "score": 6,
-      "title": "Microchip Technology stock drops 10% after weak December guidance - Startup Fortune",
-      "domain": "startupfortune.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWGVINnFqZll0ZldhOXF3UHY5cm0zYlUxbDlrdE56NDNRNFRfMU1wZ1FlSXVPOXo3MnVfM2hPSnJSYzhhTjhFM2ZaNk45Qzk3bVNNTnpuc3NfNVJwSF83WlNTNVhzT2FkVEhCbWZacV94Yl9EX2lMU0llcldSZU53Q3Z3ZmRQTDBzTHVieXFITFpQdmloa2Nr?oc=5",
-      "tickers": [],
-      "at": "2026-11-07T15:59:01.266Z"
-    },
-    {
-      "key": "4d91f75b280bc096",
-      "score": 6,
-      "title": "Raised Guidance Could Cement Clover Health Stock’s First Profitable Year - Simply Wall St",
-      "domain": "simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxORmtPbkRYV0M5ZGhNSnd2VHoxdUs4NjB6ZTJUTFA0bVBtQllHZnM2TWIwWW9lMFhFNFk4X0doWGM1bUtWWjdRb0lCX0RIQjljUFl3SDdYbjV3cUVzWXU0VHlkQldLOUpPdmNEX1FPQXhwTWJvQ2dvcDJFRE1rV1dJb2w3MkFSNDIwZGh2V0NVZk9IdFNONzF2Z2xkY0ZkN0p3V0VCLTFKX2p5YU56SkZhUC1WbnFPUzQ2YlZQMzZFdnVWcV8wb3FMQWhpUFBxTlRBanBwZm1UT2FqdkNNcTJZ0gHkAUFVX3lxTE11SFpwUHJEbmtNRnRyaTZSMnlILUdReXNqR0ZfMHZkX0FQQ2E5eTd4Sk9oTUI4aWZvVWM4dFVlcHE4bFcyY3NqUjFPay1mSnd6QW5WbV82ZkVxcE1HeG5jdW4xVnZkZjh1cGJYQjMwOHdiT0tRT3d2UnBIMjc3ZUVVdGFjOF9pUE0xN3lZa2t1YmdDMjlEWjRaT3hZSnoyZ3JIdUxmYzVLd1IxcFFYbDZiTnk1NHVuejdFV3RIMTl3WkV2UFJtdnYwUHhDUGRPb2ViOEdfQzRKRWJITWFIQ1pkRXlZaA?oc=5",
-      "tickers": [],
-      "at": "2026-11-07T15:59:01.266Z"
-    },
-    {
-      "key": "87dadcb58708813f",
-      "score": 6,
-      "title": "BioNTech (BNTX) Returned To Profit And Lifted Guidance, Is It A Bargain? - Simply Wall St",
-      "domain": "simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbF9tZzFLQ2V5cERFamgweVkwaExWQkRSMUU4WEVsOFdtSTNYbHEtcTJPOFpXRGtCVTdfbWZfX3dVTFp5aXo1bk82MVVnNC05Y29NYzk4MHczdS05SUJXcEZ6aUVJX3NPMGJMclpFbVRGdXdrclJyVHhmcFo3MmFOX3VuNmFHZGRtdmhBT1IzRHZPVS1rWUZGNF9FZWdCWTVKZlFGLTZPNkpDUXY4alIxMFI3VTBQVVFDNW40ZE1rb3NfaklKcVVVU1FzUnREM05TYVNXOFk0Rjhtd9IB3wFBVV95cUxQZ3VYSlhVRUgxcTNkRXdmemFOcGdQTlhEYjItZVRPclBuVTBJRFBVX3owWXpiVENQR3ctU1JxcTF3RDdvSzZnWm5iUTEzY25Ub19hTTBTSzI2QUdPOW5veUxOSWVCSi1tZTlPS096aG1WaGZrem1NREh1TW1Dc3hESXNlMlBnMjJ0WnJJQWY2dXpwTHg1YVB1OC01aWt1TTdSSWZVejhPZDJFSUpPMFFyeWFyWUs1SmRlcUx3Nm9mcl9Sd0hIS2IxZ2RpSmVxUDRaUzJ1WmpwRU8wdDRQOXdZ?oc=5",
-      "tickers": [],
-      "at": "2026-11-07T15:59:01.266Z"
-    },
-    {
-      "key": "bcb9a438019c6335",
-      "score": 6,
-      "title": "Does Raised Guidance Change The Bull Case For Ensign Group (ENSG)? - Simply Wall St",
-      "domain": "simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNkhZQkVUSldDUkJ0Z0RUdDg1LVdyeVVWRmkxT0ZtZlk0R2d0alhvOU03eXY2Qm1qYmpsSlFwMG5MUUVPbzFucTlHQUUtVzFndmFnb201VkdjVWgzUjBHNl9wUWZoZFBRMS16dW5JaHY3REtVbTVVeVdLS20tSTJma25PamlqRnFfeUhaWWZxRC1xdDJIMmxGX0cyaWU3OVFlU2JldTN2ZC11VFItbHljSmREQUdETXNvUDRKT0NhRkVTRW9wdElrZmZtUVFMUdIB0wFBVV95cUxOQTZQMVRDUUI4anR5UnBGUzRBTTMxemoyQTZZYUxlZ1FLTkxLRGdGUzZnUHQxdVJRdFlNOTZZdkM2Zk5qaE9MaEo4a0xYT0xTUUpwelp6d3ZqZzVzd1pBNldZVUdPSzJGTk8xb0xEcXFfZmpzUDV3enFPY0wybl9aSFVXazZiTXppUExvaUNhU2lPTG85Znotb1hjSW1hWG5SRTdnanRZUkM4bk9wUTBfbWdma2VHNENvcmV1MTYtTGtMVURLTUVBVG1zMVZhNVNpTjc0?oc=5",
-      "tickers": [],
-      "at": "2026-11-07T15:59:01.266Z"
-    },
-    {
-      "key": "0a61da75952b9dea",
-      "score": 6,
-      "title": "Raised Guidance Might Change The Case For Investing In Extra Space Storage Stock - Simply Wall St",
-      "domain": "simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdHhRb3dEMjF6LVEzYW1QVXM1QzhoWk53Q1RmZXhBZ3lsTmJvM0YwbVpmbnpJQUQzNHhleS11amFJVV90ckdmUVY4VWlJY3B1ajN3YnlpdjlhYWk5aUhCVXpJOHNDckJhN2RfeUFYMXNHVXJZZFBPSzM4VVdRYkFDT0pycENOQk5zcEItNWZrQlBCOGp0ZHNCakZtdmtueWJjczlhc0ptbTJSLTI4cFFaV3JWSTNXVHdDR3BnS0NtX1MyTGJNNGtYaW5RdzNYdlg3N0xUbtIB2gFBVV95cUxQdlhIUzkxc1gxSW1TUFhhTVlwREFLRkcxM19NbnlzZXE4RXZyQmgzenFSTjktYm9lTUxwTHlkcW8xaGRKU2QtTGFFcXBNMVlGeHRVM0FaTmwwcnZfUDVYLXQ2TGxnYzJmTzJzd3lkRFlxUzNsMV82QVlHbDY4Um5OZ3liV3dpNWFVanBndHNMVjRManVPbXo0eTdidjJudE9ZOVJGT1NzSlhWelN3VmR0NDNhbEdfUzlzYTd5MndaczJseElOUGhpWkE1SHNQNGJ6X3NfTDZnbmZaZw?oc=5",
-      "tickers": [],
-      "at": "2026-11-07T15:59:01.266Z"
-    },
-    {
-      "key": "00068b83e25eacd3",
-      "score": 6,
-      "title": "Why ACM Research Stock Is Up 13.5% And What's Next After Guidance Raise - Simply Wall St",
-      "domain": "simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQVNZNk9uQUpTUm1EUi1Iblg3eDY5Mk9nbUxpNHdxVTNGemFjYkdnRWhkRzNublJvbktTbktULUs1QjJRTko3aldYbHl3SGlpVENJdWtjdzZvXzhCa2M0cW1GX3BsZ3o0SGxoSzJQbTRxYXA2Qmk1ckw3Vmk1MHBHZTh0clpMUllscGN2dlhOeGJJVGxLZmtLQVdHOTdmNkxtRElVX0hCb3ZDN003SXBHbjBLQzZnMDQ2eXpWRGpZMmNXczRkMDhRQkZlbnk5Q0VDNUg40gHYAUFVX3lxTE42aGlYYWg0dDZIOWtoMWw1M2RwWS13dngzSTUzem01aXFBVTZ4cmRwamVEcENLQ2hQRnpGdURGUW9XTHN0V2Nhc2dSVzV6M1lqY3ptTFdhQ3lpaWJxZlFac2cxQV9IY0ktM1BNTFYtekxkX2N0LVRUbGFOYUtsRkZMWEloRjVfd05saU95SXVmd08xcWJZakFtcjY4NmxwSlc2YkJIZGFqcWxWMGxvTERsaWRPSjJaOGJWRG9BU21BWEt0VHlyUGFSUjBocU1FMWtvUlRLODdUcQ?oc=5",
-      "tickers": [],
-      "at": "2026-11-07T15:59:01.266Z"
-    },
     {
       "key": "1fe838f8ff5e8803",
       "score": 6,
@@ -11992,6 +11936,80 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeDh5MHBtcGtTbFdkcVR1Z3RpTlVQbS12S0ROVWZfNEJYQWYtZVRpN3VZYU5KcEVaWkg4cmZFZnN4NWFJejJmbldIV014NXcyMVB0R2FfQ0hMRGI3RnBycTFLUk1iUEN0dHhZd2NueDNsX2hLOHVNX2o3QUpTUmpaM0xiM09oUkVjZVNyVEQ3dGE4VElUOTVZeTlGQ0pFaXFy?oc=5",
       "tickers": [],
       "at": "2026-11-07T22:44:55.105Z"
+    },
+    {
+      "key": "0583df33b22865ff",
+      "score": 8,
+      "title": "Final tariff relief decision after review - The Express Tribune",
+      "domain": "tribune.com.pk",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNX29VUnI5QU5kX29CcThGZEhDSmZ3UGNicC1MVEEzR211RkV5NkdEWlNNZ2FzV0RnckI0dzJVQW9JYTZKMGhGT0R1VE84TzJNOVNBRDZDZ1Jha2JYMFNSNVVyVThFcklBZWxSdW44OUdqMVpYZndkOUdIbGtULXhLdnd6Z1fSAYwBQVVfeXFMTmtnbU1IeHBKNXpkWnNxelg2N1hsajFfYk40bDVrZVQzNTRxSkh2NlhSY3JCVDN2Rk00dVVnbnBXRWZfRmZtTy0zZC05eGZ2WlZNWHhGX0ZTMk1RVkdxWkd1NkJOeEJJcldiM1N1bTNVQnpFRFhXRl92QU1OSmZ5OTJUalhPS3RNeE9BVEs?oc=5",
+      "tickers": [],
+      "at": "2026-11-07T23:17:03.062Z"
+    },
+    {
+      "key": "20700cfb357330cb",
+      "score": 8,
+      "title": "Korea’s pension fund was a market backstop during the tariff shock. Not this time. - Korea JoongAng Daily",
+      "domain": "koreajoongangdaily.com",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZlpSWlV0X0tSUnRLV1FHUHdTMDFnMERrek1NMHFrYU9QdDRvc2RWVUJNdG84a20yRElneFVPYmM0SUlmN3N4TkxTQWx1aEwtUnE0cHpZcnM0bzFBSGp6dlVqVHJ0bFZ5Smh0dUxlakRTOWNTaUs0Szl0Yy1MdXh5cWdMSzZDRGFMS0diUjJRdngyTzZRZW1vMXBNeVJ6d0hzdTFkQ0hkRTM3aThXa2wyMEJlZmdzVWtYcktraG14ZVRuQlVVc19tM2dQVkk?oc=5",
+      "tickers": [],
+      "at": "2026-11-07T23:17:03.062Z"
+    },
+    {
+      "key": "15da3eab2127216f",
+      "score": 6,
+      "title": "How the stock market is reacting to midterm victories - NBC News",
+      "domain": "nbcnews.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdXhSOXEyZC1xR1ZSRFU5eWt5RndOZFlqOWlPUWk5aUNtclBmVDVEQlRuWU12Y3JvUy1PbTl6LUIzOVV5NTJPeVlDN01Jb1k0YmQtWG5FdFpidDdhUWxmWGNqYk1ZSHZmZFpvcTVZaG9EdHB3TlVvVm1OeGdKS3BxRzFUdXhTM1lpQUl1clZLenlHZExrZVNBbnhCakMxVG9BdW9yUzhn?oc=5",
+      "tickers": [],
+      "at": "2026-11-07T23:17:03.062Z"
+    },
+    {
+      "key": "747ba59a22ab1db6",
+      "score": 6,
+      "title": "World Cup 2026: Argentina take fresh action over FIFA sanctions - Blueprint Newspapers",
+      "domain": "blueprint.ng",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZ1g1ZURoUHBjWUdEOW1KVWRReTFCWElSUE95a3VIcTR0cWIwS3o3SFNTZ2dqSWlzNkJuR2Jna1N6RVduTEVyS09fei1RTVRZMWNuSUx2OGZhWWRnRjBhU3J4T1NlZ2lzRnBvM2pRejFVVU0xQ3BCeGFLNXM0aTZQN21hY1RpY3J5VnNiNQ?oc=5",
+      "tickers": [],
+      "at": "2026-11-07T23:17:03.062Z"
+    },
+    {
+      "key": "3d81f257d1228e17",
+      "score": 6,
+      "title": "Fort Worth ISD families weigh school choices amid state takeover, new leadership - NBC 5 Dallas-Fort Worth",
+      "domain": "nbcdfw.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUUFMbnhVWERFRGpYNVhJTUdfOVhHN1M0VXNERF84d1RzSWpmWEVVb0FZaDZrS3NrblE3QUhxZjlyVjBYUnJPY29pLVRVdG9jTjFrWWZBc2JSdnBjLWl2RUxqZW9ZMmV1OHFITVNWNXNQeTZjSDdJUWpjdW5hZkpYNVNZSFdRMEpxLTNZSU9mcXNzaXppalNST21JTmVJYjI5M1phbkFhaXl6YUE4V0HSAbYBQVVfeXFMTnNXRms5WG1PeFhKYUFkMWhmaG5keEo5LVM5aDR1ZndVUXNPdDRXckU1YUNXVW1YYUVKX25LNUdYS3RJcGprWU1MZjljQk13MTB3c3BnQy05amctXzFhcko0akNKakM4bng0SkZNQ0Q1ZUc4TzR5TFR5ZjNxeWtmaU1jSy1sQU5tcnR5NmtJc1RLaEJSSEh5QWV2SnVraDA2aGlTbGoxVFN6U01jT2FtVWVUTTZWVEE?oc=5",
+      "tickers": [],
+      "at": "2026-11-07T23:17:03.062Z"
+    },
+    {
+      "key": "2ea05b4b3b119c10",
+      "score": 6,
+      "title": "Does FDA Device Approval Change The Bull Case For Abbott (ABT)? - Yahoo Finance",
+      "domain": "finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRWlHVldMOFVIOHNyR21EVVFZajFoZzJDVHdQWkZySG9SRTdhaDZ1eUtDa1hCY3pheGhjQ1RiNXVLNDN4aVk1LUhBbHJwTml1SDFpemF1Qm9KcWR6R2UwWWd6TUVCemRUSU9PVERyZXU4WWZPQ09INGNZVGxlR1lJdXNKU1hYQklEMUx1ZXRrQW1PQ0toVHZj?oc=5",
+      "tickers": [],
+      "at": "2026-11-07T23:17:03.062Z"
+    },
+    {
+      "key": "592fd642a8ff0d7b",
+      "score": 6,
+      "title": "FDA Registration and Listing for Distributors - CASRAI",
+      "domain": "casrai.org",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMF9ieWlaZmc2SzJqb2dTOXdRWWQtRDF6MVprM21wem5aeWgyb2FVNlRGRVVwUmxCNGIwRHRYemxYZ1BPNk83XzdvWEMycExoN0JHU0RyZGlDLUZES0M2TlFjZ2ZRbElKSjl1djBCUHliT1pPQVdFUDlSaDdxZlQ3SUdCZkl4ajZVcVVER01fZ21UZlRBekFZ?oc=5",
+      "tickers": [],
+      "at": "2026-11-07T23:17:03.062Z"
+    },
+    {
+      "key": "ee951dab6b81aad9",
+      "score": 5,
+      "title": "Amazon's (NASDAQ: AMZN) $578 Billion Backlog Anchors Bull Case As AI Capex Climbs To $220 Billion - Foreign Policy Journal",
+      "domain": "foreignpolicyjournal.com",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQaWlKdkRsNmgwbmsxajdnNjVzV1Z6dGRUTEFVZlNqUlNmMTBrZWxBbm9LTkV4QklHMGdFMHdpUnZILVEwZ1NSTUpxT0NUTnVvemxPSUR5R0ZfTV9RcE90UFROT2VldURvLS1DcWUtaElXUnMzY0x1NWYzVVZxX2ZaSUtUejUwd3E5RHl4amw0RnlPcXhmQ252cmhfYUV6QTVCR2NtdDYyUlJkRTltMElVTjlZQkNwUTk2bGJWVFFPeVc5bXNKd0lHZkd6bzcwSVdZeXhJaFVQOA?oc=5",
+      "tickers": [
+        "AMZN"
+      ],
+      "at": "2026-11-07T23:17:03.062Z"
     }
   ],
   "lastQuotes": [
@@ -12536,5 +12554,5 @@
       "ts": 1793998801
     }
   ],
-  "lastRun": "2026-11-07T22:44:55.105Z"
+  "lastRun": "2026-11-07T23:17:03.062Z"
 }
