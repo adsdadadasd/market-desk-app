@@ -17,10 +17,10 @@ import { existsSync, mkdirSync, readFileSync, writeFileSync, appendFileSync, sta
 import { createHash } from 'node:crypto';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
-import { sendNtfy } from './notify.mjs';
+import { sendNtfy, ntfyTopic } from './notify.mjs';
 import { zhAlert } from './zh.mjs';
 
-const NTFY_TOPIC = process.env.NTFY_TOPIC || '';
+const NTFY_TOPIC = process.env.NTFY_TOPIC || ntfyTopic().topic || '';
 
 async function recentPushedKeys() {
   if (!NTFY_TOPIC) return new Set();
