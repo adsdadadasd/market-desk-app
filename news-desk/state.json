@@ -9467,7 +9467,9 @@
     "292225768868c4bc": "2026-11-07T10:28:29.477Z",
     "d14fb04c3241a224": "2026-11-07T10:31:29.563Z",
     "cdb89a6972777d4b": "2026-11-07T10:34:29.879Z",
-    "4cbd35dc9c864ffb": "2026-11-07T10:34:29.879Z"
+    "4cbd35dc9c864ffb": "2026-11-07T10:34:29.879Z",
+    "25cec04e2e3472a3": "2026-11-07T10:36:58.505Z",
+    "974e281f452f0f6e": "2026-11-07T10:36:58.505Z"
   },
   "alertsByDay": {
     "2026-11-02": 3,
@@ -9632,24 +9634,6 @@
     }
   },
   "pending": [
-    {
-      "key": "983d49867e7ebca5",
-      "score": 6,
-      "title": "Mammoth Recall Gregor Biber, Place Kailer Yamamoto On IR - Pro Hockey Rumors",
-      "domain": "prohockeyrumors.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdDlNTFJvcFZPelNWZnBrbkZBR3NHdWFIRF9LbXZIQXozcHdKWnBYaGlCV0laV3ItRXFNVlY0dFd4Vkk3b3d3M2tSM245ckM5bGpvUWVmbDBMZFBaa0VIRGJ5VzYyWS0yVmQzN3ZVT3RISUdXd3FCbGZNUHUzTnd3eFJvcktpTFp5Z29MTmNMb0dQVkV4ajZLVHJuaTBkZXhFM0E?oc=5",
-      "tickers": [],
-      "at": "2026-11-07T04:35:18.944Z"
-    },
-    {
-      "key": "a7bdc210fc05f252",
-      "score": 6,
-      "title": "Honeywell Aerospace, Inc. Notice of November 23, 2026 Application Deadline for Class Action Lawsuit - Contact Lewis Kahn, Esq. at Kahn Swick & Foti, LLC, Before Application Deadline - PR Newswire",
-      "domain": "prnewswire.com",
-      "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxOTWFNSm1lV1ZBTldTc2FuWmFlWkRUU3FzM1duT2VSUDZFSk9NUWprZUZVNkRtMmlZSzRXWTdsZEhjamVGLUhrVE41Vk9FcWl3cnQtZ2hnNmctaXZmWnAtTUJubVpaWko0RGowWUJBV3dsV1Q4ZENaNTBzOW1PNHN3eXpsa2pEZ2tNREJ1bVpGNC1NTDJTMksyY3NpdzBTX3ZhaUgyNzZfZW03a0FUN1hiQWZtQ2U0QlZnV2ZjRXMtNDBySmdBMTFXYmxSQmxpYUMtZnFsdmpLQWpCeWZ5TW90Q0xqejNkaUg0WEZQVnNUNlRLY3ZGN2M2TUd4SkoxVVh3WE1zTUlQdWFNMm5FWlFqdE9BSFIxVHpwejM5M2ViODMxTnQta2JoQ0tjWEhjajFTRU9ISzhQeXFSZmQxd0l4UzJRY25sVVlCNms1aWh3?oc=5",
-      "tickers": [],
-      "at": "2026-11-07T04:35:18.944Z"
-    },
     {
       "key": "ac2465b73ebcf3c2",
       "score": 6,
@@ -11465,8 +11449,567 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZ2JWelZrN3ByWmtoam1LbWVLNzJVWVZVRDBtbElJcGFKZ1gyYm5RYjJMMDBrQk5TZ1dUUk1iYU5ZRE9rV2JzazRYZHZPRnNNMFl5NjZYRk4yNEhJb2dPQTZPUDE4emdMQnZzT2FlcGpWRGRuaDBJT3N3TDFILWVmOGZ4aUwzaW5kQjlselRJTE1OLTFzdlQyVzdncTB6WkRh?oc=5",
       "tickers": [],
       "at": "2026-11-07T10:34:29.879Z"
+    },
+    {
+      "key": "25cec04e2e3472a3",
+      "score": 7,
+      "title": "Workiva Stock Q3 Revenue Grows But Guidance Softens - Yahoo Finance Singapore",
+      "domain": "sg.finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeWhvdm9WSUxJeUFDVHVyTW42WGV0SFkxbUd0Sm9mS2pHaGlXVEdIWHFMSEVyal9DazduWl9JQVN0TzhWZUtFcGg5WERnZUpjWWdSaURSWDQxZW9GUFBFcU9mSEdyTTlydFdKTUZObENfbEJrR2QwekxpZVpxRnJFUWRzbmVtQQ?oc=5",
+      "tickers": [],
+      "at": "2026-11-07T10:36:58.505Z"
+    },
+    {
+      "key": "974e281f452f0f6e",
+      "score": 6,
+      "title": "Vauxhall urgent safety recall tells motorists 'stop driving' — full list of cars - Glasgow Live",
+      "domain": "glasgowlive.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYnY1M08tUUY1VWZWcnNFaGtBQ2c3NERobEliV1lULVc0b2ZKUHp1ZXlIVUpCaV91Q1BwaVExakM2REJ0MjVaMWhpSzZKRElGelFtN2Q2RnV4ekZvR3ZJeU50Wk9pcng0TjdLX25ZOFkwRkF3TUZQM05oZ0lOQUdlS0RIR3ZQTFJtTkIxSVdvZnNuNDV0d2g00gGcAUFVX3lxTE5qRlE2b1JEZFNuY1ZhYVVOcHZQNTVDU0x2Ylp4Sm1mVC1fSmRUZzdHdjJOa0d5ZEZDVVRNSHhRaFpoSXJEaE1jYVNENmpPY0lvYzBxVTNpV3o0b2dMVUhpYWljNWtEdlR6M2JjM0FMVmpJb2RfM2hqOGN4LXhTRlRJQnE3UnVQWFp1MXcxazJBOUdlcmllZENGRlA3RA?oc=5",
+      "tickers": [],
+      "at": "2026-11-07T10:36:58.505Z"
     }
   ],
-  "lastQuotes": [],
-  "lastRun": "2026-11-07T10:36:29.154Z"
+  "lastQuotes": [
+    {
+      "ticker": "NVDA",
+      "price": 186.64,
+      "prevClose": 186.64,
+      "chg1d": 0,
+      "chg5d": -7.63,
+      "currency": "USD",
+      "ts": 1793998800
+    },
+    {
+      "ticker": "MSFT",
+      "price": 530.61,
+      "prevClose": 530.61,
+      "chg1d": 0,
+      "chg5d": 4.63,
+      "currency": "USD",
+      "ts": 1793998801
+    },
+    {
+      "ticker": "GOOGL",
+      "price": 284.78,
+      "prevClose": 284.78,
+      "chg1d": 0,
+      "chg5d": 2.08,
+      "currency": "USD",
+      "ts": 1793998801
+    },
+    {
+      "ticker": "AMZN",
+      "price": 259.3,
+      "prevClose": 259.3,
+      "chg1d": 0,
+      "chg5d": 5.57,
+      "currency": "USD",
+      "ts": 1793998801
+    },
+    {
+      "ticker": "AVGO",
+      "price": 293.69,
+      "prevClose": 293.69,
+      "chg1d": 0,
+      "chg5d": -8.86,
+      "currency": "USD",
+      "ts": 1793998801
+    },
+    {
+      "ticker": "LLY",
+      "price": 1354,
+      "prevClose": 1354,
+      "chg1d": 0,
+      "chg5d": -4.04,
+      "currency": "USD",
+      "ts": 1793998921
+    },
+    {
+      "ticker": "JPM",
+      "price": 334.49,
+      "prevClose": 334.49,
+      "chg1d": 0,
+      "chg5d": -1.79,
+      "currency": "USD",
+      "ts": 1793998802
+    },
+    {
+      "ticker": "COST",
+      "price": 1053.56,
+      "prevClose": 1053.56,
+      "chg1d": 0,
+      "chg5d": 1.25,
+      "currency": "USD",
+      "ts": 1793998801
+    },
+    {
+      "ticker": "XOM",
+      "price": 165.87,
+      "prevClose": 165.87,
+      "chg1d": 0,
+      "chg5d": -7.68,
+      "currency": "USD",
+      "ts": 1793998889
+    },
+    {
+      "ticker": "TSM",
+      "price": 375.44,
+      "prevClose": 375.44,
+      "chg1d": 0,
+      "chg5d": -5.82,
+      "currency": "USD",
+      "ts": 1793998802
+    },
+    {
+      "ticker": "UBER",
+      "price": 68.59,
+      "prevClose": 68.59,
+      "chg1d": 0,
+      "chg5d": 2.82,
+      "currency": "USD",
+      "ts": 1793998803
+    },
+    {
+      "ticker": "PLTR",
+      "price": 160.38,
+      "prevClose": 160.38,
+      "chg1d": 0,
+      "chg5d": -10.07,
+      "currency": "USD",
+      "ts": 1793998800
+    },
+    {
+      "ticker": "AMD",
+      "price": 449.04,
+      "prevClose": 449.04,
+      "chg1d": 0,
+      "chg5d": -3.81,
+      "currency": "USD",
+      "ts": 1793998801
+    },
+    {
+      "ticker": "ORCL",
+      "price": 116.1,
+      "prevClose": 116.1,
+      "chg1d": 0,
+      "chg5d": -2.62,
+      "currency": "USD",
+      "ts": 1793998995
+    },
+    {
+      "ticker": "V",
+      "price": 422.65,
+      "prevClose": 422.65,
+      "chg1d": 0,
+      "chg5d": -0.67,
+      "currency": "USD",
+      "ts": 1793998802
+    },
+    {
+      "ticker": "UNH",
+      "price": 394.15,
+      "prevClose": 394.15,
+      "chg1d": 0,
+      "chg5d": -1.57,
+      "currency": "USD",
+      "ts": 1793998802
+    },
+    {
+      "ticker": "CAT",
+      "price": 558.63,
+      "prevClose": 558.63,
+      "chg1d": 0,
+      "chg5d": -8.96,
+      "currency": "USD",
+      "ts": 1793998803
+    },
+    {
+      "ticker": "WMT",
+      "price": 125.52,
+      "prevClose": 125.52,
+      "chg1d": 0,
+      "chg5d": -1.7,
+      "currency": "USD",
+      "ts": 1793998800
+    },
+    {
+      "ticker": "NEE",
+      "price": 86.95,
+      "prevClose": 86.95,
+      "chg1d": 0,
+      "chg5d": 2.26,
+      "currency": "USD",
+      "ts": 1793998803
+    },
+    {
+      "ticker": "LIN",
+      "price": 515.25,
+      "prevClose": 515.25,
+      "chg1d": 0,
+      "chg5d": -0.86,
+      "currency": "USD",
+      "ts": 1793998801
+    },
+    {
+      "ticker": "PFE",
+      "price": 29.39,
+      "prevClose": 29.39,
+      "chg1d": 0,
+      "chg5d": -4.17,
+      "currency": "USD",
+      "ts": 1793998892
+    },
+    {
+      "ticker": "KMB",
+      "price": 108.43,
+      "prevClose": 108.43,
+      "chg1d": 0,
+      "chg5d": 0.17,
+      "currency": "USD",
+      "ts": 1793998801
+    },
+    {
+      "ticker": "SHOP",
+      "price": 148.91,
+      "prevClose": 148.91,
+      "chg1d": 0,
+      "chg5d": -4.68,
+      "currency": "USD",
+      "ts": 1793998801
+    },
+    {
+      "ticker": "MS",
+      "price": 181.44,
+      "prevClose": 181.44,
+      "chg1d": 0,
+      "chg5d": -2.31,
+      "currency": "USD",
+      "ts": 1793998946
+    },
+    {
+      "ticker": "COMP",
+      "price": 10.21,
+      "prevClose": 10.21,
+      "chg1d": 0,
+      "chg5d": 8.39,
+      "currency": "USD",
+      "ts": 1793998802
+    },
+    {
+      "ticker": "WAT",
+      "price": 457.6,
+      "prevClose": 457.6,
+      "chg1d": 0,
+      "chg5d": 1.8,
+      "currency": "USD",
+      "ts": 1793998802
+    },
+    {
+      "ticker": "DT",
+      "price": 43.44,
+      "prevClose": 43.44,
+      "chg1d": 0,
+      "chg5d": -21.2,
+      "currency": "USD",
+      "ts": 1793998972
+    },
+    {
+      "ticker": "BPOP",
+      "price": 156.52,
+      "prevClose": 156.52,
+      "chg1d": 0,
+      "chg5d": -1.53,
+      "currency": "USD",
+      "ts": 1793998801
+    },
+    {
+      "ticker": "CVI",
+      "price": 38.13,
+      "prevClose": 38.13,
+      "chg1d": 0,
+      "chg5d": -31.81,
+      "currency": "USD",
+      "ts": 1793998802
+    },
+    {
+      "ticker": "SU",
+      "price": 68.74,
+      "prevClose": 68.74,
+      "chg1d": 0,
+      "chg5d": -8.86,
+      "currency": "USD",
+      "ts": 1793998802
+    },
+    {
+      "ticker": "O",
+      "price": 59.04,
+      "prevClose": 59.04,
+      "chg1d": 0,
+      "chg5d": 2.54,
+      "currency": "USD",
+      "ts": 1793998802
+    },
+    {
+      "ticker": "FISV",
+      "price": 62.88,
+      "prevClose": 62.88,
+      "chg1d": 0,
+      "chg5d": 21.09,
+      "currency": "USD",
+      "ts": 1793998801
+    },
+    {
+      "ticker": "RVTY",
+      "price": 155.11,
+      "prevClose": 155.11,
+      "chg1d": 0,
+      "chg5d": 2.32,
+      "currency": "USD",
+      "ts": 1793998802
+    },
+    {
+      "ticker": "NFLX",
+      "price": 63.41,
+      "prevClose": 63.41,
+      "chg1d": 0,
+      "chg5d": 1.72,
+      "currency": "USD",
+      "ts": 1793998801
+    },
+    {
+      "ticker": "ANET",
+      "price": 170.8,
+      "prevClose": 170.8,
+      "chg1d": 0,
+      "chg5d": 4.06,
+      "currency": "USD",
+      "ts": 1793998803
+    },
+    {
+      "ticker": "DASH",
+      "price": 179.67,
+      "prevClose": 179.67,
+      "chg1d": 0,
+      "chg5d": -5.47,
+      "currency": "USD",
+      "ts": 1793998800
+    },
+    {
+      "ticker": "FANG",
+      "price": 178.96,
+      "prevClose": 178.96,
+      "chg1d": 0,
+      "chg5d": -10.4,
+      "currency": "USD",
+      "ts": 1793998801
+    },
+    {
+      "ticker": "AME",
+      "price": 228.67,
+      "prevClose": 228.67,
+      "chg1d": 0,
+      "chg5d": -5.47,
+      "currency": "USD",
+      "ts": 1793998802
+    },
+    {
+      "ticker": "MSTR",
+      "price": 128.93,
+      "prevClose": 128.93,
+      "chg1d": 0,
+      "chg5d": -1.4,
+      "currency": "USD",
+      "ts": 1793998801
+    },
+    {
+      "ticker": "KDP",
+      "price": 36.63,
+      "prevClose": 36.63,
+      "chg1d": 0,
+      "chg5d": -0.52,
+      "currency": "USD",
+      "ts": 1793998801
+    },
+    {
+      "ticker": "DELL",
+      "price": 328.53,
+      "prevClose": 328.53,
+      "chg1d": 0,
+      "chg5d": -16.36,
+      "currency": "USD",
+      "ts": 1793998969
+    },
+    {
+      "ticker": "ASX",
+      "price": 31.63,
+      "prevClose": 31.63,
+      "chg1d": 0,
+      "chg5d": -19.25,
+      "currency": "USD",
+      "ts": 1793998803
+    },
+    {
+      "ticker": "SN",
+      "price": 222.95,
+      "prevClose": 222.95,
+      "chg1d": 0,
+      "chg5d": 4.56,
+      "currency": "USD",
+      "ts": 1793998802
+    },
+    {
+      "ticker": "STX",
+      "price": 460.99,
+      "prevClose": 460.99,
+      "chg1d": 0,
+      "chg5d": -22.36,
+      "currency": "USD",
+      "ts": 1793998800
+    },
+    {
+      "ticker": "WDC",
+      "price": 263.78,
+      "prevClose": 263.78,
+      "chg1d": 0,
+      "chg5d": -22.09,
+      "currency": "USD",
+      "ts": 1793998800
+    },
+    {
+      "ticker": "HPE",
+      "price": 44.77,
+      "prevClose": 44.77,
+      "chg1d": 0,
+      "chg5d": -12.54,
+      "currency": "USD",
+      "ts": 1793998987
+    },
+    {
+      "ticker": "MRVL",
+      "price": 141.2,
+      "prevClose": 141.2,
+      "chg1d": 0,
+      "chg5d": -17.62,
+      "currency": "USD",
+      "ts": 1793998801
+    },
+    {
+      "ticker": "DOCN",
+      "price": 72.48,
+      "prevClose": 72.48,
+      "chg1d": 0,
+      "chg5d": -19.28,
+      "currency": "USD",
+      "ts": 1793998802
+    },
+    {
+      "ticker": "UMC",
+      "price": 13.85,
+      "prevClose": 13.85,
+      "chg1d": 0,
+      "chg5d": -15.5,
+      "currency": "USD",
+      "ts": 1793998802
+    },
+    {
+      "ticker": "KYMR",
+      "price": 131.73,
+      "prevClose": 131.73,
+      "chg1d": 0,
+      "chg5d": 3.31,
+      "currency": "USD",
+      "ts": 1793998801
+    },
+    {
+      "ticker": "NTRA",
+      "price": 310.67,
+      "prevClose": 310.67,
+      "chg1d": 0,
+      "chg5d": -18.01,
+      "currency": "USD",
+      "ts": 1793998801
+    },
+    {
+      "ticker": "TEVA",
+      "price": 42.61,
+      "prevClose": 42.61,
+      "chg1d": 0,
+      "chg5d": 4.69,
+      "currency": "USD",
+      "ts": 1793998802
+    },
+    {
+      "ticker": "CRL",
+      "price": 337.52,
+      "prevClose": 337.52,
+      "chg1d": 0,
+      "chg5d": -0.3,
+      "currency": "USD",
+      "ts": 1793998803
+    },
+    {
+      "ticker": "VSAT",
+      "price": 63.95,
+      "prevClose": 63.95,
+      "chg1d": 0,
+      "chg5d": -13.71,
+      "currency": "USD",
+      "ts": 1793998800
+    },
+    {
+      "ticker": "BTSG",
+      "price": 67.15,
+      "prevClose": 67.15,
+      "chg1d": 0,
+      "chg5d": 1.34,
+      "currency": "USD",
+      "ts": 1793998801
+    },
+    {
+      "ticker": "CNC",
+      "price": 69.74,
+      "prevClose": 69.74,
+      "chg1d": 0,
+      "chg5d": 4.82,
+      "currency": "USD",
+      "ts": 1793999015
+    },
+    {
+      "ticker": "HALO",
+      "price": 103.63,
+      "prevClose": 103.63,
+      "chg1d": 0,
+      "chg5d": -19.64,
+      "currency": "USD",
+      "ts": 1793998801
+    },
+    {
+      "ticker": "TSEM",
+      "price": 137.34,
+      "prevClose": 137.34,
+      "chg1d": 0,
+      "chg5d": -11.58,
+      "currency": "USD",
+      "ts": 1793998800
+    },
+    {
+      "ticker": "BTSGU",
+      "price": 212.1,
+      "prevClose": 212.1,
+      "chg1d": 0,
+      "chg5d": -2.97,
+      "currency": "USD",
+      "ts": 1793998800
+    },
+    {
+      "ticker": "ILMN",
+      "price": 213.13,
+      "prevClose": 213.13,
+      "chg1d": 0,
+      "chg5d": -5.94,
+      "currency": "USD",
+      "ts": 1793998801
+    }
+  ],
+  "lastRun": "2026-11-07T10:36:58.505Z"
 }
