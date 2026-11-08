@@ -10045,7 +10045,21 @@
     "378b7268b10c9823": "2026-11-07T23:51:42.174Z",
     "388a2e9dc1a93277": "2026-11-07T23:51:42.174Z",
     "89cf916a2c9d5a59": "2026-11-07T23:51:42.174Z",
-    "1a7e8a6b9f00a9b1": "2026-11-07T23:51:42.174Z"
+    "1a7e8a6b9f00a9b1": "2026-11-07T23:51:42.174Z",
+    "eddd53bde4114057": "2026-11-08T00:23:28.829Z",
+    "a3303349ac005618": "2026-11-08T00:23:28.829Z",
+    "4fb2a0633bf2648b": "2026-11-08T00:23:28.829Z",
+    "5cc11ec0e2cec4bf": "2026-11-08T00:23:28.829Z",
+    "289edc46a0753cc1": "2026-11-08T00:23:28.829Z",
+    "29d463171504166f": "2026-11-08T00:23:28.829Z",
+    "49785ffd2c7f36cd": "2026-11-08T00:23:28.829Z",
+    "32a68207677fa72a": "2026-11-08T00:23:28.829Z",
+    "ce624f0767c822bc": "2026-11-08T00:23:28.829Z",
+    "1bf2fa3092bfbbc3": "2026-11-08T00:23:28.829Z",
+    "44997576a57e571c": "2026-11-08T00:23:28.829Z",
+    "4c1e2a27a4ddd8a7": "2026-11-08T00:23:28.829Z",
+    "41b6ab09e7e2b15f": "2026-11-08T00:23:28.829Z",
+    "0578fb436919b716": "2026-11-08T00:23:28.829Z"
   },
   "alertsByDay": {
     "2026-11-02": 3,
@@ -10210,96 +10224,6 @@
     }
   },
   "pending": [
-    {
-      "key": "e53363a5fc3634b5",
-      "score": 6,
-      "title": "AppLovin Bottoms And Rebounds: Gaming Ad Recovery Meets Mixed Q4 2026 Guidance - Seeking Alpha",
-      "domain": "seekingalpha.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbENzalhXeXk3N2NqNEJ3RDdaMjRVRnJmVEg3SXE2NUxNTVVxbjBnWUoxRWNuRVY5bHBmREYzdE1YcDgwb3VhX19OeUxVWHJWMHphUE4zeEhBaEwwME5vX213VVN1LXgxdy03QzYyYkFrTWlKSnpzQjZtUHJKb2MwNm5jc29pc0kxSmJkMjhreGJZRmZkQVJfQkJiUFhfeUl1aFFuM2tjbk1ES0s2SlZKODUyWHRwUjA?oc=5",
-      "tickers": [],
-      "at": "2026-11-07T16:36:00.350Z"
-    },
-    {
-      "key": "625481d8cabd9c79",
-      "score": 6,
-      "title": "Whirlpool (WHR) Loss And Soft Guidance Leave The Value Case Open - Simply Wall St",
-      "domain": "simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNFlyTlBCbDV0eVBQMHJwVlcyZDh2UjZNTUZmY3pxck5sd215eThGZ0VBbnNTTmtBYUtacGp2TFJrUnZRVHNhVGY1eDdGV080RzY5V2F3OXNSdUtPUDdHb3EwUHdpSHBqWnhFRE9CendGejhScjl3Z0ZXLWRxUk05dFBfWm85ME8yd2tZY2IwOURHWENTc0dvVWZFUlkwVS1QTElTcmtVenRseTc4UFUzcFFYazJ4ZGhaUWdsdVljUFZfWnU0dUVabVdoSkw3SEnSAdQBQVVfeXFMUHBES0FQNXRBTEpEZTFDbTJndC1PUnNFaENmWGZNUVI5dllfX0NrdkRGRXNrX2lMbUZ2MjV6MWlVeU9Eb1BvaTdLa242TC1zMXFSc2lmQ1JBY0xWTUp2Um9Obk1TdTJGRWR0OHRVZThkdXJXd2lLM1ZmLUlwaGY4SExHcllqUXZOa1Noa0tXZW9tUzMzLXVxWjZ0dGZUZ3RfNTdsTHZQdkFOOVg3UTZkZE9acEJ1ZFBXbW92U2liZlZld3FXVE5KcmMzWWJyNTV2MzBQMHo?oc=5",
-      "tickers": [],
-      "at": "2026-11-07T16:36:00.350Z"
-    },
-    {
-      "key": "fa627b3a58099a32",
-      "score": 6,
-      "title": "Motorola Solutions (MSI) Lifts Guidance On Strong Q3 As Valuation Questions Linger - Simply Wall St",
-      "domain": "simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZWFGY19iZG05cFh1eFBEbF85SUZHQzFIN1E1SmgxdWxqU3BvVHFzSkVIWHR4dXhFcVNsdE1ab3RnZnFEbDZ5S09Ea2xEZ1hoNmhzb2RrWkVMRlVJclhZNTZDTmNSdVQ1UUdfeldoODJxYzFNbTRucldBY3JNUWNMa1hpeThYTXlVcmRRd2R0T0FmdzFHeEJzOUJnZnh5bUhfU0tmVXRKVS1GWjhUeUM0MDV4ei11RG9nQ2pJRUQ3WC0xOENNN1NEbldB0gHPAUFVX3lxTE9oNGRBdjJubkZGak5KUjFUeWRQeEl1SW1rV2ZYMUlFaDNHaTR5bUhyU0VabUJOOUpab0dLYXA4clBSV1BUZTRrYzl6WHdKcnBnRTJUSmttNm5xck4tazVhT3lsVkxpUURfZmVvLUxKZHJuWml6eF9KakRkMDAxQnBFeEVPNlB6aUZ4OEZweEVpdm9ja0ZGeEJ3WEdYZUZCT3BncERHOTVOSUhObkt2SmdlQVJCSnZxdlJZbzJxZm5NVS03d21Sc253bGp2UVdFSQ?oc=5",
-      "tickers": [],
-      "at": "2026-11-07T16:36:00.350Z"
-    },
-    {
-      "key": "3690e028a701c257",
-      "score": 6,
-      "title": "Parker Hannifin (PH) Stock May Be Fully Priced Despite Raised Guidance - Simply Wall St",
-      "domain": "simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVUNORU5WaG5GcVBmSFIyS1JDWmF5SHdfVFFfMFJaLS1URGx3RnFZUk0zLTNsNEtuMkwyNXZXNi1vYnFQSkFYbDhGUTRxVWQ4WEhYR0QybTJXT1ZQbmxiR0xWQnllVDRHQlZFclBaRHV2RV8zV2pCcHVBdmdJZjB3cTZ5UWVJaW5IbThhWWc0X2Q4eXRwdjJiejFvclZORWwzWU53NzhKR3FEMkdUV0FSTjBIV3JVbURlTHlyQklrdFhZbmdtV0s0V2JPQVA0SEnSAdQBQVVfeXFMTlpxaldJRC10enhWM2drMGtFbHJ0RzJPVTBKcUNKb3hDMThVdXJBTGVhWTRyQ0FibEVrQmlmT3RtckhpTFg1dXdDc2EtY1l3XzFaeUVBSkJXeGxkZGQxTExLcXhSSWdJdlFobERUU0tnREVuUTJrUVlJSzkyV2l1Qlh6emFJRmF4MEFzc0NNTkpDYUJwS2pxZFp5LWxHVGVBYnR5Tnhkb0JYQnFLdnFxOWVGUDRtcG4zTG1EdE93Y1VXOWVHQkNPal81c2o2Y3Z0bFJGN0k?oc=5",
-      "tickers": [],
-      "at": "2026-11-07T16:36:00.350Z"
-    },
-    {
-      "key": "1e94e3d46b4b6e7b",
-      "score": 6,
-      "title": "Is Strong Earnings Guidance Altering The Investment Case For RBC Bearings Stock (RBC)? - Simply Wall St",
-      "domain": "simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdkZvN1ZIak1TUUJ6c0V4OTV6YXlkTUQ4SFlrbEQ2Qm5Oc1Q4MVhMTnFSZm9vNmY5OGtjSzRjMWJOWnFiVlZvVGlpNGl1RWFwV3BHMkJ3NmZSNjBsM0hDSjU0alE0M0xIZWg4ZEpMc2FpWEtmaTA2SFRsOVdwSzZTRmkwWXVxSjR5Mi1DVFlIX3F2SGl0ekNlN3BQWDdsR0hFV0NkMzA3WjRFNFJjV1dMMjlQbnV3RWY3NXgwUGVUeWdYajQ4S1lnWVZrQnFlc04t0gHWAUFVX3lxTE9Ra0J0Z05wWm85cUNGSFNjaFN0UTNYRl9rc1gyT1REWEdhWFppbXY1LV9PWTZwUlFCUGZUSFd4NnhlUkJHelp3MHZkV0JhN0xHbFVRY2F5YU5Pb0pGaDFwOHgzZl84WVo2c3pmR2tXZ2Q1TTNQX2tqclFyM08xaHNlQkhDLTFBM0JlNHZLOUJucFNTb1ctdzhsaW03dGZZZHB6QTRIVGt0RUhXUFViWU5ha2tJNkg1NXhMZ184UWRpUTlwR0pFOHlGaHVleUhlSDA1dkNsclE?oc=5",
-      "tickers": [],
-      "at": "2026-11-07T16:36:00.350Z"
-    },
-    {
-      "key": "e1d16ddecaf9225c",
-      "score": 6,
-      "title": "South Carolina spent $1.5M on a New York City takeover. Here’s how it paid off. - Yahoo",
-      "domain": "yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPT0RjeTdFSVZEbGthZFBUSkxWVFBTdE03TlJNMDZ0MnFNLUFFOFJfQTBrNG9uMEN1S0Utc21WMnpPVHdSdFIzbGlXdkpPMGk4YlZCcG0zYzFjaXFxWF8yb2hOZEdoS1FWZWdjNksyZkpfM3pHZnZ3U2ljTjMzcXpnQlhKX242UQ?oc=5",
-      "tickers": [],
-      "at": "2026-11-07T16:36:00.350Z"
-    },
-    {
-      "key": "a0e2a71832f46c5e",
-      "score": 6,
-      "title": "FDA closes investigation into romaine lettuce Salmonella outbreak that sickened 43 in US - The Cool Down",
-      "domain": "thecooldown.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONDFVbGtfYlQtQUpUWm1GVkxoRXI1WTdEcHhTN2ZaWVVvWkxqYXAyc0s4ejRuX1IwLWl5eXZJUlFsQkRCWDQzSFZ0OW1BWmtMNVdiNTlxOTVtZkhmMVA4T0VlT2JrQTd5ZWJuSExsaU5vVzZPakdlV2ZhNE5DU0gzbGVVbmhweVY0N0tVZVZhVlgySTBz?oc=5",
-      "tickers": [],
-      "at": "2026-11-07T16:36:00.350Z"
-    },
-    {
-      "key": "73d03720fee64166",
-      "score": 6,
-      "title": "Maple Leafs recall Artur Akhtyamov from AHL’s Toronto Marlies - The Leafs Nation",
-      "domain": "theleafsnation.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNM2paRXZTUWhVUC10ZnN0eXpmandPeXhqWXM0WjQ3eTFKX2Q2WlZiUjRrQ2thVFZJYTc3TEVkcG9vVzNFdWpsRjdZSlJvWGpEaG5wS1JVV29pZlpaQlk1WEFVZXBfX1ozLUJGYkZ1NTNEdTY5bE1BT1J1amNQRkktdmFydVNRczBKZ1l4ZkFnOFEyc092aDRxX0hB?oc=5",
-      "tickers": [],
-      "at": "2026-11-07T16:36:00.350Z"
-    },
-    {
-      "key": "4a89ffdd9d761c77",
-      "score": 6,
-      "title": "Told him to wait, but Shami lost hope of Test recall after not being picked for NZ series, says Siddiqui - IANS LIVE",
-      "domain": "ianslive.in",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNFQyNkFlSnVxRXNrZ2h6S3JJcWt2SkhfREppMlFYaHlZOWlPN2VHMkd4Z25BaWxxbzJ3VEZHbVprbFN5LXd0SmpGWjkwcnhDUFNUNmZxY1lGNEFNNk1tYzcxU3JtcEJ5UkwxRlktWk50S1dIS18tNVZBMlNCNEQ2S0VRVDRCSG9zNC1qWTlNV3l1Ylc3cWsxWHFENFpEZzJMcnNZOU45Z3ZJR1p0a1F4SEJaejFCR0laMVVlRUdFeTZYTDRSVER0bTdqd2hlVXgtLVNndQ?oc=5",
-      "tickers": [],
-      "at": "2026-11-07T16:36:00.350Z"
-    },
-    {
-      "key": "73889390cfc55fd2",
-      "score": 6,
-      "title": "Zinedine Zidane explains Marcus Thuram recall after leaving Inter Milan star out twice - Lente Desportiva",
-      "domain": "lentedesportiva.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSmI0THZ4RHZJQ013cy1sU3JTWEVwU3BCRmV5bE9odGFMTDNPT2ZwT3JsMkVmOVd2N0pQVzgxUjN1MEpFc1dweE9YTF9JSzhMX2U3cm04bUxJNkN6S0daWWJqQ0Z5STk4SVQ1RENEUVU2VVFrMmZKeHdyUW03NjlTNnpvaGllREtiYUt2b25ORl81WFVfa1dsZ1FIS0I1RHBaOVlVdU5ZaDcwVnN2MXVLSVVrcVB6QQ?oc=5",
-      "tickers": [],
-      "at": "2026-11-07T16:36:00.350Z"
-    },
     {
       "key": "cc9a1eb6e802e494",
       "score": 5,
@@ -12033,6 +11957,96 @@
       "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQVm4xamk1aFZtNjhFUFpVaHZtS0FtOXZzNEN4dVJQbWVwREZ4VkRVbkpuRHZtMGNqYzNYcGNDUzJFeTZ4MmNTZWtKMWxVOWltdUJ2Y1dhYnB0N2szT0dCazd5a09UZGJlNHJFc3UyTk5LVFRNS1pJRFBKcFJRdy12c2UtYmJUdnZBWExSd1NrQjI3MUFrdGpYOHlJV2dncDFYOS1CLVNzZXlCeGFpX1pvRkVqNjlaTEdQOFhQNDlYOW1QbFJ2cWdaOEp5azJHckVVQkMweXF2c3ZLXy1zNkRyLVBvWHV5VnYzZE96WmJvenFONG15MHdnQUJzMVl6ZGJNWmtMX0lEYUR3Q05seVpWQ19NVE4xeDRDc0JCRWRzdHNTN1pvZVhQbUR3Nk9WY0FqV21wY2RUQ090LWJLa2YyTWxyQS0ySUk?oc=5",
       "tickers": [],
       "at": "2026-11-07T23:51:42.174Z"
+    },
+    {
+      "key": "289edc46a0753cc1",
+      "score": 7,
+      "title": "OFAC’s sanctions search tool checks crypto wallets, but a clean result isn’t a clearance - Cryptonews.net",
+      "domain": "cryptonews.net",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA5SzRoTEhLcU85UjlUY1o5YnZRQUNjbS10ZHNlQlFGWFR0dGRpbnRDNFMzWXFaUXBzMFExOHV1cndMNjBNcmNFOEVNZ19vd2pxVzhfcDM4RXU?oc=5",
+      "tickers": [],
+      "at": "2026-11-08T00:23:28.830Z"
+    },
+    {
+      "key": "eddd53bde4114057",
+      "score": 6,
+      "title": "U.S. October CPI Due Tuesday, December Rate-Hike Bets Approach 80% - BigGo Finance",
+      "domain": "finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1fU1JWUEF2d3BSYld0eTVNNVJBUDdha0g0T21QaHdWR1NhSEhSaWlwRHRvdFhSUHBvQTdEdTUyMjFBZmM2QmgxbWx5VGlTU1BQeW1iSDA0QXRZRHpTMjJKZ29qX1piSnFwQkNjNUpFdGo0di02WUE?oc=5",
+      "tickers": [],
+      "at": "2026-11-08T00:23:28.830Z"
+    },
+    {
+      "key": "32a68207677fa72a",
+      "score": 6,
+      "title": "MDCG Guidance: EU MDR & IVDR Framework - CASRAI",
+      "domain": "casrai.org",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE11SURPN0lpcGpKM19qMW1ZWV8xZ09MYTJvSksyNTNiYXRmdGQ4WkZxY0VpbGJGOGluZE1KOUNXbWZJT2lBRHdZcWpOQzRuSUZf?oc=5",
+      "tickers": [],
+      "at": "2026-11-08T00:23:28.830Z"
+    },
+    {
+      "key": "ce624f0767c822bc",
+      "score": 6,
+      "title": "Is Genius Sports (GENI) Undervalued After Its Earnings Beat And Raised Guidance? - Yahoo Finance",
+      "domain": "finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTzEzM05aTHJCUjR0N2sta3ByXzh5OG1QbEVpVV9jYXJCT3VXcnFEQ0JXTEZ6N1lkLXJWWlJyZ2I1UFBheXN0eHUyOWw4eTBOWlVJMDdRbkNPT1NnTm9vWEV1Vk9rMGctZXMtYzd3d1VFZVpuVXVDT2NWVUNiSVFndmgzUkVmSWg3ejhzbkItVVlRazNmWXdBWTktMjRzbk9RMV9SaGRQUQ?oc=5",
+      "tickers": [],
+      "at": "2026-11-08T00:23:28.830Z"
+    },
+    {
+      "key": "1bf2fa3092bfbbc3",
+      "score": 6,
+      "title": "LSU’s Lane Kiffin Buyout Details in Contract Reveal Cost to Dismiss Coach - Heavy.com",
+      "domain": "heavy.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTGticjEzbmJjVER3dE5yRU5YUW14MGZRU1hIN1ZMZEVqZDdWSVg1X2hTc19lbERBWm11UHVSN1libDViVWlKbkRoZG9keUFJUmgzMFZwM2xfaVNwYnJldXpjSFlnaHJrVUhRamhITU9VMENuVVFNR0l3M1FfQUhyUHZsejFmdTkyVFBzcHdGdXZFa3FFQWExT3M1SmhtX0hORUZQY3dCSUNuYTZjdDBPSW5fSzlNZ3Q4UEFF?oc=5",
+      "tickers": [],
+      "at": "2026-11-08T00:23:28.830Z"
+    },
+    {
+      "key": "44997576a57e571c",
+      "score": 6,
+      "title": "CMRSL expects Rs 1 crore annual CMIL merger savings in FY27 - Multibagg AI",
+      "domain": "multibagg.ai",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPc3ZjQ2VkSTJPbXNHTGlQMkVMb0pPWmE4RXFvYzVNRFNISnRnTHRXZzJxRGtnLWRsaXdUVFp0T2ZrdkRoOHdTbUphS3ZSazlGbGRDSC1TMmpicjRGMGhERk9WbGhlQnhabGIwQmRQbDdEczNIemFsbUxFVFIxeVdueWJTOXQ1aWFCcmwxSUtqbVk3aEhZY1c2bVJFWFpRbkwzVGNzLU91OWsyMW53bFVqSQ?oc=5",
+      "tickers": [],
+      "at": "2026-11-08T00:23:28.830Z"
+    },
+    {
+      "key": "4c1e2a27a4ddd8a7",
+      "score": 6,
+      "title": "Voluntary recall issued after seller's feed cubes allegedly linked to Southern Utah horse deaths - Gephardt Daily",
+      "domain": "gephardtdaily.com",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNb2JiNXhGYlJDRzFzZWhRU2FsbW5yeVRPWVh3ZDZxWldRbWs0QTVKYnhwM0Zyb25vYmRzUEZYbUFVanRqb1pjbHBsYmYySHJ5NFQtRmZtTFB5SkxlRTQ1bmRDSmpDMUZmNGhPRVo4U0JLM0RncE1yVnBFUW50WUxyVFhkbXlaeDBKby03Y01nRExIcVNYUTBuSmo5RFhLMDdHTjc3NFAzMmVRdkpxUHJvd0w5UXFaSml2b1FEUHZiaUJneWNkTWU0?oc=5",
+      "tickers": [],
+      "at": "2026-11-08T00:23:28.830Z"
+    },
+    {
+      "key": "41b6ab09e7e2b15f",
+      "score": 6,
+      "title": "Salmonella Javiana Outbreak Reaches 65 Illnesses as FDA Starts Traceback, While Listeria Cases Rise to 51 - Medical Daily",
+      "domain": "medicaldaily.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWllQek9hamdUQlNXeC1zQ3J1XzRzRUxuUlZIb1NoYU04dlNSenc4WG56b0Jod05vNl9hd2FDTG93cTRvM2pFTmlpdC01MThTRGlCTkl0Qm5FcjBicnd0ekJDR0xJVDVpZ21pZUhFMWR3M0VEMXBxMmNKS1RXV0dteDFBeU9OOE1ZTko1cHc2UENoeTg?oc=5",
+      "tickers": [],
+      "at": "2026-11-08T00:23:28.830Z"
+    },
+    {
+      "key": "0578fb436919b716",
+      "score": 6,
+      "title": "Winnipeg Jets recall Henry Thrun on an emergency basis - Illegal Curve Hockey",
+      "domain": "illegalcurve.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONFlzb3BSQ0tid0gzYVpxTlQ0encyWU1HeEJXRHVtMXVlcDk3enlONTdYN29pdDhiTXJBUFZRMFVSN0trS3BoTzVmajhJX0p0STgzUEt0VnY0YlZYQzBDZnNjYkl3bmJiZjgzcDJRZ3JVTE1PeG9rS2JjeG5WSnNOZUZhVWdTLWs?oc=5",
+      "tickers": [],
+      "at": "2026-11-08T00:23:28.830Z"
+    },
+    {
+      "key": "a3303349ac005618",
+      "score": 5,
+      "title": "Offerpad Solutions Inc. 2026 Q3 - Results - Earnings Call Presentation (NASDAQ:OPAD) 2026-11-07 - Seeking Alpha",
+      "domain": "seekingalpha.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeFQtT003aWFRYmYteWFRcXZIUnRqUUxrcnJjTjdkR0d3UjIzMlpzTUZjUkpUZk9WVFp2ZmVlU3dmNjRCSko4SC16NjJod0F2eS15S2ZyeHhRSjNST3RrejJ4dHRHYUs3cTFFVjVGaUVwZjVPeUJ0bFM5SGhjN0VrVVZlU01zaWljN0U1NElSRUwwVkxpTWZjeXFQV0VrYUNpZG1FUFprRjdtdw?oc=5",
+      "tickers": [],
+      "at": "2026-11-08T00:23:28.830Z"
     }
   ],
   "lastQuotes": [
@@ -12577,5 +12591,5 @@
       "ts": 1793998801
     }
   ],
-  "lastRun": "2026-11-07T23:51:42.174Z"
+  "lastRun": "2026-11-08T00:23:28.830Z"
 }
