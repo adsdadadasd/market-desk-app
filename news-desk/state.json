@@ -10694,7 +10694,27 @@
     "8279d58e1617642c": "2026-11-08T17:52:37.986Z",
     "5ccc143d016fc93b": "2026-11-08T17:52:37.986Z",
     "98b0be65ac250b4f": "2026-11-08T17:52:37.986Z",
-    "1667d8b991f7eefb": "2026-11-08T17:52:37.986Z"
+    "1667d8b991f7eefb": "2026-11-08T17:52:37.986Z",
+    "be4082b7e481ee7f": "2026-11-08T18:24:34.134Z",
+    "abe1ce16588fbd70": "2026-11-08T18:24:34.134Z",
+    "2782e3ed4b18d208": "2026-11-08T18:24:34.134Z",
+    "ac07f54404539684": "2026-11-08T18:24:34.134Z",
+    "2e3bc9662884be14": "2026-11-08T18:24:34.134Z",
+    "ffd60fa20286bfe8": "2026-11-08T18:24:34.134Z",
+    "60ae9b8355130b08": "2026-11-08T18:24:34.134Z",
+    "ed56c73873ef4f91": "2026-11-08T18:24:34.134Z",
+    "b00d16099decd7b5": "2026-11-08T18:24:34.134Z",
+    "d319a80727742177": "2026-11-08T18:24:34.134Z",
+    "ec648bdb8a466650": "2026-11-08T18:24:34.134Z",
+    "d14872a74e164206": "2026-11-08T18:24:34.134Z",
+    "c4d62269f0e20aff": "2026-11-08T18:24:34.135Z",
+    "3d77a0e5e9a2ef0e": "2026-11-08T18:24:34.135Z",
+    "fec595a450a9c155": "2026-11-08T18:24:34.135Z",
+    "4b698a62299a85ed": "2026-11-08T18:24:34.135Z",
+    "db0d26b7e29f3fc3": "2026-11-08T18:24:34.135Z",
+    "9147570aaec7a7f0": "2026-11-08T18:24:34.135Z",
+    "516400635397c344": "2026-11-08T18:24:34.135Z",
+    "0a003c66cf4139e5": "2026-11-08T18:24:34.135Z"
   },
   "alertsByDay": {
     "2026-11-02": 3,
@@ -10859,127 +10879,6 @@
     }
   },
   "pending": [
-    {
-      "key": "c934287d115b33ce",
-      "score": 6,
-      "title": "Google Stock Investors Biggest Risk - The Motley Fool",
-      "domain": "fool.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYkFqanltQlJvenA3UkE0ejM2d0sxckRqV1EtbDZEUWVqblZUSlZ0TEZTT2JLWHJSci0ySmR5UGFLRUJPN3NhNDFneEtBcFNLSWJPZHhEU2hYUVRTMXRPS1JpZTVDdXNaOXY1STMzQWRVOS1RdE41OGVzbGRjT3JKQlc5SDk?oc=5",
-      "tickers": [
-        "GOOGL"
-      ],
-      "at": "2026-11-08T11:22:51.894Z"
-    },
-    {
-      "key": "969da438c3c516ca",
-      "score": 6,
-      "title": "Request for review and feedback of draft wetland, CIAS guidance under development - Castanet",
-      "domain": "castanet.net",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPczczSHFPQmIwOG11alFCcjdURGt4VTJqUmlEOHI3dm9iMkpubVhtS0FJUUtsYU52NVVncXZxR2RuNE5Yd2lDOVc3cG5PbE5WYzJOQjVOT0x1VlQ1UWpPai02XzZJWVNxOTcwYjZlb2I1OGg5MTVNYVM1QWtFMVZuWXR5b2ZoWWIxMU1jTW9tT0Y0SF9udEM4cDZiZXVtRG12Z0pNc28zNW1qbXBTdWx2TzVCdlkxRjZLZzQ2Wk52U09aTVNRa2c?oc=5",
-      "tickers": [],
-      "at": "2026-11-08T11:22:51.894Z"
-    },
-    {
-      "key": "2859ac6cb1bee640",
-      "score": 6,
-      "title": "Korea's nuclear submarine project faces hurdles despite key approval - The Korea Times",
-      "domain": "koreatimes.co.kr",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdGJHVlJHLXE1aWQ2TWdRMjl6MkRqTzNFWnY2b1llMFRnazBIcnN3U3pjM01vN09LS0pTVmpOd242MWdqNUVpQXhaN2NPVjgwM1FwR0t1T1RiUS1NZDc4Z1V0b2VFblY4R2Zqbjh5Mi1kLUZHU3lhMll0WlAxaXlXOVJZVFpzNUFJVjY1NFBESzhjZVMzV2E0czRXN3JMdm9jaTRnOGotLV9obHdleXdlWEpadEMyZHh1d0xlb3pMYm9jUdIBxwFBVV95cUxNRlN3ZWdaWlh0Yk1nbDVGQmpHcGZlUzdObXFGZ01tb2s1SlFXcFZ2ZGVRR3BSc0EyWkxKZU03V2dEMHdUTGJZbDVNcF9wNzJPSHNTQmpkYVk0bHZsbzJPR0hiWnhVY2J3UGJJNWtUS1dfeVRxNFUwazh5a3JOWFphVDdWNXJ3MWwweXJLOWpScXpNQlFrTTMzQzJqQm4yenZBeWNWZDRneUEzMWRTNDRBZXhFSUVFeFlPLXFWbmdYemlqZkN5RUVR?oc=5",
-      "tickers": [],
-      "at": "2026-11-08T11:22:51.894Z"
-    },
-    {
-      "key": "958ad2384cac26aa",
-      "score": 6,
-      "title": "Sonia Gandhi, Priyanka recall Diwali celebrations with Rajiv Gandhi: Chandni Chowk firecracker trips,... - Moneycontrol.com",
-      "domain": "moneycontrol.com",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPWWtiZkEyYl8za2xUMi1Vb3l1ZWZpLTFPQ0FyU1Z1M053ZzNIMXJNS0xPQW9KNmpFM3dXbVNuRXlOWDhxblE2YUtFQ0h5X0tURE5leVV4eGQ2WmJramNTcHJRa0FmRnM4Y1FQX0ZRa3hscFFORnVGZTdIcUpPZVhjMllHS25DRy16S1FwZ1FvUGJUaXV6QkNzNHdTZ2tlS0ZnMUEtM2RsRklNdGl4b1djaFdrNkJkMG1UelF5TUF1aVlaOUlYWTlwM08xTTdiMVZtQmZUOU5JNHpPZjFqZU40UTFPeUVQM0xGX1NLZ0xmYnJOdTVDdE5HWHAtRjRucGFfdFhjbURpaWk5LURD0gGSAkFVX3lxTE14VmR5dFlLRFlWV2ZiTXhiQlU2eXp6N2tNSkI5dnJ5cktyejBZWTZoX0ltaGNGdjBybHM0aHJIRlJGQ05PQk93ODVuSW9fbTZSdUo3U19EZFdiNFZVUVlxck01TkNaWWhLc1pqQ1k1am1MUVdDbU1PcDU5UVpZV3lCME9NdVRNTFgxdDhuX1JybmV2UzdncjJkam4xVTRHWnFtQk50WWJnUVBIenFhUkRUWC1FUFdPV19YWUxaLUVaZkZ6bmZuY1VOV3RQZFdvTkJiZnY2S1FzWFdlMEJIa3hhU1hkcDVIZEllM1JYMUI2UDhIaHQzMERSTXNkOVpIelFFMFhkZ2l4U2xHZmE2bFRyZGc?oc=5",
-      "tickers": [],
-      "at": "2026-11-08T11:22:51.894Z"
-    },
-    {
-      "key": "45b0ad70c65d61d5",
-      "score": 6,
-      "title": "2027: APC’s Governorship Candidate, Opah Vows To Recall Sacked Abia Workers - Independent Newspaper Nigeria",
-      "domain": "independent.ng",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSkNQS1dCT2pkQTFyNVdyVDNOWHBFYkVQS2hBMWgxTlh5c1FCeWtDcktveVotMElCNW52eUlLaUY5bEdNdzR3N3FzTEVmNktTdEhJYmsxcy1XU3NkUDNDUE5FSks1M2JwYlpjVmxJMVd2d0dQbG1mOVE2VWNwODJvdUxPSTlDSjZHOW1QbTgzWFhLRk8zWUU3WGduOVE?oc=5",
-      "tickers": [],
-      "at": "2026-11-08T11:22:51.894Z"
-    },
-    {
-      "key": "42a9d072c356d313",
-      "score": 6,
-      "title": "Ministry issues recall of Ferinject 50 mg/mL due to chemical standards violation - ILoveQatar.net",
-      "domain": "iloveqatar.net",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUkhqakUyT2I2Y25yMVJiQVZrQTVraHhOU1ZVVmdJcGRGemRwQ1pkRU9TTUVqbzdoTjVJRUh5R0NhRXVZOVB0VHE5WXlUSmdrOGw3UnFiZ09kX1hkOURYbmRRY1FVZ2tsbWxjYl84Mmx6WWhYWENQZ2R5WXpOWjNubUc5ZFV5cXpWWkh5MkphOWxUYWtWN0xIbDhXbjRubnFLOU1LS2NOOWhhRUVCcF91TjZyMWJwZnJS?oc=5",
-      "tickers": [],
-      "at": "2026-11-08T11:22:51.894Z"
-    },
-    {
-      "key": "ef2430cc8ec735e9",
-      "score": 5,
-      "title": "Housing vs. Stocks: Lowest Share of Home Buyers Since 2006 Say Real Estate Beats Equities - Barron's",
-      "domain": "barrons.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOXzN5dlRiWU9lV2dyYW8wSXAzT0VCbjh4Smh4b29TbDBKSi1Jd0JBTmxFWUk5cEhlNVo3SDBHMThSeWsxR3oyQ0hXQ3NncVdMZXlSM203bzNIZjhkdzI0RWZYZDRDcFl3ZXRsZ2s1bmNobjJlQzV2bldMUDZVSmNkWGZ5MFNfQ0tDVTVaZzRadTlQUFowYXhxaw?oc=5",
-      "tickers": [],
-      "at": "2026-11-08T11:22:51.894Z"
-    },
-    {
-      "key": "bd93701e1e78469c",
-      "score": 5,
-      "title": "Hospitals Are So Crowded Patients Spend 24 Hours in the E.R. Hallways - WSJ",
-      "domain": "wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQamUtU0ZwUnFJVTV3dFpueXhHXzUxX0VNOC1wVzlWd0NrY0gyN0RIdzFzMVRvWGZicDJXWWgtT2NxVWdUbjBNalF5TW5LVDhtN0ctOFppX05HUVhIZEJQenlOSm1sY0hnUUFtQ3ktT0p3M3prV05vZ1FucHlvSEFwaGJjakFRUUVFOW00amVLYnU3TGlIbFU0Yk40NkZIMmhGRUxGczlpdjI2cjBPZ2JkRUxFZm1HQQ?oc=5",
-      "tickers": [],
-      "at": "2026-11-08T11:22:51.894Z"
-    },
-    {
-      "key": "664bd8ed8972c8d4",
-      "score": 5,
-      "title": "The plunge in artificial intelligence (AI) and semiconductor-related stocks in the U.S. stock market.. - 매일경제",
-      "domain": "mk.co.kr",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE44ZGNnbTMwZERsU2lkeThLY0xJN3pEWWhsdENGODRFaGFIcmlTek1TT0JaRG9qeUdhZW5Cd2tDUF9lLTNIWkZTVEZFRldFdW8?oc=5",
-      "tickers": [],
-      "at": "2026-11-08T11:22:51.894Z"
-    },
-    {
-      "key": "4e15f22ee0daaf14",
-      "score": 8,
-      "title": "Exclusive | Alphabet’s Drone Unit to Invest Up to $125 Million in New Texas Facility - WSJ",
-      "domain": "wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRGdnRGdtLTRRWHRTenZtNG5tXzF2MXcwUzFBc1R4RW9PbThJdC1ZR2JTQnZ3b0s1U05DeGxPN2dtY0wtVEIwMWl1ZTdoZlRoUzRWZHYtcERQekRmdmdlWEs3S09PbnktSU91eDVybWhYZDg5ZjRpdzNWRGdBQmw0U3ZoMUwtT3dGVkxZMFNha29maHQ0WTJCdU8yay03MmFPcS1KVUVkQ2ZseXVO?oc=5",
-      "tickers": [
-        "GOOGL"
-      ],
-      "at": "2026-11-08T12:00:16.862Z"
-    },
-    {
-      "key": "6eb1a51c83869d07",
-      "score": 7,
-      "title": "Sysmex (TSE:6869) Stock Could Stay Reasonable Following Raised Earnings Guidance - Yahoo Finance",
-      "domain": "finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbHBUbm1aQ1hJazFBYllCYmNQeHVZNjRReVFmUzdBN3U0cERPdHRtaUVfX1ZPMXRDQjVsQjZ2V0E4Z1pTNlhYY0dRTHB5Ym5tNzhBM3p1TFF2TlB0akFvNnZ0UFZ0dWdZb3dma0NZVjdGSUFpTTl1LUJwZDBLWU8yajJTVWN5ODZuTHp1eGtKVlpSZDBVYklZ?oc=5",
-      "tickers": [],
-      "at": "2026-11-08T12:00:16.862Z"
-    },
-    {
-      "key": "7e49a0e0348d3e40",
-      "score": 6,
-      "title": "TradFi News | US CPI, PPI and CoreWeave Earnings to Test Markets as Fed Hike Bets Hit 80% - Binance",
-      "domain": "binance.com",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1zelltamtudS1RZlFvb0dvdGdtZFdmZzBQVEtFQ1BCc0tFYVc2ZFVPTkwyREQyNkRSQm1BZkYwWVNvRGd0M3U1aTBCN3dKZFBsb0VDQ1hoZkkyclYzY0Y0MFV6R0c?oc=5",
-      "tickers": [],
-      "at": "2026-11-08T12:00:16.862Z"
-    },
-    {
-      "key": "f3ad9555e7df36bc",
-      "score": 6,
-      "title": "Taiwan warns of adverse effects of GLP-1 weight loss drugs - Taiwan News",
-      "domain": "taiwannews.com.tw",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9tR1JTbklBcFJIZFVUcDdBVEFSQ2VEcXZOV29zWHhISElJVGR6YWROOFY3NElzakNRSm1nM2hNdGtkN3ZpdzVjbG1xa3JnOEktcDBuT2VtU1k?oc=5",
-      "tickers": [],
-      "at": "2026-11-08T12:00:16.862Z"
-    },
     {
       "key": "f6e232a90e668108",
       "score": 6,
@@ -12691,6 +12590,125 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWGFYUFBUZzBtNjFybkF6WDJoS1ZiZTdvZEZ3UmFOOFpiQmlzeWpOaUY3WDVKNWtCYURwQlBZbzlybG1UbFhEWkVnbDRzM1lPbE82RFVfSDdDbF9EcHZNLVJWemt6Z1ljQVpYSEc4NXhJNkdKamx5UnprQU9WQnBSMExFSFBNNlRTZDJ2bldNczRTbUxzWHAtUWhSeVpiVTRpMmJzT0ZrWQ?oc=5",
       "tickers": [],
       "at": "2026-11-08T17:52:37.986Z"
+    },
+    {
+      "key": "be4082b7e481ee7f",
+      "score": 9,
+      "title": "Watch Watching Wall Street, Deadly Mass Shooting in Poland, Back to Work After Blue Wave - Bloomberg.com",
+      "domain": "bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMlhsUzE2dHQwSWc2bTlUczR0d0RxZl9vVFRMbHg5LUNkOG1oM1FCQ3lJcGV0Q1U2ZzlfdzBRY3FheFpnWDhQZkNlQ2N1YTVSVW4xYUoxNUNSbXFzREp5aURfWXI0cHFkNHpIWlVhR1ZLMDhrUXFSYW11RFFFMzYwZk1wLWkyemI2NUlEeHNzSXU?oc=5",
+      "tickers": [],
+      "at": "2026-11-08T18:24:34.135Z"
+    },
+    {
+      "key": "ffd60fa20286bfe8",
+      "score": 7,
+      "title": "US Senator calls for the resumption of aid to Ukraine and sanctions - UkrMedia News",
+      "domain": "ukrmedia.news",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNV2dWMTFRb2RMbnZWeTRLa2pFNXZ0OUVmWkFOUHdUMGZXcXg1OVExdXRCNm5BVFdRREVsU0h1S0JyT0pIaTJTOEZVMkZrVW55bjdpTy1qT3hVczh1Ynd0N2c0dUhWMkstSGNoYnR3ZVpXQXdoc21Sc25vX2ZRRlVTQW8wZllKQzA?oc=5",
+      "tickers": [],
+      "at": "2026-11-08T18:24:34.135Z"
+    },
+    {
+      "key": "ed56c73873ef4f91",
+      "score": 7,
+      "title": "Dalal Street Week Ahead: Q2 earnings, US & India inflation, FII flow, oil prices among 10 key factors... - Moneycontrol.com",
+      "domain": "moneycontrol.com",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQYVZVQjdhWGdPbkkyMzZVN0tqbUpvWU1Tc2FhUEZMSjhMY2QzUVR1dllTMjVJXzY5dnI1ajc4eE1GYXY0ZjVwanpMT1R0bzVjdEJJUmZDRjZFU0ltamwzOVVtb1hlbFRTclJQN0hPb2d4dXRtUFZXS0ZDQURkUm15TEQyUzk0UUZnN1J4WXJIMVF6LU9jQ0IwbEo1WW5oU2I3TFFpODR4dXM1RjNFRjRibWc1QUdyWERneGhEWDVrNS1udUtqQ0phb2l6UnphMl9FcDJWZDlpbVNvaG9kVzJYQ2c1SXBZM2lVUVJEVFl3SUNzcDJOWWJWek1IS25Dd9IBgwJBVV95cUxNR1k5MVg1TEZ0WTVDZ0F1QzREdmR0eXRwOURXak4yZGw4ZlJKYTJDYnR6MnJKU0VOdXdKVnNOR05yaWFiMi1WSktSa3JidGxTNVplUUNIYW5mYlBxVDVFQWd6Q3RNV190ZnRzYzhNVXkxR1BQU293QWFlTzg0U0llZVQ4cjJTSFVWYk9CWEhvbE9sMGdyNE1CMDZhTFdyTld5Y0s0ZGxaYTd4dERpb19ESHRfeWVJZkVDbjFkVjktZElIRDJyTGFzblNEcC1WQ1NJa0o4ZWxEVXEzVGdRZEJXajJ5V0FJTmRZdFZBNWsxamVPWEVmam9OMkw1ZTgtejNadDZJ?oc=5",
+      "tickers": [],
+      "at": "2026-11-08T18:24:34.135Z"
+    },
+    {
+      "key": "d14872a74e164206",
+      "score": 7,
+      "title": "Top stories: Snack recall. Valley election results. Is Starving Artist closed? Grocery tenant - Fresno Bee",
+      "domain": "fresnobee.com",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA0UmxVeUdpNC1hVVJEUHJGOHNVTGpZSXhPbmkySGxBeUpsSm1oeGtOMTVDV01QdUVCY1Vta1BYSTZrNWxPWUQ1SlAxV1hHUXB2MmtfVm5rUm01LVBQb0ttNThJbFkwZnNGZWfSAWpBVV95cUxQaWtMWkJoTVdpSWhQbW4tSVAxZDB6U0hfLXBmNS1IX193a05RYWdTT2N5Q0VqSUg1OGg0Nk5Id0pmaTVMWHVNeG9vcUI0QTlhU2tqM1NZR3ZZb2VLbHItY1BUNUtraS0zQTVB?oc=5",
+      "tickers": [],
+      "at": "2026-11-08T18:24:34.135Z"
+    },
+    {
+      "key": "ac07f54404539684",
+      "score": 6,
+      "title": "ASX eyes gains, Wall Street steadies as AI stocks rebound - SMH.com.au",
+      "domain": "smh.com.au",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWlh3YWExOVJmSjRMVTVEMmhEbFdIQXUtMXRYOU5YWVhwbTZlQkhBZ3ZMemV3STJTTWdMTFFVb1hiSTU2SzkzTzdWRVRfTkFzcm1QYTFaNTMtbHotNzB3dUdUOXZhVGJFcm0zY2hLajFITWJSWGFqQnZrX282STdnNDdySkFlQThKaGJCSE5QUS12RXVfX3dydUFVbG9iN0J1MFctZFhpWm15VXdEQ3VOWGZiX3pRZTdh?oc=5",
+      "tickers": [
+        "ASX"
+      ],
+      "at": "2026-11-08T18:24:34.135Z"
+    },
+    {
+      "key": "d319a80727742177",
+      "score": 6,
+      "title": "How Tesla Stock Could Move Amid Roadster Reveal and Reported SpaceX Merger - AOL.com",
+      "domain": "aol.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE44emQwYzRRcnJmZWstNUVyZUVIR3BNS3RBSGZjcWVYdjYtVXUxc3VVSS1mOUlCNXB3eUlyMExxNGlOOGdQZW1uZXVzZXN3ZmRJOFVJSTlGcW92Vk5nSXVSXzFFNmxIVGtQdGZEZVZWYTB5NU5GaURYZTktaw?oc=5",
+      "tickers": [],
+      "at": "2026-11-08T18:24:34.135Z"
+    },
+    {
+      "key": "ec648bdb8a466650",
+      "score": 6,
+      "title": "Year after antitrust trial, NASCAR, 23XI Racing throw party together to send off 2026 season - Sports Business Journal",
+      "domain": "sportsbusinessjournal.com",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZEozb3Etc2hwWHlWS3o5bXBkQW4xRzJUN0l6Q2hWUjVlcVBRbm0yYTdFbDdLcFZsUk04WGhpakh0NWk0a0Z4VkV5dllhc2Q5U3lNQTFTUVdkZnZZZVRPelQzN1E4TXZWaFZ1bGoxUkgzYlBnaXRyZ1pqOWMyUWJWbkc2azJTR2lpVVdtUVhrWVZSby1MNG8zbXdIWDRaU1lZUlRYZ2lFWWRPTklXaVo4MWZwNTh1dnhib0VkSENyRUVsU0NVTWhxbERKOXB1bElZU3UyTzdvRy1iUW0tVjFfRElFZw?oc=5",
+      "tickers": [],
+      "at": "2026-11-08T18:24:34.135Z"
+    },
+    {
+      "key": "c4d62269f0e20aff",
+      "score": 6,
+      "title": "SHAREHOLDER ALERT: Bronstein Gewirtz & Grossman, LLC Announces Class Action Against Coastal Financial Corporation (NASDAQ: CCB) — Investors Who Suffered Losses Are Encouraged to Contact the Firm - mykxlg.com",
+      "domain": "mykxlg.com",
+      "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPc0hzR3doMEFtTTkwZkFnU2pQaWVlUFd6bVNTaTA1RWNOd3RKdVNJRVFoY1Z0M3RzdzYyaC1kZlU1NjgtWi00dURRN3NjZURiV0s5QnlRS3c2bzhldWdpU3g5TFJIYjhmQ3kwLTFSWEI2MWd0VTcybVpKLUR6T0ZoUWhaVWNhanhFTjk5aHVzYmdYOVhtTk9NVkxZenJQNV9rc0tWSTJhOWEtZWtYUktYeHBCaDhUeng0TGpKVjFyd0xMZ2c3YkxpSENfWnRRY0lMdWdqenJYeE5aY3g2cGlPNGVLbGZZTVRuR1hVWXZUczZjRXkwTVNBUVVDUWt2Nll6MTBTSzU1QVJyWEQ3bEVXRU9oNk5iNTRBNk40RDhXTDFrd2ZEblRfeGFpOFBwaHg1MVlMdG1TbU8teER3aEZZLUZFRm5Zc1E?oc=5",
+      "tickers": [],
+      "at": "2026-11-08T18:24:34.135Z"
+    },
+    {
+      "key": "3d77a0e5e9a2ef0e",
+      "score": 6,
+      "title": "SHAREHOLDER ALERT: Bronstein Gewirtz & Grossman, LLC Announces Class Action Against Honeywell Aerospace, Inc. (NASDAQ: HONA) — Investors Who Suffered Losses Are Encouraged to Contact the Firm - mykxlg.com",
+      "domain": "mykxlg.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxPaTV1cVYzNWdveU1YbERHSkJnMHNiaUQwY0tEQ0E0SE15MVdUOEVPcGpWSUVyMEtjYzFXSnp2dTRrNHliME55Q3htRWd2NFFjTEw5bzVWWEtlNmF0ZFhIZlQ5U3oyTTE1bklPOXA0TGNSWUNqb2lPb1lUcFlmZjVNSzVsNkg2azNSc1NuOUdlcXRWRzBFbjBydHd6enJHal9VY0FWcmVlYWxLNjZNQTJLd1I4cXNpaUJILWpxS1pFS0xaby1zNExWRGFXM2JSbGd3RmNsZk1EWjFFUGMxTnlKNHRhOUoyX3lmdHZiZ0pHelpVVW0zdi1Mbjg5ZzBHVllSdWpUWXFGUG1PQWUzLTVfcWRETVlPbkVjeVRIdGlrbnBsRmRFY2JHdzZkVzBxUGRCWmRGYVJkbldhUHFMcmRnVQ?oc=5",
+      "tickers": [],
+      "at": "2026-11-08T18:24:34.135Z"
+    },
+    {
+      "key": "fec595a450a9c155",
+      "score": 6,
+      "title": "Recall effort underway against Dominican Republic-born Massachusetts mayor after federal indictment - South Florida Times",
+      "domain": "sfltimes.com",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWmxMUlRvcXBUa1oyOVpTR256bmdqMXVsN2tsYXFEaVJyLXVHdVRCOWpTNC1mVDVEQUZvOHFkQmhmQkZoMzJYVFBoQlhfY1JvRzJkMFg2VXZXYnNmdXRrYTJGOWlaTC1FUG9kSmxlc1REX0RKOG1WY1NyblNicTE0bkh5RV96TkJxQzJsZDAtUC0xc3F5Yjd5RkgwM2lSaEk5WDFqNGpjb0s2V0xZb1owaTQ0OHB3andmT1dqdFVLV0I1QWpBdTR3M3J2MnR5N1g5cERaMHdLNXdfUQ?oc=5",
+      "tickers": [],
+      "at": "2026-11-08T18:24:34.135Z"
+    },
+    {
+      "key": "db0d26b7e29f3fc3",
+      "score": 6,
+      "title": "Bronstein, Gewirtz & Grossman LLC Urges AST SpaceMobile, Inc. Investors to Act: Class Action Filed Alleging Investor Harm - mykxlg.com",
+      "domain": "mykxlg.com",
+      "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOdDR5emZLN1JkaXBvcWRLQ0ZNWnVZR19IWW9kWmJaQkcxV3c2RzB0VkdVczZMWGowNmhaU1hkWExLRTFQalBzWjBhM1Z1Z2k4ekQtVURlN1U4enliTFpDaEptX1lmY1hnM0drT1IwZ3JFaERKamRScmlNNy1zSzVkTHlEVU9ldng4cXFFRUhiNHZjOXE1NVZmZFRyWThNZzd5U09RNGdmSVB4UlFOQjliVXBZY2RhS2FvZnVFU0VmOGJrTTU4aDY2eEl0eVI4VW5OMlVtcEJEMUNpRXFGTzNKSU5BajJMSE53Uzh2RVNxY0x2MUhRMW5nZkhsRHZHYU1WYkRQNnU4WFplaVpsNXpMb1ZNcW9pblNxS3l2Nlk1WXJELWthUWtWdlNybGZfZw?oc=5",
+      "tickers": [],
+      "at": "2026-11-08T18:24:34.135Z"
+    },
+    {
+      "key": "9147570aaec7a7f0",
+      "score": 6,
+      "title": "Webull Corporation (BULL) Class Action Lawsuit: Investors Face December 7, 2026, Deadline - Kessler Topaz Meltzer & Check, LLP - PR Newswire",
+      "domain": "prnewswire.com",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNVXVuS1ZQTjEtSzBBRWNkWlpkSl9IWl81WUhDOU1rOHgtZ1NUemk2RFBWUHNSUGFlTnBGSXhuVWFWRWpfQjBseXNBbk02X21GYWQxT2NLMnI3MFhxQVBDZGtYU0JhdXNWVEs2eHp6NE9RLUl0a194dk9SMlpZN05ONThybXhMZ19xRVZHNTJ0VkotcE9PZER1ZU5IbEZjdFFFNkZYOVNlZDc5enRJRFFTZG9rcHVHbHJGbDItQ0lpVy1hRzdqWWNZX0ppQ1QtT0FuQlJTYzd4cHEyRnl6Skh2QUVXOTVoT0QwczEtdlBBNWV1czNlZkFEaEpvMzdaMjFuZFVJVTdB?oc=5",
+      "tickers": [],
+      "at": "2026-11-08T18:24:34.135Z"
+    },
+    {
+      "key": "0a003c66cf4139e5",
+      "score": 6,
+      "title": "Bronstein, Gewirtz & Grossman LLC Urges Duolingo, Inc. Investors to Act: Class Action Filed Alleging Investor Harm - GlobeNewswire",
+      "domain": "globenewswire.com",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPbTdfSWpJOUZGbER1RUE2VHlmQnFpX29zS1VuZkVIcktXTGdkYzBudlBiSVJLUjlGcVZFOUR4aXRNWVB2YjlseXdtZFVrSWpGMjVDVjFZMWxIUkQyRkIzOWRYSVVKM3VTdFZydTBOU0p6Yy1OVk5YYXE5UlFPYVRYNThmVENpYnRBeVIwcnlCN3A3WmRTTFVyclBzcklOVFNHSmJNdEt4QVFSRzFRRGVUa2pwWk1QaUVXbHdGUGZIRWRLQzItNDVwRzVXc2ZBd0FYUERzeHFacUpaTEtBYmlRbGc0aVpWMnU3d0Q4VXdIRXJSQXNfY1NrMDJCaW5IN0VaZHdmTVhWeXdfX3IxbEZyVw?oc=5",
+      "tickers": [],
+      "at": "2026-11-08T18:24:34.135Z"
     }
   ],
   "lastQuotes": [
@@ -13235,5 +13253,5 @@
       "ts": 1793998801
     }
   ],
-  "lastRun": "2026-11-08T17:52:37.986Z"
+  "lastRun": "2026-11-08T18:24:34.135Z"
 }
