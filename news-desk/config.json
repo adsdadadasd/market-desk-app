@@ -161,6 +161,11 @@
       "label": "天災",
       "re": "earthquake|hurricane|typhoon|flood|wildfire|tsunami|drought|volcanic|pandemic",
       "breadth": 3
+    },
+    {
+      "label": "高管治理",
+      "re": "infidelity|affair|scandal|misconduct|resign|step down|removed as (ceo|chairman)|board (probe|investigat)|spying|espionage|lawsuit against (ceo|founder)",
+      "breadth": 3
     }
   ],
   "sourceTier": [

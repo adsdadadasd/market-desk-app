@@ -600,7 +600,7 @@ async function collect() {
       if (!onList && !systemic) blocked = '與名單無關且非系統性';
       else if (!confirmed) blocked = '未經跨來源確認';
       else if (it.kind === 'filing' && !it.labels.length) blocked = '申報內容未達重大';
-      else if (quiet && it.score < (cfg.quietMinScore ?? 10)) blocked = '靜默時段';
+      else if (quiet && it.score < (cfg.quietMinScore ?? 10) && !(it.labels || []).includes('高管治理')) blocked = '靜默時段';
       else if (remaining <= 0 && it.score < 10) blocked = '今日警報上限';
     }
 
