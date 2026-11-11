@@ -300,10 +300,10 @@ async function fetchQuote(ticker) {
   }
   if (bars.length < 2) return null;
 
-  const etDay = (ms) => new Intl.DateTimeFormat('en-CA', { timeZone: 'America/New_York' }).format(new Date(ms));
   const lastBar = bars[bars.length - 1];
-  const todayEt = etDay(Date.now());
-  const prev = etDay(lastBar.t) === todayEt ? bars[bars.length - 2].c : lastBar.c;
+  // 一律跟前一根日線比：最後一根可能是今天的盤中 bar，也可能是已收盤的最後交易日。
+  // 舊寫法在「最後一根不是今天」時把 prev 設成自己，結果漲跌幅永遠是 0%。
+  const prev = bars[bars.length - 2].c;
   const price = typeof meta.regularMarketPrice === 'number' ? meta.regularMarketPrice : lastBar.c;
   if (typeof price !== 'number' || !prev) return null;
   const first = bars[0].c;
