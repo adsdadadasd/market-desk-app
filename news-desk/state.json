@@ -11313,7 +11313,9 @@
     "61a58037d49b07f7": "2026-11-11T11:05:59.421Z",
     "0696a396bb66070f": "2026-11-11T11:05:59.421Z",
     "51322af5cad9c9a0": "2026-11-11T11:06:59.346Z",
-    "9450184219257883": "2026-11-11T11:06:59.346Z"
+    "9450184219257883": "2026-11-11T11:06:59.346Z",
+    "924538a6a56648c3": "2026-11-11T11:08:18.645Z",
+    "67ba0aaac570348a": "2026-11-11T11:08:18.645Z"
   },
   "alertsByDay": {
     "2026-11-04": 7,
@@ -11478,15 +11480,6 @@
     }
   },
   "pending": [
-    {
-      "key": "8ddaa6dbab8521bd",
-      "score": 5,
-      "title": "Inflation rises faster than expected, boosting odds of Fed rate hike - CFO Dive",
-      "domain": "cfodive.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNY1hqSFFQSVJiU0tuaF9JLU1rem9pb1hBRE9mekxacjNFWWRHTzlPNG9NdU41NXhuTUtkdEFoUjF4TDd2Z2tzbnFadE52WEpDdGZUTVVNbzE1S0d0Q2NXeDQzcUxTWXZOdFdkcmhUX0ZaS1JOSWtUSDdGaXVseDlPUW11RGZqT1FfbHNUNmtiNDFxajlMejExQTRmZ1VpY3RKMDI1YXNJWXpBc3k0Y2Jyc2xYUTU0OE5rdkdN?oc=5",
-      "tickers": [],
-      "at": "2026-11-11T10:45:02.260Z"
-    },
     {
       "key": "b546ef4449fa1018",
       "score": 5,
@@ -13317,6 +13310,17 @@
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUFZqcEN3YTlEQzZJdGtMeFo1b1hkVWFTcHllOFJRaVVuUVVQNVJQTmJrdFRfSkFrSDRXN2d6am0yM043TENSUGZaLUtDVU5JREYzeFlLbkVkdlYxNWVvRDh0WlhJV3ctSVZSQlE1MndhU05Ub1VjRUkxeFQtN3VxU3VxbTREY0tpZlExSDhOUmxobU96YThuZE1sa21mWk1tbHlrUU5COWtIWldlc1hmYUFiVQ?oc=5",
       "tickers": [],
       "at": "2026-11-11T11:06:59.346Z"
+    },
+    {
+      "key": "67ba0aaac570348a",
+      "score": 8,
+      "title": "FDA issues new warning over alarming eye risk for Americans on GLP-1 drugs after dozens sue over 'eye stroke' tied to Ozempic, Wegovy and Zepbound - MoneyWise.com",
+      "domain": "moneywise.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdVRBVzl0LUk5SnE2bHlJU2VNdGpaQW5lRHNQOXY3bmVDUlJiUnV1QnF6VDdCTXhoR1h2Q3JJV3E1ZVRNSC1uRG5aYmlnZTRjcXU4cUV6LVZtNE5xLWl1ZW8zLXVGYl8wbHZwSkJOVG1RQmFlQ1Vla2hYeGc1a3I4TkUzUF9ydTB1Ql81b0JCVU1fYUlzWlJz?oc=5",
+      "tickers": [
+        "LLY"
+      ],
+      "at": "2026-11-11T11:08:18.645Z"
     }
   ],
   "lastQuotes": [
@@ -13861,5 +13865,5 @@
       "ts": 1794344401
     }
   ],
-  "lastRun": "2026-11-11T11:07:09.063Z"
+  "lastRun": "2026-11-11T11:08:18.645Z"
 }
