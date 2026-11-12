@@ -1,8 +1,6 @@
 {
   "version": 1,
   "seen": {
-    "b772f7ebe79937b7": "2026-11-05T08:18:06.120Z",
-    "144454387a1b629a": "2026-11-05T08:18:06.120Z",
     "75b52e6d51b3697f": "2026-11-05T08:19:46.106Z",
     "11acd66671745fd5": "2026-11-05T08:19:46.106Z",
     "04241c7f27bc5215": "2026-11-05T08:19:46.107Z",
@@ -11122,7 +11120,9 @@
     "4d8ec380b5b3b0a5": "2026-11-12T08:16:26.856Z",
     "d91c32360b8f8782": "2026-11-12T08:16:26.856Z",
     "83e15c6c808a49b3": "2026-11-12T08:16:26.856Z",
-    "967dd6fe5dc2117b": "2026-11-12T08:17:26.992Z"
+    "967dd6fe5dc2117b": "2026-11-12T08:17:26.992Z",
+    "59c06bff385d63bd": "2026-11-12T08:18:31.470Z",
+    "8690e676106cc267": "2026-11-12T08:18:31.470Z"
   },
   "alertsByDay": {
     "2026-11-05": 69,
@@ -11288,24 +11288,6 @@
     }
   },
   "pending": [
-    {
-      "key": "5882d64c3ae13623",
-      "score": 7,
-      "title": "Revealed: Foreign Office Issued Guidance to UK Ambassador Following Manchester City's Guilty Verdict - Yahoo",
-      "domain": "yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNX1YtSTkyX21FNTlSUFBLZ2ZZYnB5Tlc1SW9uLWpHTExmcV9zNy03TWkydnllZHNVVGs3X2NNTFhFUWlRYTc2R2NCS0lScVhzTUpMU0Y3WF9nQWQ4VmE4dDNPTzh1aUpkejBySHdMZ0xqdWxDd2tITUFzOGZoOTQtNGtFaGtvR19WdG9RZjFueFN4UDdYN01rTTBjd1pwSGRI?oc=5",
-      "tickers": [],
-      "at": "2026-11-12T07:22:26.795Z"
-    },
-    {
-      "key": "2b973701e3b6236c",
-      "score": 7,
-      "title": "Deutsche Pfandbriefbank Sees FY26 Pre-Tax Profit At Low End Of Guidance - TradingView",
-      "domain": "tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZ0dEN0s3enNEX3haRUNwejA4WkVwSjYwaEVob085MmxHcVNzcHd3WC1uNldoQU9UbGlTVU50MkZheEVXZmYycFFXdDFwU3N6bGNYTDVzb3VRcjlPenl5a190cUtSNDhKc2xob1BTYm5XWTl1OExPTUh5emRYakdVQXVmVEJyUUNOb2xmV2dPMzlCNzNhSlI3czZDSWJiYW9qRXQ5SHVOM0hiM2ItMUdMWGN4M3htVk5Pc3JTRjRYYm1YaXhVZFNMQVpNcDlpZE4yVzhBVktKLXU?oc=5",
-      "tickers": [],
-      "at": "2026-11-12T07:22:26.795Z"
-    },
     {
       "key": "d3085f3ed7f58c95",
       "score": 7,
@@ -13128,6 +13110,24 @@
       "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNbUY2RzZvOHpQWVRtUlNZWTBxRGRNdE0td0dsVEpPWm9odWRKR3Q5TUpZd1kxSlpaZDFITXpxVnZ2OW5xdWVPWmY4Ymx3X18ydjg4N0o4TjhrUzlRdTNLOWYwU1Z2dVJSXzZNdzYzdG5RN0hNR0xULXBPN29tM2ktbUE3S0UyUjBXZ29pdzE3dTJkNUNSLTNQYUVyb1FNNXppWWl4V3lFTUJjazFvSkRIZ0E3bGIxUGpRUFdHSU1vTkJmOUZKcmVNa3I4MVVUZkdvT1N1VnVFLWJtYXBZbldPYm1sdHFKYzJuUnlYU1FycDdfYzAxNm1nc05yMF9tZkVZb0E?oc=5",
       "tickers": [],
       "at": "2026-11-12T08:16:26.856Z"
+    },
+    {
+      "key": "59c06bff385d63bd",
+      "score": 6,
+      "title": "Urbanista goes Swedish again as CEO leads buyout - Dealroom",
+      "domain": "app.dealroom.co",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSW1MbXRLUDFrX3RRM0pPbzJ3aDROaGhCRUxHTGdzWkNEVjh6WlpEUnh0RkRLLTJIZHpIbTZKS2FCa3pFNmYzYi1jMzBYWDlkVGFZYXRXV1dlQ2Y4OC1lcWViYmJKbF9yLUVveUZHRXl5TDRid0hvdXRsb094M3ZiWXhHWUo5SU1jQ0E?oc=5",
+      "tickers": [],
+      "at": "2026-11-12T08:18:31.471Z"
+    },
+    {
+      "key": "8690e676106cc267",
+      "score": 6,
+      "title": "BMW and Toyota recall more than 87,000 cars over fire risk tied to starter motor - Fast Company",
+      "domain": "fastcompany.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQUzNMSm9HZ3RzUUVhWmtMX2o1aWhjVHdnQ3lxbzR4SFhxdnptX2RfZUp3ZlljaDVDWlRnNHFGV0ExYWlBdFVZZXVrVUlQY0txejFQWEljY29RLU5IX2poci1xbGI5c2Z3SWFSaGhmMWg5a1h4VUt1Y0NVcXNmNWItWEJWem82RVlSY0F3VjRhbWhzMGxwR1pUUm9McFFHUkxOU3dVT21vNXhDdVZJc1FUZkFmbUtEcFB3QV9BSGU3U0pvOWIyNWFndi1ES25RaDNzcTliaTNwTTRZa3l6cmNiVE1zb2Q5UlViNjZxd0V4Q2RqdjdDWHMxSTZDWVlpZE95dDJuNnZsMDJhelBpclVvUjJDQm1Vd001OWhqRTRURldCbzlmbERSZTg0Wmt3ZjlWbmpxaUVzUk12RU5aU2xGRUpGZw?oc=5",
+      "tickers": [],
+      "at": "2026-11-12T08:18:31.471Z"
     }
   ],
   "lastQuotes": [
@@ -13672,5 +13672,5 @@
       "ts": 1794430801
     }
   ],
-  "lastRun": "2026-11-12T08:17:35.367Z"
+  "lastRun": "2026-11-12T08:18:31.471Z"
 }
