@@ -1,119 +1,6 @@
 {
   "version": 1,
   "seen": {
-    "6cd07b36223dec7f": "2026-11-05T21:51:51.669Z",
-    "82db87bdb84b1df8": "2026-11-05T21:51:51.669Z",
-    "12f573cd10b403fa": "2026-11-05T21:51:51.669Z",
-    "2d4860816966eb8d": "2026-11-05T21:51:51.669Z",
-    "6dcc8e0a1c1c37a1": "2026-11-05T21:51:51.670Z",
-    "b44b5c60ff4235de": "2026-11-05T21:51:51.670Z",
-    "ef11f3177ec34783": "2026-11-05T21:51:51.670Z",
-    "c2673854ef166faa": "2026-11-05T21:52:51.203Z",
-    "df9cdec6a4a5694e": "2026-11-05T21:53:51.386Z",
-    "77626bff5a6b5051": "2026-11-05T21:56:44.557Z",
-    "afb410797a2f84b4": "2026-11-05T21:56:44.557Z",
-    "f29654788b03543e": "2026-11-05T21:56:44.557Z",
-    "7528c8ad3d330d70": "2026-11-05T21:56:44.557Z",
-    "871d44fe04224e1c": "2026-11-05T21:56:44.557Z",
-    "8c1196692b38ac7d": "2026-11-05T21:56:44.557Z",
-    "6dd202bff70a5933": "2026-11-05T21:56:44.557Z",
-    "3898146d0f26caa7": "2026-11-05T21:56:44.557Z",
-    "8bd5d7a79cdf0075": "2026-11-05T21:58:51.416Z",
-    "af74f888af78c5bc": "2026-11-05T21:58:51.416Z",
-    "5795be61b2bb6f01": "2026-11-05T21:58:51.416Z",
-    "7c3dd156a539320f": "2026-11-05T21:58:51.417Z",
-    "07c04da14be9ffd3": "2026-11-05T21:58:51.417Z",
-    "219908f10d207e7d": "2026-11-05T21:58:51.417Z",
-    "06ab731ef6dbf6b3": "2026-11-05T21:58:51.417Z",
-    "d9e7089b6d944aa8": "2026-11-05T21:58:51.418Z",
-    "03c89aea39296b1f": "2026-11-05T21:58:51.418Z",
-    "40aa944e80fe79fe": "2026-11-05T21:58:51.418Z",
-    "0f8c531ba82f6e68": "2026-11-05T22:02:04.880Z",
-    "4e2543113937ca52": "2026-11-05T22:02:04.881Z",
-    "e79bb57ad06a4de3": "2026-11-05T22:02:04.881Z",
-    "4f3dfbbaa2d1f423": "2026-11-05T22:02:04.881Z",
-    "454a32fe7f84b942": "2026-11-05T22:02:04.881Z",
-    "c3810ba76ff1d054": "2026-11-05T22:02:04.881Z",
-    "013d3608e6c9e3dd": "2026-11-05T22:02:04.881Z",
-    "1444d951316cbfbc": "2026-11-05T22:02:04.881Z",
-    "74a5a646bdd98f1e": "2026-11-05T22:02:04.881Z",
-    "1d48ee57dc4b70a6": "2026-11-05T22:04:02.833Z",
-    "1d18cb86f44b6747": "2026-11-05T22:04:02.833Z",
-    "ce2bda40d3185e4b": "2026-11-05T22:04:02.833Z",
-    "7410f640f2d27508": "2026-11-05T22:04:02.833Z",
-    "1d595dcd9a5e51fd": "2026-11-05T22:04:02.834Z",
-    "cd6188b1baa77095": "2026-11-05T22:04:02.834Z",
-    "2bef17e9272d6ea6": "2026-11-05T22:04:02.834Z",
-    "5f2890d6ba0580c3": "2026-11-05T22:04:02.834Z",
-    "a787290677d1d498": "2026-11-05T22:04:02.834Z",
-    "5c81cdefae996f5e": "2026-11-05T22:06:53.869Z",
-    "eb19a01ee38d2855": "2026-11-05T22:06:53.869Z",
-    "9ae511b0611b3120": "2026-11-05T22:06:53.869Z",
-    "d023da1da6bf4217": "2026-11-05T22:06:53.870Z",
-    "3b71dfd7f74a2144": "2026-11-05T22:09:11.726Z",
-    "7e40bc5edf3cea3e": "2026-11-05T22:09:11.726Z",
-    "7b66c35dcb964d81": "2026-11-05T22:09:11.726Z",
-    "fe43123c496defef": "2026-11-05T22:09:11.726Z",
-    "af029ce581d20e2f": "2026-11-05T22:09:11.726Z",
-    "dad225d82cc57e6d": "2026-11-05T22:09:11.726Z",
-    "efc66c73b36b2f0d": "2026-11-05T22:09:11.726Z",
-    "2073a249c1c61fb8": "2026-11-05T22:09:11.727Z",
-    "82287ea67fb8c4a8": "2026-11-05T22:11:44.714Z",
-    "c22d2623b18c0a42": "2026-11-05T22:11:44.714Z",
-    "eee6cc536a6407fd": "2026-11-05T22:11:44.714Z",
-    "22dfa5c5c8accaa9": "2026-11-05T22:11:44.714Z",
-    "286d3d9c389a420d": "2026-11-05T22:11:44.714Z",
-    "522d07c28dd74f8e": "2026-11-05T22:11:44.714Z",
-    "4e23efa655a7cc92": "2026-11-05T22:13:51.632Z",
-    "42494da9ecd9f5dd": "2026-11-05T22:13:51.632Z",
-    "16ed40f4b8472cb9": "2026-11-05T22:13:51.633Z",
-    "3501440e3974af2f": "2026-11-05T22:13:51.633Z",
-    "c970918982c28319": "2026-11-05T22:16:44.477Z",
-    "ebfe59fc92e454b0": "2026-11-05T22:16:44.477Z",
-    "414387191e34ece1": "2026-11-05T22:16:44.478Z",
-    "9a97a65d0f0e50b8": "2026-11-05T22:16:44.478Z",
-    "3dcd5bbfaa7e19c7": "2026-11-05T22:16:44.478Z",
-    "856e61dc7e67fe00": "2026-11-05T22:16:44.478Z",
-    "55ff31fbe4be0005": "2026-11-05T22:18:51.620Z",
-    "9ec18d90f8efb341": "2026-11-05T22:18:51.620Z",
-    "4dc63b807d96b508": "2026-11-05T22:18:51.621Z",
-    "92e3b2a1a73fbb62": "2026-11-05T22:18:51.621Z",
-    "d63cd963c6cc0d41": "2026-11-05T22:18:51.621Z",
-    "39262b7db1acfa2e": "2026-11-05T22:18:51.621Z",
-    "ede59f231de544be": "2026-11-05T22:21:44.577Z",
-    "9a11d08fa943b31c": "2026-11-05T22:21:44.577Z",
-    "8566a211b6098578": "2026-11-05T22:23:51.702Z",
-    "91eb0b65f664e6df": "2026-11-05T22:23:51.702Z",
-    "8161c0e37bad55e3": "2026-11-05T22:23:51.702Z",
-    "9afe52afbc3b29e5": "2026-11-05T22:23:51.702Z",
-    "06a82a415a3f5be9": "2026-11-05T22:26:44.421Z",
-    "0d542ef1f47ce631": "2026-11-05T22:26:44.421Z",
-    "1690bc538be32291": "2026-11-05T22:26:44.421Z",
-    "f0add12ef0efc4e0": "2026-11-05T22:26:44.421Z",
-    "8c2f4d7e8c0e411f": "2026-11-05T22:26:44.422Z",
-    "f3758c35fd857f48": "2026-11-05T22:26:44.422Z",
-    "01545837948fb6e5": "2026-11-05T22:26:44.422Z",
-    "22a877d07dba96bf": "2026-11-05T22:26:44.422Z",
-    "07c053ebb9d50356": "2026-11-05T22:26:44.422Z",
-    "e271eaaa0b479e1f": "2026-11-05T22:26:44.423Z",
-    "2f2669f02a8fc7f2": "2026-11-05T22:26:44.423Z",
-    "184ae5c97c7fafb2": "2026-11-05T22:26:44.423Z",
-    "b805b82ac305d3af": "2026-11-05T22:26:44.423Z",
-    "2b8b0d6a4eae663d": "2026-11-05T22:26:44.423Z",
-    "c5fb36da78333c27": "2026-11-05T22:26:44.423Z",
-    "bdb8707e85c7a365": "2026-11-05T22:26:44.423Z",
-    "8ea40f2167517e25": "2026-11-05T22:26:44.423Z",
-    "e458b1bc40d3d54a": "2026-11-05T22:26:44.423Z",
-    "2024ff0f1a61cb24": "2026-11-05T22:26:44.424Z",
-    "bfa48973d3b1ef47": "2026-11-05T22:26:44.424Z",
-    "02b3d6ff7a15ba79": "2026-11-05T22:26:44.424Z",
-    "d0897617d1e7d0cc": "2026-11-05T22:26:44.424Z",
-    "349eda1495306abb": "2026-11-05T22:26:44.424Z",
-    "906aa5b8e3d775c7": "2026-11-05T22:26:44.424Z",
-    "cf47a0219d0d2605": "2026-11-05T22:26:44.424Z",
-    "7f7b1981365843b9": "2026-11-05T22:28:51.843Z",
-    "39fc7d4ffac9fb33": "2026-11-05T22:28:51.843Z",
-    "9c58bf3481deeb35": "2026-11-05T22:28:51.843Z",
     "5353bd4fdc7bab17": "2026-11-05T22:30:51.677Z",
     "2fdcd136f0d1c6ac": "2026-11-05T22:30:51.677Z",
     "022099744cfbbdd9": "2026-11-05T22:32:51.738Z",
@@ -10660,7 +10547,87 @@
     "9a0896f3c74b41b1": "2026-11-12T21:51:33.826Z",
     "a4914cc57b180dbf": "2026-11-12T21:51:33.826Z",
     "1597d0298f19e058": "2026-11-12T21:51:33.826Z",
-    "8dfe8f82e51abe68": "2026-11-12T21:51:33.826Z"
+    "8dfe8f82e51abe68": "2026-11-12T21:51:33.826Z",
+    "dee07d87d1d1dc28": "2026-11-12T22:29:47.400Z",
+    "df99f42384c118a8": "2026-11-12T22:29:47.400Z",
+    "ac299a4d717d5e65": "2026-11-12T22:29:47.400Z",
+    "6e29de41a835874e": "2026-11-12T22:29:47.400Z",
+    "1c052b11be88735b": "2026-11-12T22:29:47.400Z",
+    "5a88529be1e8de51": "2026-11-12T22:29:47.400Z",
+    "517e7e367b2f08d1": "2026-11-12T22:29:47.400Z",
+    "1092e7f48faded9c": "2026-11-12T22:29:47.400Z",
+    "eadaefac28d6f78e": "2026-11-12T22:29:47.400Z",
+    "c8e6ad25ac2d5b14": "2026-11-12T22:29:47.400Z",
+    "1d20d759c21e4501": "2026-11-12T22:29:47.400Z",
+    "b8dd98e22efdbb34": "2026-11-12T22:29:47.400Z",
+    "cf999cab387b13ad": "2026-11-12T22:29:47.400Z",
+    "bcb6de519faa719e": "2026-11-12T22:29:47.400Z",
+    "636f441068310ca6": "2026-11-12T22:29:47.400Z",
+    "a2d99d31d7ccb485": "2026-11-12T22:29:47.400Z",
+    "1e254c142b7791e0": "2026-11-12T22:29:47.400Z",
+    "3b3fd04c06ca5757": "2026-11-12T22:29:47.401Z",
+    "ab3177392739c815": "2026-11-12T22:29:47.401Z",
+    "82bd65369ee6222b": "2026-11-12T22:29:47.401Z",
+    "0b07ad6583c08daf": "2026-11-12T22:29:47.401Z",
+    "bdcef163eed1f845": "2026-11-12T22:29:47.401Z",
+    "5abde362176a6110": "2026-11-12T22:29:47.401Z",
+    "05881009432b1d5a": "2026-11-12T22:29:47.401Z",
+    "4f877d41900666bc": "2026-11-12T22:29:47.401Z",
+    "de1f9ca81cd23e87": "2026-11-12T22:29:47.401Z",
+    "90c072efee99d4c4": "2026-11-12T22:29:47.401Z",
+    "97ab6b1bc81f6d9b": "2026-11-12T22:29:47.401Z",
+    "25a10b8eb67bfa51": "2026-11-12T22:29:47.401Z",
+    "e7c61a99fec86922": "2026-11-12T22:29:47.401Z",
+    "0c3cf9fe25c32ea7": "2026-11-12T22:29:47.401Z",
+    "f37d83c950439335": "2026-11-12T22:29:47.401Z",
+    "0c2dff3b9738001c": "2026-11-12T22:29:47.401Z",
+    "d8a87df64fe987e2": "2026-11-12T22:29:47.401Z",
+    "c73470ae0b5ba7f2": "2026-11-12T22:29:47.401Z",
+    "a742916bbe0b454c": "2026-11-12T22:29:47.401Z",
+    "2e11a4244c1dacd9": "2026-11-12T22:29:47.401Z",
+    "c3e81ae3af4d313b": "2026-11-12T22:29:47.401Z",
+    "32724dd72a971c5c": "2026-11-12T22:29:47.401Z",
+    "29ef4acd834abac0": "2026-11-12T22:29:47.401Z",
+    "35712f29d19ec74d": "2026-11-12T22:29:47.401Z",
+    "ec4efdf42948a3d1": "2026-11-12T22:29:47.401Z",
+    "c258f2648e37193e": "2026-11-12T22:29:47.401Z",
+    "52f46d401b995810": "2026-11-12T22:29:47.401Z",
+    "b70c4f348ddccc86": "2026-11-12T22:29:47.401Z",
+    "29492b652fc1effb": "2026-11-12T22:29:47.401Z",
+    "141d53006644742a": "2026-11-12T22:29:47.401Z",
+    "fd602a4702ea4dcd": "2026-11-12T22:29:47.401Z",
+    "e002a5234d803723": "2026-11-12T22:29:47.401Z",
+    "64799bcc5539b37d": "2026-11-12T22:29:47.401Z",
+    "8ef889458bb9e624": "2026-11-12T22:29:47.401Z",
+    "77dffc3125802a72": "2026-11-12T22:29:47.401Z",
+    "7d4e4a9f93978e6b": "2026-11-12T22:29:47.401Z",
+    "61bc2b3aebf520e9": "2026-11-12T22:29:47.401Z",
+    "c3e57d8872e24cb9": "2026-11-12T22:29:47.401Z",
+    "f5d3900f780505ca": "2026-11-12T22:29:47.401Z",
+    "e0213c1b4256baa4": "2026-11-12T22:29:47.401Z",
+    "d994ef021c82fa9d": "2026-11-12T22:29:47.401Z",
+    "fa98d62aefb1512d": "2026-11-12T22:29:47.401Z",
+    "48d8beb310ce049b": "2026-11-12T22:29:47.401Z",
+    "0e5461e6181388ff": "2026-11-12T22:29:47.401Z",
+    "fdfb9e5b36e132fd": "2026-11-12T22:29:47.401Z",
+    "55bc9318487ca7d1": "2026-11-12T22:29:47.401Z",
+    "fc56ec084a3f595b": "2026-11-12T22:29:47.401Z",
+    "5584274e209cc9ae": "2026-11-12T22:29:47.401Z",
+    "2c970114d3a2dc78": "2026-11-12T22:29:47.401Z",
+    "489ae60645c8878f": "2026-11-12T22:29:47.401Z",
+    "eaaeda84b942d910": "2026-11-12T22:29:47.401Z",
+    "1181978e2ed68f9a": "2026-11-12T22:29:47.401Z",
+    "53ddf1f3af77f767": "2026-11-12T22:29:47.401Z",
+    "59e4c5581d12df6a": "2026-11-12T22:29:47.401Z",
+    "cb98b91200e36a7c": "2026-11-12T22:29:47.401Z",
+    "a9b0eaa168b05db3": "2026-11-12T22:29:47.401Z",
+    "b86c2c8781e23345": "2026-11-12T22:29:47.401Z",
+    "2231975bbe413ae7": "2026-11-12T22:29:47.401Z",
+    "1ec79ba6cb71fbb5": "2026-11-12T22:29:47.401Z",
+    "a3de94f52cf79c7a": "2026-11-12T22:29:47.401Z",
+    "dceedbfcff56781c": "2026-11-12T22:29:47.401Z",
+    "29a96b5b902c6123": "2026-11-12T22:29:47.401Z",
+    "cbbc95c3bbe46b07": "2026-11-12T22:29:47.401Z"
   },
   "alertsByDay": {
     "2026-11-06": 33,
@@ -10826,583 +10793,6 @@
     }
   },
   "pending": [
-    {
-      "key": "2f1722fb918da73d",
-      "score": 7,
-      "title": "Honda and Acura Brands Announce 635,808-Vehicle Recall To Address Software Issue - autoevolution",
-      "domain": "autoevolution.com",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQU21aakZ0NjkwRjAzRXZSUmVkX0pQV084Ti16eGdNS05NUGtkWjFvZVkyV3VRNEpFRlJxVFp1aEl1MDhsZC0xX0drX2k5SjB6ZTdKdjZPWnZqRldXcVlvVGNXQUI3clMtZldzTFdGWm9CandOeWVQWDQ1NHpaQk8xOFFMdnAzb2FLZlM3bEZUbnd5cnl0MzNaNnBpVlQtNlFFcVBUWjVUa1dFOTF5ZzlYc1FHRFpDQXQtS2xIanJ2SUxBZzdD?oc=5",
-      "tickers": [],
-      "at": "2026-11-12T19:24:55.007Z"
-    },
-    {
-      "key": "2d18326e2506a231",
-      "score": 6,
-      "title": "Silver tumbles over 3% as Fed rate hike bets fuel US Dollar rally - FXStreet",
-      "domain": "fxstreet.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZWpzMEJyb2RtS0JwS2VwNmxWcHFOQ0JFVHVPTFd3dGx0ZXRwQlVfVmF4N0VaZm9kTnpTMHQ4RlJ2MG1IZS1zakZsWEJMdVF4RnBzWDQybVUtcGZrd2xGZGZxMi1uVF9KQldib0ZUZWxBc1RyeXZTRzItMGNIaVFjbDJSU1BMdG9QQ21aZ2hTakpIVzFsY05aekxOc2xFaWNRVmNqRUJLazFuNTA?oc=5",
-      "tickers": [],
-      "at": "2026-11-12T19:24:55.007Z"
-    },
-    {
-      "key": "c146bf41c6aee5ad",
-      "score": 6,
-      "title": "Wall Street claws back early losses after absorbing big swings for Nvidia's stock and oil prices - KTVN",
-      "domain": "ktvn.com",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOYmZnTEZLWkZtXzlYOUlrOF92R1J5UEVTZGR5M3F3d3FwMXpRWDhuTFZKTW1ZYWF1T3hHeVB3ZW8wNWtBSlp2VVNlU1U3S1lnYmpNSjBYalhiU1J3bVlOYl9JY3dNSkxUcjg1OHJPLVBjZ1l3b1FYMm4wYVNuWDVVelc0SUs3UVBXa3dSMUtEcmUySXNzWDBHRXI0aUo4UkQzNWpyMl9ObjFSTXBpaU1xMlhZZlN2R2p2WjQ3bTJHSTN2LUZIemVfS0R6UHhaVmhrTEFhNEhPV0dVX2UzTkNtY2JKbEJmcTVodkZsSkoya3R1VlFHWFpBRUVBeFI5YjlXTGc?oc=5",
-      "tickers": [
-        "NVDA"
-      ],
-      "at": "2026-11-12T19:24:55.007Z"
-    },
-    {
-      "key": "0c3c0916a0032610",
-      "score": 6,
-      "title": "Prediction: Nvidia's Plunging Stock Price Is the Beginning of a Broader Stock Market Crash. Here's What Warren Buffett Would Do. - The Motley Fool",
-      "domain": "fool.com",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNeVFEQTZ0V1pLR2M5Qm1LbFJQNEZwUnp3TmFSUEdsZWVtZkg2cEl3bURDdXA1NHg2M2YyUkttVWI3RktaTUNfTmQxR2h2cDg3MTFTRVRMSGY0eWNlck12N2NGUlgzX3FLempZVzl0X3JMWWNZX2tnN09HM1EtTXROUWwzM01qbU1Ud25HSUVjakhnSEpFNkhycE1xbTVVXzM0Wlg5ZHU1WUgtQU84TGNhdDBIeGNsb0F5emRqcm44aWtJcGNkeGF0N0c1YXY2eXhxWG1LOG5ZVS1BNHJoZXlxM05nWExkenNZMFg3NmZkNDkwcFVpTDZNY1ZQY3dSWUJ2UWJ3?oc=5",
-      "tickers": [
-        "NVDA"
-      ],
-      "at": "2026-11-12T19:24:55.007Z"
-    },
-    {
-      "key": "25e0217501c06b7e",
-      "score": 6,
-      "title": "Daily Summary: Oil Rebounds, EURUSD Falls Sharply 🗽 Wall Street Stabilizes After Nvidia Sell-Off - XTB.com",
-      "domain": "xtb.com",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQUlBckEyTmJxdFhtenBGRUFTcHZLc3NDWEp1M1ZPTzRsVlJUejdEWFFZT2FjeXJfbk4zT2lQM2s2VjBUYmVyQm51ckZSazBpVUlVMnZpUEZpN0VRcEp1bjdka0tIbDVjb1d2Z1VnTmdaXzF5b2ZOZ1UzdUljT2hXMlhmeWpaT3VzZW1GTGFXemg3X0hRTDNHTFNTY1hWblVsOFJfS2pJZENCNGxjV1JxS0tKVEFjLVMwREtLUHRYV3UydmhVTm4zNFVqS3lEWmZWekpxYXdISTFtMks5RUl5QkNrOHA?oc=5",
-      "tickers": [
-        "NVDA"
-      ],
-      "at": "2026-11-12T19:24:55.007Z"
-    },
-    {
-      "key": "8a94c379b173f43b",
-      "score": 6,
-      "title": "Hapag-Lloyd profit jumps as stronger freight rates drive guidance upgrade - FreightWaves",
-      "domain": "freightwaves.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRW91a2pRTnZ6VmhaQUdXcS1CWjdlNE1FNDdBZkdWb2dMcmxVYVE3RE9sVWFtOHFmaWsxQi1ySGVVV3VrVW9Eckl6N3ZjNUFMNjZ3NTRRWlA2NjlrMUtOWDEyZkd2aWFVOE1vbnU5eDdGbERYMXBQRllhN3RpQWw2S3lERXIyX19aMEkzWHBtV19xY01uUmc4OXNfNW8zdGthQ1FTdDVkWWhsSDA?oc=5",
-      "tickers": [],
-      "at": "2026-11-12T19:24:55.007Z"
-    },
-    {
-      "key": "1ddb26321d2a3882",
-      "score": 6,
-      "title": "CPA Group Seeks IRS Guidance On Gambling Reporting Regs - Law360",
-      "domain": "law360.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZEU1MVFWZHpQM3hpalhQcVNGVjJncENQWE8xMThlN0V2RWNjWE1rRGVRNkQ2emhDc2ZUdXE3MnJVSE8zc3ZOTzkzdC1lMHBOcjBtVEJyUWM4SkhWYTYxc3pDZkRlY1pwVS1mVWJtb1d6aU9TRE1QNFhHbUt0OTJ1NlFkWVI5eGgtaDNXYWw1am5rZ2tsV0tPbTFjZ9IBVkFVX3lxTE1neXkyR29sMlBoeEZCRDIyRlcyUHJXTy1UX3d3X0hJc2JPVEN6SWNNZm1wQ1B0eUhUSzhMT2JxMGs2VmZHYXdvekt1WC0wcWxZZVFaMUhR?oc=5",
-      "tickers": [],
-      "at": "2026-11-12T19:24:55.007Z"
-    },
-    {
-      "key": "bb3dcfdf4b9aa501",
-      "score": 6,
-      "title": "Persimmon Keeps Guidance Amid Rising Sales - Briefs Finance",
-      "domain": "briefs.co",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSHJoV0J2TFBRR2E4OXJUOFhBMVI2a0pKVnBPZTBSeVpscjlvZ3FWeEhJNmFpRjk1Tm5OVU9YNV95MXhnbHE1QzNlS1M4akhuWXE0LTd5M3VNMEhIeEdyeTVvTlU0N21hTUhlOVMxM2tMNXR2UGJYZGxkVFhPZEdHSHBpVHB6YkJNb0NFdE9aMA?oc=5",
-      "tickers": [],
-      "at": "2026-11-12T19:24:55.007Z"
-    },
-    {
-      "key": "d2e3ffa17ecc4988",
-      "score": 6,
-      "title": "ORS: Sales grew, but margins fell; FY 2026 guidance remained confirmed - TradingView",
-      "domain": "tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSG1UTzkyclNyUjZpT2VHcDhrd1RsTkM1SENpYTJESEIwY3NkdHV3SFowQTRQM2c4d3ZBbDh1dU0wNU15bG9qVlc5Rm5mN0E4Njh0MGJJcXBITlIxc3RBZTk2M0NZdFhuY1ZlcDkxVjdvT3BhLVJoX2l1bzZfakxRal92UkE0UXBuYXQzT25Ec1lpTVFDemRONURyOXZ3eWN3WmkzU2RhNlpSWkZUR24tS1ExT1ppXzBOTVZxSVlKZ0c3dUdDRWh0Y1dEUFlVSHpyaDdwVW5KMGV1cWU2Zm1ZS2ZjRG8?oc=5",
-      "tickers": [],
-      "at": "2026-11-12T19:24:55.007Z"
-    },
-    {
-      "key": "eff0333def8f5c2a",
-      "score": 6,
-      "title": "Three Companies Learned How Fast Guidance Can Hurt - Finimize",
-      "domain": "finimize.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUXE4emVZNmdieE0yTjVoa0t4TE1pT2pWU0tSOVJhM2ZEbmJQVzlNVTdpTHNtc1BWcTRGQnUzR1o0ZU96bE9NcFhVTl92Ylk3WHZORTF1T1ZsYWZvQVZ2WTBBQ1FfVWtOV1NFSFVxbC1scjZIMGM2T2Zna0d6aEo0cXpEcXBsZw?oc=5",
-      "tickers": [],
-      "at": "2026-11-12T19:24:55.007Z"
-    },
-    {
-      "key": "1dfb609bc17ffd03",
-      "score": 6,
-      "title": "CON: Tire-focused strategy advances as Q3 profitability and 2026 guidance improve - TradingView",
-      "domain": "tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPV1dvc29BRHZScUtsYUh4QjJtSXhJM3FFTW5oWU1GQWVaNUV6bmFiZXByQzVyckVGVEtuWjRkZzZiRm81OVZTLXJQOHlzX013MmFIV3gtaURRdklnVFhyX3d2cmg2dFVZa0t1a3FCSUVYWWRraFk1WkJSSk9xRHdBQ0dqVUNlWGdMSzJGdGdILVZNQW8xYVRpOUtvSGFKOEEyT2ZxSzhXcHkyNHNGdXl5U0M3N1EwNjUwWDNwOTQ0OURUUlNLNlF6dVhnU2tPUU5OcVRabU1zZ0JlYjlTNi1YSkFBeE5OWmZSTEstdG8tNzlxUmJGNk4tQ1liRQ?oc=5",
-      "tickers": [],
-      "at": "2026-11-12T19:24:55.007Z"
-    },
-    {
-      "key": "b9283f73a6e5d81f",
-      "score": 6,
-      "title": "CEZ: Lower power prices cut EBITDA, but net income rose and guidance improved - TradingView",
-      "domain": "tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPTzE4MnZrU1hJZmg2bDVOcGd4WGJlMkQ3cFlwaVNxcVR3SVpKNGlaX01DOHVCQ1ZfdzFULWZjelJ2SDlvMmNxbXkwQmtHUmQxcW9tUjhxNTYyV1V5V2VsU29HUklYLWdEMHdGbDY2ZXdwQUN4MEVPeEk0X3RGVFBzWWI2ckw3ZEs2em9vNFpWN1p5c3JqMk9uOUtSLVFVM2I0NEVmSGQ2clNiTkNWcnQ2MHhWRWhFbzU2bEliZGlwS0hsMk4xRHFfNG9nR2lTX2JWblM2dGRuNzN3M0VIdHRhVldQQzZkaFA4Q0FVWV8xVWFXUXJj?oc=5",
-      "tickers": [],
-      "at": "2026-11-12T19:24:55.007Z"
-    },
-    {
-      "key": "235d285b68d4c86b",
-      "score": 6,
-      "title": "FPS: Record Q1 revenue and stronger guidance, backed by robust orders and a fully covered FY 2027 outlook - TradingView",
-      "domain": "tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPbDB6NDFUWE5haklUWlZhX3gxTTNSMDB1aVRtWlRpaHo4cUxSZzRiUG9iUXBSM1VXblFZb2tCaDBpekRzOHNRUnEzb3N4VDJTOVk5TUxtc2lHQXd3WkZGcDZzN0NMcTBUdWlsdzZGVHMyRElJdzB4U09TcUM3M2NtSVgteGpzQm8wYTFIOTJKbUhxMGZDM3d6TmtZbHpPblNFWUpiT2x3NERTMC1aZm1xS0lRT0VhMDdlOThVdkk5N3hwbEJ0V3NkX1hXSmVNam5tX2E1VDloSjJ2VGxZbmxZZWwybG4tWGx5UnV5TWF3Sk1DSlA0RnpsdTV1TjlxQlEyaGM1WXlvZjJuNFJtZXpPNmFFNlhmTE9ablE?oc=5",
-      "tickers": [],
-      "at": "2026-11-12T19:24:55.007Z"
-    },
-    {
-      "key": "b23504095ef6d1e9",
-      "score": 6,
-      "title": "CoreWeave ($CRWV) Raises Full-Year Guidance as AI Cloud Providers Nebius and Crusoe Navigate Heavy Capex and Financing Risks - Crowdfund Insider",
-      "domain": "crowdfundinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOckVCZGdqRDR1WW90QlpOWHpUR0N3NDVsZkpGUXd0T2JtSFdVYkJwTEtRS191Zm1zTEIwQ2Q2Z0kzODBDNDZmZTRRcTJWYUF4ZC1aX1BIZWJDU0RyTGwyaGpzTHFvaE0yVUM0MVBuTVdXWGE5Q1RmYThEcUVvWHBXMWtaQmlhT3RzZmxoa1RCNXdTMFZzZ0MtMnk2WjdzZGZSaGl4Mk12UkVvX0pJM01nNW5Uc0xOWHBON0JVall6MHFHak1odWxhVTIxa2lENjd4RVYtT0E4RXR3QWhCMW9VU3J2LTFJS1k0NFJfSjNEek1DQmlpdWtxQl9PRkhTSlE?oc=5",
-      "tickers": [],
-      "at": "2026-11-12T19:24:55.007Z"
-    },
-    {
-      "key": "8aec67574eb2d58c",
-      "score": 6,
-      "title": "Paysafe Limited Updates Earnings Guidance for the Year 2026 - marketscreener.com",
-      "domain": "marketscreener.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPY1pJTDNYcmRJTllEOUVVMmhoMzdxSEYyenJfcjVQYlVxbWJyTkItYXlDWUtNLWxfd2NRWGtrSHFpMEFMSVlOUGdTTkRNQU1iYXZBemswVTlDZTR1MGZyYlJZUkpDU3Y4X19SYk5wSjIzTjN6OVBXbVJGVlZtOFF1emh6S0JTRTF0UjlVV0R4Qi1HVnEzdGhmVTdqd19vQ2cwaXJGdVpBUERjYmxlWUhSakFR?oc=5",
-      "tickers": [],
-      "at": "2026-11-12T19:24:55.007Z"
-    },
-    {
-      "key": "24038da886310768",
-      "score": 6,
-      "title": "New ALPLM acquisition details Lincoln’s dry-goods purchases - Capitol City Now",
-      "domain": "capitolcitynow.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMm5iNTVEZERJRGdrcXpjd0Y0NFozUG1FTHZZRVEwS1VRekVWdm9RdHFPTW9CRXdHa3JETlJBZ3lwYTNwSS11bk9ZMXZPLWU2MHlLZUxIVkJtc3dIUmlzSWZHaHBoUFZDelV4RFpvTXVJR1dPUkU0SHRzdkJuVGs3dFpHTEkzWFd3MzBEMzhPamZiNGVCU3FBSHRCcm1yQms?oc=5",
-      "tickers": [],
-      "at": "2026-11-12T19:24:55.007Z"
-    },
-    {
-      "key": "bb14b5c7f8c11e8f",
-      "score": 6,
-      "title": "Baton Rouge-based Lamar expands in Midwest with acquisition - WBRZ",
-      "domain": "wbrz.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNmJyak1UZTBabmo1UUtrZW55bEs2ZlA2Qm9MeHVBN1hSQzVUWVRlUWoxb2JYMmp0SjJDY2pVekE3Uk13RjdLck5UTmdMZlJUWnBkWkNLRFBweXlqa0ptMnNkMmUyYlNIY0lfMjZPVHZLMWUyS1dud1Q2NzVocG5WamsyZjc1a3lSRFItSGRvcw?oc=5",
-      "tickers": [],
-      "at": "2026-11-12T19:24:55.007Z"
-    },
-    {
-      "key": "c28ee53162266267",
-      "score": 6,
-      "title": "Gianforte appointee key in split approval of NorthWestern Energy merger - Billings Gazette",
-      "domain": "billingsgazette.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUDBydmxWTjZaaGZrdDBfOElOd2U5elo1TGFoNGo3Z1Vwdk9ta2d2OWd5bFBPZzBCUTRndWNYNUZ2UnlZZVU3MndNN1Z0R1BlWTYyS295WjR6SkE1OXpwd2tKVGNYdUdvMTVxX3kxczYxcWliaXhJRDBFTmNOZDYxaUxuV1E2eVBaSUozSmVfTUhTZWwxSTBkUFB5RS1mYTB0a0RRdXF1UWMzdW1kYnBaSU5nZXF0YXB1?oc=5",
-      "tickers": [],
-      "at": "2026-11-12T19:24:55.007Z"
-    },
-    {
-      "key": "9d659fc129a224a1",
-      "score": 6,
-      "title": "Stratasys, MarkForged Call Off $42.5M Acquisition - News and Statistics - IndexBox",
-      "domain": "indexbox.io",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZ0s1NldGSUJqN0w4MTJmdmVvdE1ROWtDNlU2YkhiSkMxek91ZVRXOEZ0Nl83OU5EaEV6c1ZQR1dvT2dPOFdtV1RVeWhaNnJDZ1hxN0lhT0tyQVMwbklOVnJNZEZuOW40bklXeFpEZlU5bFlROXdLWjhxakRVak1vdDZ0MzJ0QzR3SFlQejNuNA?oc=5",
-      "tickers": [],
-      "at": "2026-11-12T19:24:55.007Z"
-    },
-    {
-      "key": "0a5a98ed877c758e",
-      "score": 6,
-      "title": "Danone completes its acquisition of MADE Group, expanding its presence in the fast-growing healthy nutrition space in Asia Pacific - Yahoo Finance UK",
-      "domain": "uk.finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdW1BUGUxcFJfZmdmeGllYnVSTlZ5d3hBdUZYLWU4ZG9NRjMzd3RVYWRjOWtPMFB5ejZRb3p1TTNGMHk3dGZ4Q2RhcjRiS3gwVnJSTzBxd1JCY1llTnZKZi1kRElhbTdhNTc4WjNoSG11VThGOWhnZTd6Y1d1Z3FkaG9Fa3hWdTBBWWhpUlpnQlV3UQ?oc=5",
-      "tickers": [],
-      "at": "2026-11-12T19:24:55.007Z"
-    },
-    {
-      "key": "d2a1e3aebe5178de",
-      "score": 6,
-      "title": "A true-blue takeover - The Slate Online",
-      "domain": "theslateonline.com",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9kWHRyZF9OSlBVaWRMcE01VUhHX3ZHalVidXNFbmdHemMweVV6T0dueHJvNXY2RnBNeWhVak5VUlJ4MV9BZFNUZnhCejItU2o5aXNLTGUtZWtDXzBEbFhtaTNPX3RZYTkxSHFTcy1iaG1mYm5jeHc0?oc=5",
-      "tickers": [],
-      "at": "2026-11-12T19:24:55.007Z"
-    },
-    {
-      "key": "736f6b7fce087ea5",
-      "score": 6,
-      "title": "Review: ‘The Book Of Boba Fett’ #5 Begins the Din Djarin Takeover - Star Wars News Net",
-      "domain": "starwarsnewsnet.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZ3gwazB2MzdjNUs1MlRWZVFNZDBzSXlSNGhfRjdYOXhjZ3E3UzdsOEZyT25UM1lzUGNxWHhnd0hjR0xLZktqcGFDWTBvSDhaWHhQNTZEN3hBRmlxODRvZmRTTEJmLWNKd0xDdFlIdGJkQ0xUcUEwWUtzeVBWMUtBZG96Q243ZzByM2ZGQ2pLeU96VWQ1VEV4cjh5OEJyM3pZV081WmNTRjE0QQ?oc=5",
-      "tickers": [],
-      "at": "2026-11-12T19:24:55.007Z"
-    },
-    {
-      "key": "dfded8096ecc2168",
-      "score": 6,
-      "title": "PAWS Kyle location reopens after merger with Austin Pets Alive! - sanmarcosrecord.com",
-      "domain": "sanmarcosrecord.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObmd3S1FqU05aVTBrUWlrTDBaVUZVaEE0VFd2aXlTSWwyTG84b0NTOUFtRWphVjk2d3FnSGYyOVV5NWRNT2MwcWlKVGdjXzN2Yl9YNld3RHhyckxRWkNXc2g3RmduTXk4ZkNVaXpKREhyQWV5OXdzSG04Wk40eHF3V2tZSHY0empiWkxncU16dw?oc=5",
-      "tickers": [],
-      "at": "2026-11-12T19:24:55.007Z"
-    },
-    {
-      "key": "ff268e653fa9c134",
-      "score": 6,
-      "title": "PBS North Carolina announces merger to strengthen statewide programming - Raleigh News & Observer",
-      "domain": "newsobserver.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTk1kd1NKWVZ4bkpUYm5DeURDQTdQNDV5R25kWG5lbXdJakJNZG9yM3lpbnRsdUdOaFBKZG9uSV8zd3BueFhGaHBkdXNpR2pPSmtNcEdYR1pVT1lnblBlNUtIbGU1c1Q0VmhvRDlDNTAwRTZ0U3BIUjdJTG1NMVh5UmhtMWhNLWEtTFhLSTZpV1HSAZABQVVfeXFMUGIwNUt5SWRzLTF4ZkRucTdBaWJNRkt3Z2QyYjgtM0ZTeU5pUzl1ZldFaHprYVNIOG5OUUtDNi14b2VJTHVPbkNHUk9ieXppV1ZDczA1VTkxeEpRdWVUejhkVU94MHVyLVRnQ0tHWDRzNUFZemY5amFha25MakNIa0hLdXVkaFRtenZTRWFlcTlM?oc=5",
-      "tickers": [],
-      "at": "2026-11-12T19:24:55.007Z"
-    },
-    {
-      "key": "9d1e597c1c9bf447",
-      "score": 6,
-      "title": "BWEN: Revenue grew 48% as MCM acquisition followed the wind-fabrication exit - TradingView",
-      "domain": "tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNeU8tQWQ5YXQ3ZGdFVm1YQkVOWUtmNVhEUjNqZmFOZDZVendzTEE2MWcyRVdnM2MyRFRvOTVNLUtOYm56WjRwaHRxWHYyMWNBU2MxSFdVWHZEUDlpZ3pIdThOa3FJYnAyb3hHd3AtSTFMeVJUenJEeEd5SnZlWEFWZHloZkV4a1ljRU1IZXlxM1FGSG5OdVBWUUtraGtCdEFJSVdYNWRPOTg3Uk4zQ3hxZDc0QzhDcXFtTzlrTERHU0ZjUXI3ZFpHX194TmxaeUd3cGliODFWN193VkQ5TWpPOTJ0WGhCV05xOUJSVkdR?oc=5",
-      "tickers": [],
-      "at": "2026-11-12T19:24:55.007Z"
-    },
-    {
-      "key": "e2b41c2d15822b43",
-      "score": 6,
-      "title": "Xylem completes $1.46B acquisition, expands pumping portfolio - Canadian Mining Journal",
-      "domain": "canadianminingjournal.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONE0zTU5WZ3Fma3pxdFktUWRhMFN3aTdwUkdxUHdRcmVyc2pSdmFEVEttYkJlazAxenF6Wnh5QnVWc1RkMXBrWjQ4MmJzWjBrVzRJWU9mTTdpNWxNRGdoUXVWTW1UNmxfN2hPTGJQWlJZekk1akRzck1BX3B0dk91eWYxUWladWZZcnp5cEVvUDZ0aEk5b1UwOWhnSkVFcjYxSExKdGpR?oc=5",
-      "tickers": [],
-      "at": "2026-11-12T19:24:55.007Z"
-    },
-    {
-      "key": "bd33f38b9c3aa026",
-      "score": 6,
-      "title": "Nein, nein, nine: Vatican pauses German diocese’s parish merger plan - The Pillar",
-      "domain": "pillarcatholic.com",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1DU2RzMHI3NU5seS1EQTk1VGlFeFdieHgwR01xMXhEeEdPZkx4SzlIWFBVSTV4SldZOEJfdm90dUo5TkJSUHRpUjdwRi1peFN6em1BY1FRZ2g2N0pPeTJVUlIzYlRGVHVOd0cwdF9mY3hqZ0w2b010aQ?oc=5",
-      "tickers": [],
-      "at": "2026-11-12T19:24:55.007Z"
-    },
-    {
-      "key": "5e2900f57df28fd8",
-      "score": 6,
-      "title": "Frasers is installing its own executive as Hugo Boss CEO after takeover - Quartz",
-      "domain": "qz.com",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1vNGNEcEpjX0pqMVY3SG1RWkdUS250bi1Sb2l1RWU5aFpkQ1FFR3h6OC1fTUtjUmd1UUJ0SVNDT04wYkhsNzJlUEVOZDYwNkxmc1dBWFIxSng2VS1KbEkxVjNJUm1fMzhod2tLLXd0SUd4aHY0?oc=5",
-      "tickers": [],
-      "at": "2026-11-12T19:24:55.007Z"
-    },
-    {
-      "key": "33e4b9735ee5df55",
-      "score": 6,
-      "title": "Frasers Executive David Epstein Becomes Hugo Boss CEO after Takeover - ASHARQ AL-AWSAT English",
-      "domain": "english.aawsat.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSWRZcWFVejVpVUNld3J1MU1yN3pNZTlpWDZVTVVpbEV1R3Mzc2F6NEtJalVVSEdXeWd2VnMxLWxhOXZ1S2tSNlZMUDNVWkdzZVRkUzM5QWFjSl9tR0QtR0M1dTZPVFBJNFFIQ1AyTVpjUTNKd3pQYW1RNUNSM3VMTldZLU94c2RHcTczUGRqeFZfM1Y3RkNkT3lESEptUzk2VzdiQlJVTWRyQXdyakhOVQ?oc=5",
-      "tickers": [],
-      "at": "2026-11-12T19:24:55.007Z"
-    },
-    {
-      "key": "8d288005e06d1d2e",
-      "score": 6,
-      "title": "Devils Recall Kolyachonok from Utica | TRANSACTION - NHL.com",
-      "domain": "nhl.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeElXWmFLeDJ0VWFfNXNrLVJRZjk5azd6U3g0TERLM2U4MXNxU3EzdTlrZmFMOTIzN0xoVFdJM2x6QjNwa19wZ1phdWQ0TGpYZnhwQlkwWWRnblE4YjFpajNrYlEtQXhQU242MXlpNmluQU16d2F3d21yd0JSallCVG5DbHdPbWhmMWdPRUM1eWNUVlk?oc=5",
-      "tickers": [],
-      "at": "2026-11-12T19:24:55.007Z"
-    },
-    {
-      "key": "735f4b8342463110",
-      "score": 6,
-      "title": "$1.9M Academy Mortgage data breach class action settlement - Top Class Actions",
-      "domain": "topclassactions.com",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxON25XSnhCc1k2Y1JaWlhGYVBJOGZadHk0SkhTVklEZ3NVeDZXTS1Sd2dLbHhBN29nTmUyOVNFOXNmSTl2MFYzbVdYUUFnaXc3NDFMQjU2YzItOHV2eTE4SG1pd0k5djAwQ3I5OXpqNTU4cGhlbWp3ZGZjYVpsTndpMnFqZFl6R1FBUU91NXV1R0gwS1UySm1CbUxjRGJpb2pTa0VzSE5VTFpkX2hZV2FSSDhwTGNFc3huRlRyR3NVSXk4OVR5S1NtT0pKbw?oc=5",
-      "tickers": [],
-      "at": "2026-11-12T19:24:55.007Z"
-    },
-    {
-      "key": "ef3998d5c86f2cc1",
-      "score": 6,
-      "title": "OEM director, others recall Wolfe’s dedication - www.dominionpost.com",
-      "domain": "dominionpost.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPb2sxYU5JTXRYVi1oM0gyQVF5X0puQXpaUEN1dXA3UXBHRXVUMFJzQXh5dVZ6bnY5M3ptT21adGVwRTI3TFFVV0F6T2FFb1Y1M2lLYlE0VHJVTzExa3AzVkxFaEFudEFYdzdVUGVoRzVxczZ0TGRuX1d5dzBHT1ZVa01ONTAwNnFJYTc1V2VR?oc=5",
-      "tickers": [],
-      "at": "2026-11-12T19:24:55.007Z"
-    },
-    {
-      "key": "30e19eb91374b62d",
-      "score": 6,
-      "title": "Hempstead bus camera tickets face class action lawsuit - Herald Community Newspapers",
-      "domain": "liherald.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1UMzl5alVZX3hxam9FQkhONkk1bUtlY3ZqeG5Tbzh1Q3dHVmlyeXdhTURpbVNlaEdvTUlPV2FJV19sb0JILTFXVjRlZEpSRThMby13eEEwRUpseVhtZTFCWEF6SFRGMERZdGJSNzB4SWNFdUE1UlhDTmIxM2s?oc=5",
-      "tickers": [],
-      "at": "2026-11-12T19:24:55.007Z"
-    },
-    {
-      "key": "a15fc0f1638e94ed",
-      "score": 5,
-      "title": "Nasdaq 100 Turns Green Despite Nvidia's 5% Drop on Huang Exit: Stock Market Today - Benzinga",
-      "domain": "benzinga.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQN1NMSDRycDltOFB1TzMwVVFscXVaNnp4Y0RvM2E2TVdldm1RbEJFTWFYNmozampaaW9GbDVhRndTNWJ6T0RfbGJrMjUtcVRGYmpUUHZDNDlxRGxTaEtzQ2hnME9vVkpQWGJ3RnJlWEZhcDUxZkhZUS02TUJkNFRYMDNRUVRoSWhnd3FuN3dWSi10WkNkcEFUM19pYk56eG02enRKYUt1c2N5LUtnTWpRN0FR?oc=5",
-      "tickers": [
-        "NVDA"
-      ],
-      "at": "2026-11-12T19:24:55.007Z"
-    },
-    {
-      "key": "560d6e01286d8371",
-      "score": 5,
-      "title": "Energy briefs–oil prices affected by more attacks in Middle East - Oklahoma Energy Today",
-      "domain": "okenergytoday.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPY1pBbVpkc2E2U2JxQmY1a2J3WEtWR0ptSktnejFhUGxta2d1bGpFWTNGQVFLSWdtWHVyYmQ2RjZHc18yTElhVmV5NmFiSW9BdFl4enYwWkt6b2J2OTBucHNOZWlBN1U1M2lvT1hST2pNOFZPbEFrVEZMQXY0Skk4eUZ2X1lzVlY3TFRhR052Ni1QRXktLThrZ3JfZUtmRm16?oc=5",
-      "tickers": [],
-      "at": "2026-11-12T19:24:55.007Z"
-    },
-    {
-      "key": "a5e5d2f5addae849",
-      "score": 5,
-      "title": "Banco BPM says any Credit Agricole deal must adequately compensate shareholders - Reuters",
-      "domain": "reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNWxveTZWeTR0TC1DeHRzbW5IX0cwZFZuemI3a0tjUVl6TnFnYmt2eHNtSU1jU3J5N0oybmJlZXlfd0hHTlVneGtwZDN2X0lGaGpFanFVeE8wdnZKQ1gyanFXaUNSR19sblpmODMwX25GaWJHZkcyZF9SYUtlbDc3NF8tUmtDY2ZTWkJBVjJxOVpUeGFXcmFvVDJkQUFsd0ZQVGhlQVAxUmdRZHAzN3BrZ05ITlNrYnVyX3JYb1JETGVad3Zvdkh6SGtHak9oMUpn?oc=5",
-      "tickers": [],
-      "at": "2026-11-12T19:24:55.007Z"
-    },
-    {
-      "key": "fd0f1352b2278fce",
-      "score": 5,
-      "title": "Latham Advises on Financing for Investor Consortium’s Acquisition of RBE - Latham & Watkins LLP",
-      "domain": "lw.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcGVVMU9wVEVxMy1JV0l1ZTM2ZEN2WUV5RXpPNG1GUTRSU1F4N0M2LVVJTUlhNFU1RVlTWFFDVDFpb2NnUTF3MHdiNnFSSHY0SXkwUENZNkxaeEhKQk1adXpKNlVJUXNibU4wZG1UWDBCYTBSUDM3T2lpb25YUE9CVmIzc3BsZEJ0M3NveldXbnE5V2RBMl9nTHJzUldoWl9hSzdrWU5GR3JWdw?oc=5",
-      "tickers": [],
-      "at": "2026-11-12T19:24:55.007Z"
-    },
-    {
-      "key": "1f5ec376d5648698",
-      "score": 9,
-      "title": "Wall Street Takes the Chainsaw to Nvidia Targets: One Bank Slashes $465 to $186 - Benzinga",
-      "domain": "benzinga.com",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeDAwNlhwbEJTM3dNVHJlS0pDNXdtVzNOV3VTY2QwN05qcTJnYXd1V20wYkMyTmxlaVJPX0FMNTlhT3hHTHp4ZjFOelBMS2FvRFJ5ZDlNNW5JQVVFb0ZtT1RRc1hEYk9PYTBTa1F1b2pheFRNbFp0MDhqZElqNTZmYktsOUxvQnplMVFmRDYtcUxmQm4taTBDSHFzaWZoQnd5YmNHN2dsRkt5NG1LMS03bm1wclNKcGY0YlRzeDdRdTNQLWx1cmc?oc=5",
-      "tickers": [
-        "NVDA"
-      ],
-      "at": "2026-11-12T20:16:49.984Z"
-    },
-    {
-      "key": "40ae287f02f3c1ee",
-      "score": 8,
-      "title": "Are Americans still looking? Revisiting long-term unemployment - Federal Reserve Bank of Minneapolis",
-      "domain": "minneapolisfed.org",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQa1B5bFVIMWdmOTJoc2FjemRKQnRIcWMwUjNnUUwxdVAxTk1JdDJ6WkNLSHBtTVdzM29MNGw0ZkVUTGZJVUpaSzJrUHlxOERadzNydDNKQ2lnd0VRTXJZNVZWcGdBM2NtR1NPbkRHbHE1WUtYaF9sdjJlR3UyUTJ5dmpEZlZLRF9sZXUxcnQyeG5EaEVYa2RzWnRCS0JXZnZzN2RYbW9GYm4?oc=5",
-      "tickers": [],
-      "at": "2026-11-12T20:16:49.984Z"
-    },
-    {
-      "key": "9d1b56595e411123",
-      "score": 8,
-      "title": "Equities little changed, Nvidia drop offsets lift in energy shares - Reuters",
-      "domain": "reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQY01YWkJBY3Roa2hlWkVsbHhpcHplMm5NX09pWEJlMC1rWTY1ZDJoTUh0elc0WTZvdmpDOXJhS04tN2J5Y0N4NmZPdGk0aUhKdVZLT2RMSTk4S2EyZEJMYzY3WnpMMklfRjF3ZEJXZzU3d1VBTmlWS3Y1cllaYURseVQ4Nl93RFVLOXB4M1J6bnM1YVQ5QXBaSDZCOXEwUQ?oc=5",
-      "tickers": [
-        "NVDA"
-      ],
-      "at": "2026-11-12T20:16:49.984Z"
-    },
-    {
-      "key": "8fad8a324c4269af",
-      "score": 8,
-      "title": "Trump threatens Mexico with tariff jump over migrant caravan | NewsNation Live - NEWS10 ABC",
-      "domain": "news10.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPN0ZkRmhKYVZ4bnh0OGFhZm5wZ2dNeUJWRlBLaUZqYWswZ0FraGJQVGl2dXB3Q2NqeFNMYXp0bmFscFVfQzBwN25sM0NwTmV1WTdtdk1PaW9lTGM1Y3JIMjRaaUk0LVZqVXYyUnZ1RERDcS1yMzJ3alBlU21leThRVjRrSzk2N1VNV1phR05sUFRnaWYxNkkwNlMzY2F3MnBERXNWanpQQUpVYVNxcEZXQzJaODNYQQ?oc=5",
-      "tickers": [],
-      "at": "2026-11-12T20:16:49.984Z"
-    },
-    {
-      "key": "14bf4a836ffc55f3",
-      "score": 8,
-      "title": "GTCR Urges Judge to Advance Stalled Cable One Acquisition - WSJ",
-      "domain": "wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNzlPdnBaMklqWU1EVzRwMGh4RXVHRm9MakJtSlZVNEEzYmJKSnJsRjNXdk1vTXpTUkVVaWdBdTJXQ1NCNWlsYWY5TmQwbzhpdnNpRmlRZUppWXlJV0U1MjM0MzZRQTlYUTY5UUcxSXBvbWw5YmhoczdBT2Rsc3ZvSkNJYmpPY3lVOTNNOE1fbTgyM29xV0xTRXhMTUpZWHV3Vkln?oc=5",
-      "tickers": [],
-      "at": "2026-11-12T20:16:49.984Z"
-    },
-    {
-      "key": "d1211ac1e4784406",
-      "score": 8,
-      "title": "Mike Ashley's Frasers tightens grip at Hugo Boss with new CEO pick - Reuters",
-      "domain": "reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYzJQanVoRy00RlB3b000R1BraXl2TG12RkJqNlhma2NCNEdRZXptVVg2emFKcHBtQXM1dmoyYUg2bDhjQWlLQzEyYm55djMtNG9GTXlScFRfaHM2YUJFbnVWaERxTlhWNW9STWlqdmZrSmc0dk1JRUd0eEFMQWk0QXpfM3lZYjdiRmxYMU1vR1RrWHluYkJjTDVYZWNWa002TXhzR2N4ek5jNDBrX2lzdHpmSGVwZzhkN09iaEwtdnNsdV9nRVlhMg?oc=5",
-      "tickers": [],
-      "at": "2026-11-12T20:16:49.984Z"
-    },
-    {
-      "key": "783439229ebdcc08",
-      "score": 8,
-      "title": "SpaceX and Tesla Talks on Record Merger Are Said to Progress - Bloomberg.com",
-      "domain": "bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOVhjTWZjYS1paVVuVHpOVmJRaFpkclFuVmtDZ1RYQS1tUjI3YlNoTURnMWwyMUNxRlJEdXVYVHZoNUxRTUVOT28xS0JzS2thUmQ4WE5jMEgtajNlRWhCc1UzRkxBZGRuV2tRZWlmQjFBbmxPbk1ZVjI1Vy1wVy1fRTFaTXgxMjFpNDNKeDg0alZTLUhzZXNKYmxkNlNrMFZwdHBkTEJFTEhrQmNZdE40ZQ?oc=5",
-      "tickers": [],
-      "at": "2026-11-12T20:16:49.984Z"
-    },
-    {
-      "key": "e40c3cbfe4d0d6c3",
-      "score": 8,
-      "title": "Recalled Costco food item sold in South Carolina may contain cleaning chemical - The State",
-      "domain": "thestate.com",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1GVGxkSGN2amVxb0JOdEpZUWZPbnZPWHh1X2cybUJyUDJWUFhEelF4aVdUQUkyQXhSNUZxQkVrdW4xM09LRUhhMnZIUXppMVFuS05xZ3AyeGZQME5nUGZ1OTQ4VXY3UEJEblVOYtIBbEFVX3lxTFBNa251eGVYOEVtbzU3dnNKblp3SEZ0SnVSRXpOclhfNjF6MjVtb2QzUi1ZdkMxWXpaRlVMVXRmUmZrRFVhM0N2R1B1ZU51ZldvNk1yVElDc0tQQTNPa1pBNENvdFJqTVF5U3dheQ?oc=5",
-      "tickers": [
-        "COST"
-      ],
-      "at": "2026-11-12T20:16:49.984Z"
-    },
-    {
-      "key": "e60966f9d2748340",
-      "score": 7,
-      "title": "Israel Strikes Gaza Hospital, Killing at Least Six - WSJ",
-      "domain": "wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbkQtS1lrTERHalJzaVJRY2VGM01KeEhsWGg4LThKekJHWi1fTmFGaEtzUFdLeFE2Zl9yRkZ5Y3dkc0JOWmY3RjRvR3dnOWpIbmo4b0oyMlo4cldYMlVUUFo0Rm5GdFd0Y1A0aUllZnU0ZmFMSTBnNlNvUFVxb21jNTlWT04yTnJDbnItblQyTUo0MUV1WVdXVVNPVi0?oc=5",
-      "tickers": [],
-      "at": "2026-11-12T20:16:49.984Z"
-    },
-    {
-      "key": "e24ed76e910d2f19",
-      "score": 7,
-      "title": "Judge Says Fake AI Case Citations Warrant Sanctions - ACA International",
-      "domain": "acainternational.org",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaWtRcGhmRlZBUFViZFZqdi1wSy1Ea2tiX1lyQmZmQnFsQnNiclowYnFwaXB2SFJMeldwSmVZQUJaUWNfelV4bzJtUjRnZzZKZGU5bm1CVGJiaWh3dm1CVk5kZU5La2RQQlFRN2FEVTd4UW5uS0JtZ2JLSW9CSTJKcGpzdkxOR1NTUjVqc291S0xYeEhy?oc=5",
-      "tickers": [],
-      "at": "2026-11-12T20:16:49.984Z"
-    },
-    {
-      "key": "3c7872b72938b0d2",
-      "score": 7,
-      "title": "Oil prices rise after Iran reports strikes - investingLive",
-      "domain": "investinglive.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTMVhjT0dmME9tQ3hJb2tIdWlsbU1yck1xZl9MdC1pdmhncVV2SnFLWG5uaXltSWlUOE1QZzRyajBwRmc4UDJRSkpOdFNvbVRYcDVYOE9zYWp3aktMRndYTGFEclJ1NW8xeXlES0xMRjg0T1Nka3hTNUQ2MGprcEk?oc=5",
-      "tickers": [],
-      "at": "2026-11-12T20:16:49.984Z"
-    },
-    {
-      "key": "ceebdb51b2590e1d",
-      "score": 7,
-      "title": "Telefonica SA (TELFY) (Q3 2026) Earnings Call Highlights: Guidance Upgraded as Spain and Brazil ... - Yahoo Finance Singapore",
-      "domain": "sg.finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNYjBhYTlWc001d0N1a3JjSVBfWS00RVBzT0VpaGFiVkI4WnN4eURINTRqQVhVbXhXNXp6V2toaFVUeVhPcjZaOGJZc3hkNXh4bHdBRkhQME9OR1d1QzdIUzk4dVp3TTlYWlI0bFhCd3JFRzNSNTJFYVVhcFRROEpFR1ln?oc=5",
-      "tickers": [],
-      "at": "2026-11-12T20:16:49.984Z"
-    },
-    {
-      "key": "e294202748d76e13",
-      "score": 7,
-      "title": "What Should D-Wave Quantum, Inc. Investors Know After 9.51% Stock Drop? The Law Offices of Frank R. Cruz Outlines Securities Fraud Class Action Lead Plaintiff Deadline - Morningstar",
-      "domain": "morningstar.com",
-      "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPWmN0TFhmbkhMUEFiVC0tSDB3ekd0Uk5uR3ZDOEYzYUNUWEtEY2hIeENpa2ZRUGhJWmVsNXBTQkNpVklYbVlqd0diamJFaGkwUl9mbDZZcXZHWnZvXy1fRFBRLXhfWXkwQzI4d1lMWHZLWHNWek5HSExsVjhlWGpnMUF6QW9wc1g0Q0tCMG9DQ3pZR1N6bllENUxsa1RNTFlsMXpkelc3SlJucGRVTzVqdzFiVk5LX1RUNEZiTGNzaTlGampQa2pZRHRUbkdSMW95REJYNGVCWmNRQ0VHVkVtcFNoN3RqTHFmcjRfUW1PRnBVb21oRGFoaEY4djJoc01ZZ25FMnJMUk4xTzR1Y2F2M2RnZFJvRVVxOHR3d2x0dmJjaWxUbUlNNVFibkpLOW1yRDBnYXRaSTl0aDdqMExITmk4WEg?oc=5",
-      "tickers": [],
-      "at": "2026-11-12T20:16:49.984Z"
-    },
-    {
-      "key": "6b9dd773e3c7aa8d",
-      "score": 7,
-      "title": "What Should Lululemon Athletica, Inc Investors Know After 17.38% Stock Drop? The Law Offices of Frank R. Cruz Outlines Securities Fraud Class Action Lead Plaintiff Deadline - Morningstar",
-      "domain": "morningstar.com",
-      "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxNcXNLaFBzUEppS1VTRzJLdTkwS1RjbUg1ZkxlZHZJdzhEcnVsR1Z2X3o3UmlPWHlaYzNuRTVDZkRzc2Y2RlJUalZ5aElNZVdLdEFLSkJGUEs3YXZmeE84VC00R0ZCR1p4QVk0U0VfMmRFTndkNll0aE80VWtnd2xObTZYM1Bib2dSZmJ1aHliQW1CNGE1RGVRRDNtdlJBRGVOMTlnTVZaRGVSWVVwVFJMNHN5cWZka2RDOEVxUXdQemhTWUZxTXh2cWtWMUsydG5BRENoUXZoQ1pPV0I1Mjdwczl6bkNfZVlmN05GbEIwRExrQ2VpMWVhek84TlJmcGVhVlBpc0N5SHA5TzdGZlplYlZGYWpNMURmQ0FFWThpc2tpTDlKTTV0Wk1aQU5iUUFwRFNmTzNmZkxJQjY1aEN0Wk9POExiZ1hjaVczbw?oc=5",
-      "tickers": [],
-      "at": "2026-11-12T20:16:49.984Z"
-    },
-    {
-      "key": "d75efbd2905473f4",
-      "score": 7,
-      "title": "What Should Webull Corporation Investors Know After 19.09% Stock Drop? The Law Offices of Frank R. Cruz Outlines Securities Fraud Class Action Lead Plaintiff Deadline - Morningstar",
-      "domain": "morningstar.com",
-      "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPMTFaenE1cXJ2OXNZN0ctNEYzYlNTMGdXeU4zWU5CejdlZFBiQ3draUlxMEpWdlNCaHRzSXBySjMzaEdTaWF2VkJVXzl1TmpHWFgxeHlZQmRfc0tiOF9ieEkwdVNQbWtESXRsQWpvUVJEVjFlWF9TOTNuWTA3T0FESjcwa1FoMzRpUFNiYXVCd25YVVZXMkQ5VVJCc2d3RlV2NlYxYWZPQVZzZzVCU1I4b19aeVh5WXVBRGpyZ2lEcGtpUWhwTGxKVmt6Yi1YVjVGZ2F3STFnNTZkN2VkYUo1R2ZTNlhab19MYzdNODFjVUtXd1VPVU1LWXBZSk5UTUtwMVN5bHgweTd0VHdOcDItRERLdldjNHkzcDl0NTJuaTU4aXludVJ3NmJBVHJTOEV2YjZDWmxtbXBoNlVNcU9uVXBYU0dZdw?oc=5",
-      "tickers": [],
-      "at": "2026-11-12T20:16:49.984Z"
-    },
-    {
-      "key": "9ae0007dfb6461ba",
-      "score": 6,
-      "title": "Federal Reserve to make October 2027 meeting nonvoting as Warsh reshapes policy process - Traders Union",
-      "domain": "tradersunion.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMkJnN29fMmlFUVBGRlg2MWRHS3ljc3lVMUR2RTJWUDd3UURvQnNwdldCS2JhVnZseXdzTWxybi1LaXh5SGxBUWtWODNXb3lqZGNka3hXX1dGZjkza3k0cDQ3YUxQd2NLdThFcVJ5RndjeVg1SngzMHQ2c1JOUHFBZjdjWm5YcUtqWXJTaDRERmpFMTQ?oc=5",
-      "tickers": [],
-      "at": "2026-11-12T20:16:49.984Z"
-    },
-    {
-      "key": "c0f1c2fece3ee156",
-      "score": 6,
-      "title": "Most Active S&P 500 Stocks: KDP, Ford, AT&T Lead Today's Session - ChartMill",
-      "domain": "chartmill.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM0FxcFNTaEhkcVZlMkotd051bjh1Tl9hTkVyLXdZeWdpNEt6eDJ1S1drRkFYUnk1RnNzME5kVXZxQ1ZuWHJiOFVQUU9OcGF3dFFER0JDZEswX1M1LVg5Z3o2WFFQMmxWUVh6NVh5UjZrTng5TTl4ZERGRGZuUEFhVkVEVU5OSWhNVTFManQta09UaklqWWFMLXQxb2dMVnAtUVhCMVlxLXdkS3c?oc=5",
-      "tickers": [
-        "KDP"
-      ],
-      "at": "2026-11-12T20:16:49.984Z"
-    },
-    {
-      "key": "54fe4f8d31cfc18b",
-      "score": 6,
-      "title": "Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait' - CNBC",
-      "domain": "cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZ3JPLXo4cE9pTTBQdTFHcEpvaU9BSTlpVU1CZ0FHMndhNG9GcWJOaHNWX1FhaTlyT0k4YllBV3lFMEYwdkhlMGo1YTV4YTVMZnh3eWU2SXpQb3lJNjZMaTJleWllT05kMFpqRHJBSTBSanZMNkJLb1FlaU5GWUlERzV5OWc1VThFSzI1bDQxWGViUkZ6cE5WR3kxdFc4WmVNZkdFX0oyODJjcFdHY2daWQ?oc=5",
-      "tickers": [],
-      "at": "2026-11-12T20:16:49.984Z"
-    },
-    {
-      "key": "a8c873f380984317",
-      "score": 6,
-      "title": "Ranking NVIDIA, Taiwan Semiconductor And Other AI Compute Stocks - 24/7 Wall St.",
-      "domain": "247wallst.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVC1RNUxXSndMQkFzTGZnbWRNQnNNYy1yNWNka1NmbkRETVUxSlROLVZKUnV5cGhvYU9aTUE1SjZUaUxTZXliNy1meTRlN1NrRTI5WlFTTEZsSkhqWjNXVm4yWkliTTZCQkVkWFBuMUdvUGFiNWFCQXYtdGdyUXB2OG12a25hakktMU01V0NuMnBpMDRrbWdGaURLTXVpWmVHa3lfLWtB?oc=5",
-      "tickers": [
-        "NVDA",
-        "TSM"
-      ],
-      "at": "2026-11-12T20:16:49.984Z"
-    },
-    {
-      "key": "098854ee14d62f1e",
-      "score": 6,
-      "title": "AICPA seeks guidance on measuring gambling gains, losses - The Tax Adviser",
-      "domain": "thetaxadviser.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMF9LTWZjSmN6OThyU0h0ZE9mUkpteWZRRXROdTh5NlhwQUYwUm9xSkRfblQ4enNMUHB5SnIzck8wOXNCTUc2N01FV3BUdXpLNThXNjlYTU5uOFJuaUdLYVljNGtMTnN1UkNUMkZ4S1BybnlRUF9FWi10RU9pQjVJb1FKX2hXY1J0MWp1cWs5WjFOTTU2U2Nwei0zVi0wVmVqX3c?oc=5",
-      "tickers": [],
-      "at": "2026-11-12T20:16:49.984Z"
-    },
-    {
-      "key": "448307b98cff255f",
-      "score": 6,
-      "title": "New guidance outlines use of first immunotherapy for children newly diagnosed with type 1 diabetes - Medical Xpress",
-      "domain": "medicalxpress.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZFd4VkVmZGV3VGJ2cGZkcTRZMmZVR2lLanR2c0dXMHBTUmxPZTJaSThwd19xajZjZFExTFI4RDQ0QUd1b3RpZ215M2FieXJTT1RNYjhPb05zT01pMzdtYlFvZTVJOEZzZmUzdmhZTS1zSFFTZ1hxc2hfV0pVWUFoYkRRMHVZallLMG5DTkVFNjNBV1JJ?oc=5",
-      "tickers": [],
-      "at": "2026-11-12T20:16:49.984Z"
-    },
-    {
-      "key": "9131f4dee7ba8d1d",
-      "score": 6,
-      "title": "ANE: EBITDA guidance holds as production grows, but asset rotation misses its target - TradingView",
-      "domain": "tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQOUtDZ3NXejNEM0ZLNG5yQTMxWjNtV21DaGJUVVY4WWd5eG1lc1FuQmN6anNmc3k2RHozYjBWaTJLRDlNUFhtTy1kVFdmZWUwTGV4Y2UxS1YtdlhpdEJLVXVSOTlHTWhFazQ0Y1E0TDZwZWhkYTFhemppNkdxck5hQmVKb0hQbWNvRDRMbmIzSmNFSGJ2aTF2V1FYYW9YVGpBS210OVYyd2ZPbDdaazl5clhjdGNtbDF1UFpEcW5BWTd4dGhYNldIUDNna25oZGd5YXpCTF9RYjM0ZlpEakZkTFJCeTJ5WHVMXzRBOVJZeUdQdm9Ya0dBTQ?oc=5",
-      "tickers": [],
-      "at": "2026-11-12T20:16:49.984Z"
-    },
-    {
-      "key": "3ec625a12d5ac112",
-      "score": 6,
-      "title": "SMA Solar: Higher backlog and refined FY26 guidance accompany a sharp 9M earnings recovery - TradingView",
-      "domain": "tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQcGd0ZW5UNzlkMkQ4MFV4LTBTX2JhQzM5eWdXYnFuQ1M5OWtnaGV6X19CXzVKUVRuaGFyTUVhZWY2dnZVaXZTYkFsT3liZmNXcEFXMUswZmdQSzVwQXdmeGc3NDFGanZMaEFoS3ZFNHAzV2F0Z3N4YW5UcW1pMEhPOEVsZzFBcTdBcTZRdFBIUV93LXlzODd5YU1aRjJwM2tqdnZ0QkVZcVc4LVJGQVVGWDBDSWtfQmFvWXUyOFBjYnlSVXA0X3YzUURoZjBVZFZCY2hVSFAtaXB0dThRQmotVnJ6RWVOMlZfamF0Yi1PQkM0X3ZTaTJLQi1TOFhpcS1YXzRGeHhBQQ?oc=5",
-      "tickers": [],
-      "at": "2026-11-12T20:16:49.984Z"
-    },
-    {
-      "key": "cd5ec7f7e29a4a2a",
-      "score": 6,
-      "title": "Edgewell Personal Care Company Provides Earnings Guidance for the Fiscal Year 2027 - marketscreener.com",
-      "domain": "marketscreener.com",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZVNFZ2Z2aFZiQjJHM3RCNTlVb196bGNsTG9rSDZGYlc1Uk5kblp3YnpiSGZ1czNMMGF3b21mak5xOFRYb0NaQnlzUy1VMkNTNjViTlF5UmVpNzJSb0N0bG5jTC12Z3hKY2ZJQmhSUW5EaXRaZDJnS1phR1ExdEh2cl9BUE1rUGN0djZtTUF1ZGh4NnVGMHZKZ1VvXzk3RkpyQkt4ZDRjZ0FUZGF5WUc4OFh0eVlFRWk3ZDdOaC1xXzhMdzZxSlVnUjNBbjkya19r?oc=5",
-      "tickers": [],
-      "at": "2026-11-12T20:16:49.984Z"
-    },
-    {
-      "key": "d2e9d98d88c2e1b4",
-      "score": 6,
-      "title": "Cumulus lays off more local radio staff after private equity buyout - New Mexico Political Report",
-      "domain": "nmpoliticalreport.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVlY0VnE5cHEyaFJNbTNQX2pBWXdLd1JyYXRUek5IU2MyeEc1dTRqWFVsMF9DVk9uRXlkVUVpNnEwYk5hRE9aTlQ3SWZFSzZjaFB1SXRfT19wcXRkdG1GbThZS1J0cmhJZzBVaHhTRlZpNmo0S1VJMGxHOWFfbW1DYzIwMkluUlI1YWZVMmJPQ1gtUml3bkxrUlVLckhmNHlPX0lUcFlkV2c4ekJIQVE?oc=5",
-      "tickers": [],
-      "at": "2026-11-12T20:16:49.984Z"
-    },
     {
       "key": "aac7c59c6f12500c",
       "score": 6,
@@ -12690,6 +12080,588 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZ05HNXViekdReXRFOW5ZdzNlVllSYnZnLUp3d29zcm5PcDhNZF83WHdhT2RQcXk3Wk1TY3Vlb1JQbjJtbHZOUUN1c0NIQjE3TWoyWG9lWE1IRDRjUGt5RmNnUS1od09hOHd4QjNzT2pKb0lZV2RzN2JJeWVOR0k4Y2g0WHY1N2p3ampXNUJpYTdZN0ttUFE1bg?oc=5",
       "tickers": [],
       "at": "2026-11-12T21:51:33.826Z"
+    },
+    {
+      "key": "636f441068310ca6",
+      "score": 10,
+      "title": "This Analyst Sees Huang's Resignation As Nvidia CEO As A 'One-Time Clearing Event' For Stock Market - Yahoo Finance",
+      "domain": "finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOU05HLVFKUVNhOE52eEFZMExGQTZTSG9VVFI0cXhhV0tWNzU3aF9KM0FUOG9aTnpqVWVrV3lVazhJZEpuYXJFU29mNmZGYUN1SkRsT1VXUEhtVmF1WDVRUFJtMFgxV19DSF8wY2FQVVh0Q1NyaENBYURsXzR4TXo4QmpYaFBrSFFrYnI0enN5OGYyemZyR0RPN0JsTDNFRlY2SFhfMHFR?oc=5",
+      "tickers": [
+        "NVDA"
+      ],
+      "at": "2026-11-12T22:29:47.402Z"
+    },
+    {
+      "key": "f37d83c950439335",
+      "score": 9,
+      "title": "ExxonMobil sanctions eighth Guyana FPSO in Stabroek - Upstream Online",
+      "domain": "upstreamonline.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZTFVa1M5LTVRd1Bnd1c2ZGd5YzlRb3dtcmtqUm54azdSY3FYaklYZ0xucW9nR1VKM2Jna0NyXzZFM3dNRG0xb1RIcnppNGJwLWpQWWZrcVNWWjdQdkh5X1ZPZDdpSnpBZ240WWtrTTdIR2V2V29Nb2hTblFmU19rZVNRX0c4S2p0c2xodnUwZlE0X2VBdmlLM0E3VmswVUZTZjRtMzlvelZSWWpsVmxQbHpn?oc=5",
+      "tickers": [
+        "XOM"
+      ],
+      "at": "2026-11-12T22:29:47.402Z"
+    },
+    {
+      "key": "cbbc95c3bbe46b07",
+      "score": 9,
+      "title": "Is Nvidia a buy after its CEO-resignation pullback? - TheStreet",
+      "domain": "thestreet.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPU080VldQRU4wcUpBOVhrbno1V3R1b3k2UHNJMHItYUhNUXdRZ2t4aFFRLVZPelZyM0RrLXZiUVpvQlZmTDFsdDdUUHFla2J5MERCRWVyaVFSd2tCM0hfUWk0d3FlNXhFVUo1XzM4RUJvdXpILUN5RzlLWkJDeGhoUHVma2JyLWdrbFpZc08yZw?oc=5",
+      "tickers": [
+        "NVDA"
+      ],
+      "at": "2026-11-12T22:29:47.402Z"
+    },
+    {
+      "key": "dee07d87d1d1dc28",
+      "score": 8,
+      "title": "Federal Reserve Board issues enforcement action with former employee of United Community Bank - InsuranceNewsNet",
+      "domain": "insurancenewsnet.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWGZOcXgyWXlvZ1pka21KUlJtSGZEMGk3NHFhbGRsazZQdndTRl9zbWQyNVd1MmZGZ0ZyQTFyTTBza1RJYUJfRlFVZkRfR3pWQlpGQVFuM1YxQlFQQl9aUWx4T2hmY0hSa0lHdGZoajNTX0pzX1h3ZnhNYllNZE1QdnpOTnhWYXVhR2l6S3pRaDM5cGZjYTM4MWluWmpmTGVneVVFSjVqLTY5MkF0VXljOUFoeVFOTk5uamRqTjVfSUJpWDlNbmFIT2hJNA?oc=5",
+      "tickers": [],
+      "at": "2026-11-12T22:29:47.402Z"
+    },
+    {
+      "key": "1d20d759c21e4501",
+      "score": 8,
+      "title": "Asian Stocks Set for Cautious Open on Nvidia, Oil: Markets Wrap - Bloomberg.com",
+      "domain": "bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTmVnUHB5bWw0Y052NTU5ZkNsOGdwUXVCWnIwczVnQWJKWmJiaUZta09PNGhNYVZWSENvOFVReWJIVldFcDJNcmlOQ3RyMWhHQThNcmtnU0FIZldHWHJ4NldqbkVrYUlseVNBN0xycmRrUjdFVWRQQll6MzhBUHNOS2NidGtDc01LeWlNd01WNGJxcm5E?oc=5",
+      "tickers": [
+        "NVDA"
+      ],
+      "at": "2026-11-12T22:29:47.402Z"
+    },
+    {
+      "key": "82bd65369ee6222b",
+      "score": 8,
+      "title": "Wall Street Ends Choppy Session Lower as CEO Exit Drives Nvidia Sell-Off - marketscreener.com",
+      "domain": "marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOY1hzMVFFWUdtRi1QR2NteUxhRmJZQ0hLZWNfbHZLbjFvOTVYdXU1bjhtQXlTZlR5VVRYRTZQaU51ZnR3TFZ1YnRUWDZFQTNNSkNZZGtHaGdDbnJrWnZnUFFjaDlDc3VrM0cweXJaeVliOHV3ZUVPNm9IN2plRW1pdGhKR0lobEZScVVsSTctaF9VVktWUmlhU29JMi1DckV3YjFwVHdneHZaeUVqNXByNXMwZkloNlhrcHZaeDhGV3ptMEk?oc=5",
+      "tickers": [
+        "NVDA"
+      ],
+      "at": "2026-11-12T22:29:47.402Z"
+    },
+    {
+      "key": "de1f9ca81cd23e87",
+      "score": 8,
+      "title": "U.S. budget deficit up 42% in October; tariff revenue dips 39% - Transport Topics",
+      "domain": "ttnews.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBYNWc0Q3VqeGNHMjFMX19UMldnRU1Ta0o4dkNhcS1PcUtLQ0hhNFhOajZscTBoelZaOFQ2NzlFeWpfSDRfaGY4N0E0MEF1Slc1WWNHWGNIRWN2ejVxVlN1a3BzeWVkYThHTHpiVA?oc=5",
+      "tickers": [],
+      "at": "2026-11-12T22:29:47.402Z"
+    },
+    {
+      "key": "48d8beb310ce049b",
+      "score": 8,
+      "title": "Dow Jones Futures: Market Weathers Nvidia CEO Huang's Exit, Surging Yields; SpaceX-Tesla Merger Deal Close - Investor's Business Daily",
+      "domain": "investors.com",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSHdBUXNwWlkwRldKTGNVWW9NWkFaSzVQaEx4RTRQYUNiVnQ2bGVPMGc0cmM4OVRGTUlmdG4yTlRXWm1QRTh1TE9lRTdLYmVsSGxaanBjUzZLOG9uQ1RNaWRodms3Zk9DTHJTVDdXV2l2aTFicWxDeXhxYXVCcFktd2VQRThkVUFkejFJUzJGb2EwazRCSVVQMFh2c3d0ZTNxeVplUVlsUHBVMm9xTlU5bVFHblVWa2ttR0RHSUN3c2ZVX1RsVlN2SkMyQTZsVlItaGZsWQ?oc=5",
+      "tickers": [
+        "NVDA"
+      ],
+      "at": "2026-11-12T22:29:47.402Z"
+    },
+    {
+      "key": "5a88529be1e8de51",
+      "score": 7,
+      "title": "The S&P 500 is shrugging off Nvidia’s selloff this week. Here’s what’s keeping the rest of the market afloat. - MarketWatch",
+      "domain": "marketwatch.com",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMXVQX3FvZ2FRU3g0WmkxWUFiWnV2czBMVVV1elRwUlNUbDdmVUhCRXBWMmMtcUVfYmNRcnNvN2NMUXdKbWwyZEFsSS1zOE54RjlWX1hSS3ZVZTYzeURGaGsxdEFvQ1BUa0ZOZW9UX1prOTRvV1U2eGRlU3dEVHpBR2luR2haMmVrcklrSE05ZVk0NkRkMFdvaGJNSjNQMWs5NjlXVnZpbXpISDdUYjFkRGRPTFRXMkhOUldWeDVqUGMxSGdkVHVvRmVyMWdwUlQ5MVJN?oc=5",
+      "tickers": [
+        "NVDA"
+      ],
+      "at": "2026-11-12T22:29:47.402Z"
+    },
+    {
+      "key": "eadaefac28d6f78e",
+      "score": 7,
+      "title": "Stock Market Today, Nov. 12: Nvidia Shares Slide on Reports of CEO Jensen Huang's Resignation - The Motley Fool",
+      "domain": "fool.com",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQWHNBT0h6Y0kzODhSYS1vTDJrMi1lZ3lONWZOYVdNeEJnSEtTVGVsVzkyamlTVHNHeTZ6TnpzR2FSQzVvbHh5dHRpSE1mMDBwcHdFZmwtZUVacmpUSEVrLVBDWGloZ1pITWM1SWhmZkFIQU55WVNJNVhqTV9QRVFZRnNGN2pKbGJtYk1RV1huZk1fLXhSSzd5cHU2eGxfcUR5M0ZWa081TXVpMmE3NDljMGhRbVpUWG12UXFVZzNzckpaUTdOY2RwWXZ2WUVnRy1zNUZDUFNWMmgzWVRMSGpBWG5TTEpsZw?oc=5",
+      "tickers": [
+        "NVDA"
+      ],
+      "at": "2026-11-12T22:29:47.402Z"
+    },
+    {
+      "key": "90c072efee99d4c4",
+      "score": 7,
+      "title": "OU sanctions Beta Upsilon Chi fraternity after hazing investigation - KOKH",
+      "domain": "okcfox.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdm1NR0ppY1psMmZVYmRUVHFPUGRjZmVScGQ5QmozdlVJRUY2c1N6c3N6WDZsSVExa0lCQ1ZUc3pPUWdNb1cwS0tLNkJteTVZOUptWmJqeE5rNlFaTEE1VlZXSlBwdWRDTGpGelpCN3dOZmhzc1R2ZXpVWWRHcWJERG4zclZCUWJ0bDJha2JWdHh3YzItNTUwSlZ6VTNaZw?oc=5",
+      "tickers": [],
+      "at": "2026-11-12T22:29:47.402Z"
+    },
+    {
+      "key": "a742916bbe0b454c",
+      "score": 7,
+      "title": "How Raised Earnings Guidance At Textron (TXT) Has Changed Its Investment Story - Yahoo Finance",
+      "domain": "finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaXVSNGZWbGF4Y3VxVjNhX1ZaNnRZSVgwU3piTnVmNUgtNlQxVEkxOUlweTVud1lwbHE5dGhZZ0J2X0FfLXgyU3hWbXZ5a2k2QTg3anVwN0pNZjYyVXlzcmpTcHc1ZXMwS3BqcXlOWHAzZ2E4aHZvcEluYWh6dUVMRm0zTnJnME1tbGI2Y2YwNmRiUWNQcXBHcEdSeHBGMEFVczNn?oc=5",
+      "tickers": [],
+      "at": "2026-11-12T22:29:47.402Z"
+    },
+    {
+      "key": "32724dd72a971c5c",
+      "score": 7,
+      "title": "Cerebras Systems soars on raised revenue guidance - Investing.com",
+      "domain": "investing.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSFdTMFNxMFd4TV8wZmRBTDNaaGNRM2ZWa19HbHYtVkxreUJZbVJxSzdaTHp1WEU5ekp4VTJwS0ZtZDM3aE5Ta2pwa19Hb2pJeGFMZ1kzTndmX25yLVE3VmNKbnlERnlwNl90eldzUERfdFFXUXJuTlg4UWxzWmZaOFFReDFNOEt0aEh6SHVlalY0dFBGWkJjVVViWVd3UQ?oc=5",
+      "tickers": [],
+      "at": "2026-11-12T22:29:47.402Z"
+    },
+    {
+      "key": "52f46d401b995810",
+      "score": 7,
+      "title": "US Antimony Shares Sink on Disappointing Q3 Print, Pulled Guidance - Benzinga",
+      "domain": "benzinga.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZGR5RDk0alNYdlI1ZGlSQnU5ZmxGOUZPWTZxWTJOSWlpWDZKOWNVLU1FbnRGUTFwYS1vRDJXbG4wMXliLUpHNDlaYnBqV1hQb2ZaRHhsdnU0bGdmTHNEVTduOXJCRmRJaW1yOGdkb3JTXzJLbmxmcmN6MWx2V19KR1ZsSnU2eVlOSGVONzJnbWI5b0xsMW9BbndpZTFiSFRfblpjRzlXLTluSVpyb0Jmekl2dGhSczFhU0o4Zmx1bw?oc=5",
+      "tickers": [],
+      "at": "2026-11-12T22:29:47.402Z"
+    },
+    {
+      "key": "cb98b91200e36a7c",
+      "score": 7,
+      "title": "Nelsonville City Council’s president and another member resign amid a recall effort - WOUB Public Media -",
+      "domain": "woub.org",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUE9RSlJyczZuRXNjWUtEczNhX09IMjAxck5ka1RHZDdjdDRralFQamtua2VJa0NtQUFGV1p4alRjaVNFRU93Q2lycjZBR3ZkNWxYdmo0a2trOTRMMmxLUXh6cFlsVG5vNnRINW5fQkEwd0NnX2wtNzJNWEl2RUJIbTl4SUJKUTdjVDFqV3dUM1hIQ2pRUUE?oc=5",
+      "tickers": [],
+      "at": "2026-11-12T22:29:47.402Z"
+    },
+    {
+      "key": "a9b0eaa168b05db3",
+      "score": 7,
+      "title": "Survivors recall deadly VIDA gym shooting, taking cover during gunfire after fire alarm - WUSA9",
+      "domain": "wusa9.com",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNLTg3MHRXUlN6SzA0QnQ0U2JXcGhxd3VQTVYyRkZ0YUJNSEdUY25XZjBTWGxtekRhQUpoYUpsMjNzZHdNTzZ2ZkxDSzFFMDZBWVlqZ2RIcGxkb2xhQVA1LWIzSWVncDkwaFA0MVF1V2JBVDVyVFhYZHZVU0RCc1NHZlA2ZkFPU3FEcE1zaDhEQ2xkUU12Wlo2bEUxNUJPTW9CamwzQ0xtN3RjdkVIZ1Y4dUh4UDZNS014WXlyWkY4bmtRRlZkTElqM1pDZEVSR1FmOUJSejRCUjFGZjhBc3YtRDlUekkxUGlMQ051WHlLOXYtTnlRanZnQQ?oc=5",
+      "tickers": [],
+      "at": "2026-11-12T22:29:47.402Z"
+    },
+    {
+      "key": "b8dd98e22efdbb34",
+      "score": 6,
+      "title": "Stock Market Today, Nov. 12: Nvidia CEO's Stunning Exit Sends Wall Street Lower as Rivals Surge - The Motley Fool",
+      "domain": "fool.com",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNT1N4b04xNUlCRmxXVFBtOFZlZEtCZnY3N2ZDTy1ta3ZXT1ZObjJDdUYtOVdaZnNELUN3VGtTMzVMOFI1UnNfMENfZzdmMlJ3X0ZpWUpuaXdvQ2tnbVpfY2c2SHpobWJIMDZMMDZxbkoxSlRjN0kwbmduMDhPam1DcUhkd1NrT3pXVW84cy1oSVJ5aE9uYVZCSzVIZHlRTzJ6S2MwdWt0U3pLdjRJZElkOFZhWG90Y3ZBTG9qZEMxQ1ZOM1pEM0xjT2N4dFdRNmpGcDVaV1lRTXVpSHpNeWZpOWFfeDktb0FU?oc=5",
+      "tickers": [
+        "NVDA"
+      ],
+      "at": "2026-11-12T22:29:47.402Z"
+    },
+    {
+      "key": "a2d99d31d7ccb485",
+      "score": 6,
+      "title": "Kaplan Fox Alerts The Ensign Group, Inc. (NASDAQ: ENSG) Investors of a Securities Class Action Filed in Federal Court Deadline is December 7, 2026 - FinancialContent",
+      "domain": "markets.financialcontent.com",
+      "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPZk1Ob3dYUHhCZkFSYUNmaHBtSWo0U3BDMXFuNWNUWkN4TjIwSDJWMjN5YnV3ZENxQnpXYW5UT2h3RGlTRzd4Szk2UXVscDdnc1NhV0NOUG1aVGxxWjhwakJad2x2Q3NQeWxuM19oTnNpUWY0bS15blkwZm9IbjlreThNNFB5ZWowb2dVWF9fRmg5RWVOOUtlbDBrT3JHdWdDNUdmWmxEOExVSld0VmZueW1ZQXlSQnZleXVxYUF4RmRrd3RvT3YwNGV0TEJNZFRmUEd4ZWhpZFlYOC1Udy1QcUNIcGw0eFYyV2VubkJsekZxTjNsakticDVwMVBYR2RFcE1fS2Z5Zl9ibU1OWktIMDhOQ1pkY0hrWmpjVUMtaFdCMzRJVFFmdTVnT3I1bEFjRmRaMWFFNmI3aS1r?oc=5",
+      "tickers": [],
+      "at": "2026-11-12T22:29:47.402Z"
+    },
+    {
+      "key": "3b3fd04c06ca5757",
+      "score": 6,
+      "title": "Kaplan Fox Alerts Coastal Financial Corporation (NASDAQ: CCB) Investors to a Securities Fraud Lawsuit Lead Plaintiff Deadline is December 1, 2026 - FinancialContent",
+      "domain": "markets.financialcontent.com",
+      "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQYVJ1LVU1Z2hGU1hieWltZXZYS3ZGNWxmYkRGT2ZNdDJ6UkNLOUZETXlrUjgwREdWdDBMZ0hET0c4dmVPTTRGeXBnQkQzeDVld3pKNnNjVXllVWxUNXRJVVNiQlJyVnVVN3lYX2RlZk9uVjZ2dlVwNEY0Z3huTDQybGNKY0RMWnc0N3g3cFo4RVVZVGNqelZrZzAzbUtMdEVUS1JFOHJxQjRYS2l3MGp1UkFEZGNWUWxzWDZ0ZVJHZGNtNzJFWTdWWFVOYTJ2WUUzQmp0UmtpZGZJVEdWS3VGU0dQRTV4ZlozYTNDX3Yta3oyWVdYYUVFaGtlSkZsRTJjT0wzWlZTWk9PU2M3UUZCUndnZjYzRkZvMkxhV1hjcnNHcm85ZnFGMlJNQ05mcjdnbDhzSjI4S19mbXU5SHc?oc=5",
+      "tickers": [],
+      "at": "2026-11-12T22:29:47.402Z"
+    },
+    {
+      "key": "0b07ad6583c08daf",
+      "score": 6,
+      "title": "Kaplan Fox Advises Investors of Duolingo, Inc. (NASDAQ: DUOL) of an Upcoming Securities Class Action Deadline on December 7, 2026 - FinancialContent",
+      "domain": "markets.financialcontent.com",
+      "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNalpZaHZjN2d0NDJudjhWeXNvXy14MXRQM0xkQnZZeW9IS0txd3NZQ2FiXzQ4NVk2SWF2RVJvSjdaYlFhNW1keXVyRUJ5ajRTNkZiWE5PS0RoaEF1NVNPX0hpdjZ4MnZHbHpOZ3JTdE40V0dmbFBRTmNmaUFmLXpQX0hxc2hqNkdCNXR0blY3MzlpRUhlaXFZeWJVOUw3RkxaNC1wS0tqbFdmRnhNak9qeW9hNkJaOTVUSWxEbU5mU0VxVkpBcU9rczFsdXc5NXBsdEpBbUMyeTBiZ0k5TUdoYm44S3Q3eVhmVG5rT2xsTnQtTmV4QzNWM1ZIbWk4QnZ4bElRMm1zay05TTBTUmF4NDVVVVFVOGZHQks3SFNieko3NmRyNnc?oc=5",
+      "tickers": [],
+      "at": "2026-11-12T22:29:47.402Z"
+    },
+    {
+      "key": "05881009432b1d5a",
+      "score": 6,
+      "title": "Nvidia Chief’s Exit Drags Wall Street Lower - AskTraders.com",
+      "domain": "asktraders.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQnVZV2NadnZpMVFodWVYMkc4OXFFR1JZazRGcE9GZlZodFF5ZUFWOVVQUHlQZk8xUGIwVEEwVTJHMzIxbW9nS056U24xTmZ5ZzZPT2kwUlBmMkk3UmRieU1oTldENnBOYlk4YS04TjQ0NVZ4NXRBSHFTd1M0NTFTMzJZejVEZw?oc=5",
+      "tickers": [
+        "NVDA"
+      ],
+      "at": "2026-11-12T22:29:47.402Z"
+    },
+    {
+      "key": "4f877d41900666bc",
+      "score": 6,
+      "title": "Security Council, 10270th Meeting (PM) Yemen Sanctions - UN Meetings Coverage and Press Releases",
+      "domain": "press.un.org",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5GRVVIYXhmN19MWHN1UGpWWVZyWjU4aTBIZzVrXzh5NHNEcHcxV1FhT1E5R1QwOE1JbHJmd2hENjVPMTlteFpVeFdiZE4?oc=5",
+      "tickers": [],
+      "at": "2026-11-12T22:29:47.402Z"
+    },
+    {
+      "key": "25a10b8eb67bfa51",
+      "score": 6,
+      "title": "Prediction: $500 a Month Invested in Taiwan Semiconductor Manufacturing Will Be Worth This Much by 2030 - The Motley Fool",
+      "domain": "fool.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOXlKY3lHM0ZxSmtYek91OERnSTJLTk5ZVXhDNVVlWElzZE03bV9obkxFYkVEdzlEMFYtSk1BT0x0RWF4T0lvZGNKbTY1UU91cklGdnE2SGhZLWpTb09heVdSeklGdmhuVnd6RXRZbERWeGhkc3JPdkRlYjBUU1pfRVoxa1c1eVczSkt2aTQ3eWxvZm9YbGVjVQ?oc=5",
+      "tickers": [
+        "TSM"
+      ],
+      "at": "2026-11-12T22:29:47.402Z"
+    },
+    {
+      "key": "2e11a4244c1dacd9",
+      "score": 6,
+      "title": "New guidance released for prostate cancer screening, experts say - kens5.com",
+      "domain": "kens5.com",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxONUU2eHc4ZnBmVnc4ZTBrbmZodFhqcWFIXzZyaFFGRDJ0TWlVRWNBcFFPQUVYX2plU1ZfMzFyUHRJNFI4QXNwdEhuX1BSYi1GcVBrTElXVmJpUmlFd2pYSk5fWkJFS00yRkNRSE9vR0oxSnJpNktyd3FMNV94bDRBeFAzbnBVN19xdkJmaXFXNmwtYUVWam9uaFBfdzVFQUd1YjFWREtNYk9VVUZQdnRkTlZCeWVIYS1VSWpKTjBzYS1wYnBuYjZHUWFCb19fbkNGM1RrNXJjdEMxQVZl?oc=5",
+      "tickers": [],
+      "at": "2026-11-12T22:29:47.402Z"
+    },
+    {
+      "key": "c3e81ae3af4d313b",
+      "score": 6,
+      "title": "StoneCo's Q3 earnings miss estimates, 2026 guidance revised lower, 2027 target withdrawn - TradingView",
+      "domain": "tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOcUNsY2J3MkNvZnBhczBGYnpaa0ZxeFVFWVM2SDFocjdqZEdTeUQzMW90Vno5bTFBeTdSd19pLTAxQ1hRSEUzajNyYlFzVkE5NVktNVludzI5dEdVUndFaTVhXy1rdjhzLWNhazlHbXRKRHdWQ0NnX0wyZWRMa2hLbmVKbDlHbXFLZ3YwYWczcjlKd01qSmt1UUpsc0wyUm9rSFBtVGc5dGRhdVA5Unp0NDVZZ1poTXBfdFZTa3B4T2QzOXV6QUszZ1dOQlctQUIzVFE2UnAyOXBFemhZZjZPeVhLYw?oc=5",
+      "tickers": [],
+      "at": "2026-11-12T22:29:47.402Z"
+    },
+    {
+      "key": "29ef4acd834abac0",
+      "score": 6,
+      "title": "Afya Limited Full-Year 2026 Guidance Reaffirmed - TradingView",
+      "domain": "tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRHJvVkVYQ2U4NE83UGZBM2RzZHlKdGc3WWJLUkI1SFlVUG9OU3dJUlpHd0JMNUNVYXFCT1cwaXFXVXFFaFRQTGRvWm9kZnZiWm94Q1hicjJJOG1OSVZHMWUtY0dhVEo3eWpiSG4tV01aempBUk5GUVluZUJRQ2MwNDNQSWl2ZU1VVXZDU3JTR0diRFVGWldQS1hHdjFmd2ZNX2xjcWJFb1RpTVpRd1FyWXFNY2xjZWpf?oc=5",
+      "tickers": [],
+      "at": "2026-11-12T22:29:47.402Z"
+    },
+    {
+      "key": "35712f29d19ec74d",
+      "score": 6,
+      "title": "Applied Materials perks up on strong Q4 results, guidance - TradingView",
+      "domain": "tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNm9ONFNnSzBDOUtCTDlBTDRFSTlmVkNSMnBZMEoxYjZPUUlGN21oNUtJa1JGVEg0LVVQU2tYQmMwZjBXRlV1MVRDWTg0OEk2U195NVN6VzB3Qnc4N0t5dE9xOWFhNDktOXFYbkZ5dHZlY2o5bDh2aEd5WGZ4bUc2aEFaWWNMclZaV2hZRTU4ZEJxTmFxZ2J2d20tbnVqX1VvemlmMEhub2JPOWxkZjlUejJNRXp5c18zS3ln?oc=5",
+      "tickers": [],
+      "at": "2026-11-12T22:29:47.402Z"
+    },
+    {
+      "key": "ec4efdf42948a3d1",
+      "score": 6,
+      "title": "AICPA wants guidance on reporting gambling gains and losses - Accounting Today",
+      "domain": "accountingtoday.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUzZzZzM1RjdEeTVWUDJaQnlVYlNadUxqZGh2Y2JpcldGbDgxd3BqQXNGY3JtSzFSMTZGZ25WRkhQQTZWLU93UlAxVFBaQWg0eDZweGhBTWprejIwcG8yNjFXMktFM0NfbEJSMm4tbHc0cWRaV1k5VUV1c1FTV0llU2o3NktsNC1hUURiU25mQjRSZkZZSnRHb2RFQ1U?oc=5",
+      "tickers": [],
+      "at": "2026-11-12T22:29:47.402Z"
+    },
+    {
+      "key": "c258f2648e37193e",
+      "score": 6,
+      "title": "VCM: Q1 revenue rose 37.5% YoY; FY2027 growth guidance remains 30%-35% - TradingView",
+      "domain": "tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOV1Q5d3FRSTFBM0JGRG9fM3JIbjB0bTRaUVdBaHpGSFV5VUM0RTNKUmwzTHEzejJCY2ZVVXpab3FGUXp4TjlDZER6UTdDMjAxNlhjNVMxd3kyYmRqdTU5Q2MyNTRPa1ZKM0V3dUdYM1ZIeXBWY09LeFZ4RmFoaWtwWm1YRy1WQW96MWtkMjhuQ2JmQTFDYkRucUoxN2xtSzhlUUw2X2VQNTN2ei00ZnVQNGxNNk9aOFdqUGozSG1qR0o0M2d2UWtpRFRBdVJiYllSX0JTRjVxeWw4RW0zYjNIXzdn?oc=5",
+      "tickers": [],
+      "at": "2026-11-12T22:29:47.402Z"
+    },
+    {
+      "key": "b70c4f348ddccc86",
+      "score": 6,
+      "title": "COH: Adult access, innovation and technology underpin reaffirmed FY27 guidance - TradingView",
+      "domain": "tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOX2ZKZ1ZGXzZ5NlRWMmhTWHZFSjh3MFNNN0FabWNQREtYV2hmam8zWlgxRTlXdlNuU1k2OGdHTV9oaG5zV1FFbjNYbnI2aE8xaFFLME1tYUo2Qno3QWZVMGhudjZkUi1aM0RhTzNGYl9RTHFHb1RKekUzV1VqUnM4aVlEX1NwaFZRdTctbGN0dnllNUJ4YzJTQXNMdU5uQUlHUE91Ym9DM2czb3FlUWtEUTJCWFVYdkRZMkF1VjZUWmlQRHVHSzhmRzZNWWZMbDBua19fSHE1Tl9nOW9CSG1ad2FUc21BZHNEVFB4dklaU1U?oc=5",
+      "tickers": [],
+      "at": "2026-11-12T22:29:47.402Z"
+    },
+    {
+      "key": "29492b652fc1effb",
+      "score": 6,
+      "title": "CSCO: Record growth and AI demand drive higher FY27 guidance - TradingView",
+      "domain": "tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSWRrYi1NeWVXU1d1R3R3dVp1UHFnMHJCcmtmTHI4TTdrMUxNcGcybEtzaEpzNFRnQ0FvUjJQN0hhRS1lZGVoTHNpd2xWSzlNZmtHOHZncnpxRjZwY0xvTkdkcFNCRDhpYUJRWGxocXVkcU9IZWdveURHdWZXMTZ2d2d5bEljNTdzal8yMHc0eDlwV0V6NjhLcXZHMXloSS1KVXlLalVQYnZOc21ncUZ4dThNdVRaTkhnWVZaRWdiZ054b0ZsVVQxWVVUenJJTTZzVndzOFRxT0FUZw?oc=5",
+      "tickers": [],
+      "at": "2026-11-12T22:29:47.402Z"
+    },
+    {
+      "key": "141d53006644742a",
+      "score": 6,
+      "title": "Yduqs Participações : Record 3Q FCFE and lower leverage support reaffirmed 2026 guidance - TradingView",
+      "domain": "tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxONUtDOUZMUnBOZlNCZVZnbkxMTlp4SjdjNzdQazZxS2ZoZkl6d0FWT252R2lydDd1MjlVYWZ2anQyR0hvY2ZPQUpDcjdnV0RyWk1SMXFYc3J6T2hSYWxaaUlPYk95UG1RSDJZRXNGMmt6TFVLUmRtNW1QU3lpeXJvcWJCcXZvTTFkU0ZwSW1KZGZYZklJdDAwTmlJVTQ3bU94T0YwdlBxRXFERU9UMTg5ckViMlhWUEhYWTM3RHNHM3Ztcy00OEFicWFnQS1tZm5oMzJVSFZ2NG1XanVDNFd1NjFHODVwV3NNSzVZTXdDUFN3R0dUaHBWQXVCNlo?oc=5",
+      "tickers": [],
+      "at": "2026-11-12T22:29:47.402Z"
+    },
+    {
+      "key": "fd602a4702ea4dcd",
+      "score": 6,
+      "title": "Cochlear reaffirms FY27 guidance ahead of Capital Markets Day - Capital Brief",
+      "domain": "capitalbrief.com",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYklkaHBCR0sxSWlHT3RjbkJzXzhXMHAtRGFzc2poRXh5R0ZNVEVhQWRGdkhVQzQ3ZDRsd2Q2eUxCdkVXT01jTGloQ3lKQ21wcXJjZmtveEFqNFBDWEJkbHhDTGxRcl8zbjR3TWcxc1ljSWlaYlBxcV9BaVhEdUdZZ0MtVk5KMUZXY3R6N0ZZS2dVNWVpbWNLZWI5LUtseXAwRU5ySE9rbU80dmZvRUxzN09aTmZoWklfOVdEQ0k1ekJoV25FUFd5anRTLURKTGkxT1dJ?oc=5",
+      "tickers": [],
+      "at": "2026-11-12T22:29:47.402Z"
+    },
+    {
+      "key": "e002a5234d803723",
+      "score": 6,
+      "title": "York Space Systems Q3 Loss Widens, Revenue Falls; Revises 2026 Guidance - www.marketscreener.com",
+      "domain": "marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcnlTdktNMjBja0pERGJ4Yy1mQzBxYzNXSkZaWEhwMjc2YXZSQ0NaZU00NVdleEYyNW41R1NUT1FGM0EwVVVjUklrZDVVcmZKTTVra2ZoMXVsOFRlbURlLTh0NlNKV0pYVEY4a3l1MEJUOFNIS05CZFR5Y2dneUlxd3VhVEdhWTQ5TXNPMXVCN3FXSURYU3c0VGpiNjB5SlZWQWIzX2hoSHc2bG9faW5yUVFmazNQMVNoR0l3aF9UZw?oc=5",
+      "tickers": [],
+      "at": "2026-11-12T22:29:47.402Z"
+    },
+    {
+      "key": "64799bcc5539b37d",
+      "score": 6,
+      "title": "Andersen Reports Q3 Loss, Revenue Growth; Sets 2027 Guidance - marketscreener.com",
+      "domain": "marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNc0J3N3RnaHFZSFN0a3ZKbVVjQnRoSl90M1VwVWoxQVJGclptdFV1R0l2VlgyZnZham1VUTQxd0ZlRDZldEpQVDNMWTdGcFk3QUgzQndmS3JFQXFxRXBFWWd3WUhtNGhYUUd5bnBJb3NaQjlVTjg0NDJMdzhEOVh4bE1ZZS01UGhwRkFUOHFOeTg1SmZJbnJCUWZxUF9jSE1SQUdPLU96a2hGbGJkZUNBWQ?oc=5",
+      "tickers": [],
+      "at": "2026-11-12T22:29:47.402Z"
+    },
+    {
+      "key": "8ef889458bb9e624",
+      "score": 6,
+      "title": "Ofcom Strengthens Guidance to Protect Welfare of Participants - Content + Technology",
+      "domain": "content-technology.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOLXczV3A0NEJ2Rm1ISnFtVFMyM1NkcWNaVktaNFpTN0xUMmJ1cHFxYThNX2FteVVfUGhRVFN5VWNWX1JvRGFPMHhZZ3VDQWMzdl9DMTNRYm9lLW1wLTA5OTFDSVU2WERhZG1ibjBSbUtfNHR0NHdHeThoNl9aRjc1bDBaM1gzazdoTS1YMGxhazdsQ19JZkl4cWotYkpxdVlqRlo3SzE1ZmVCai1P?oc=5",
+      "tickers": [],
+      "at": "2026-11-12T22:29:47.402Z"
+    },
+    {
+      "key": "77dffc3125802a72",
+      "score": 6,
+      "title": "Octave Intelligence plc (OCTV) Tops Q3 EPS by 5c; Offers Guidance - StreetInsider",
+      "domain": "streetinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSWttcVpYRkhoRi00eU9OTGFyMnVnUlR5cC1vUEljLUItTTEwZFVVYjkza05yMHJZdTU0R1U4dXRfQ0dQOW4wZ0xDd0VFLUwyYXRCUmNXdWxNd295dUJtWXdvMmN5YUczRWtBTFhOR2VWVTFhV25faDFSWF9HTW4wdlFEOHV4YkhTMzh0Z0FhQ1l6VXBKR2tHMWV6eFJHa3pXRU9xMFFMdGd6Z3BPMkxBVnFLUWlpc19EY1RBalEtZkVTdw?oc=5",
+      "tickers": [],
+      "at": "2026-11-12T22:29:47.402Z"
+    },
+    {
+      "key": "7d4e4a9f93978e6b",
+      "score": 6,
+      "title": "Houston ISD State Takeover Faces Uncertain Future After Governor’s Race - Texas Scorecard",
+      "domain": "texasscorecard.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObl84MW1BbmdiVllfdW5vNEgwblpBanA4aVdydzlJRWpIdzUyQVhnaDBxeDczaVZtSDRUMzYzZGI0NnVBRkkyc0JzdlJjaFV0Rm92RjFKUVBUSk1HT183SUJaWkh5cmgyNkVhWDZneEFvbngycFdoT19meE5oazhFTWNhZkJKWklpdUJnd3N4Vm9QT3d4eC1mZ3hFaG1qai1YeXM2WWRpSQ?oc=5",
+      "tickers": [],
+      "at": "2026-11-12T22:29:47.402Z"
+    },
+    {
+      "key": "61bc2b3aebf520e9",
+      "score": 6,
+      "title": "HCRS leadership discusses UCS acquisition specifics - Bennington banner",
+      "domain": "benningtonbanner.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPV2QzLWdScmxkSEVNTFJuaTE0UjBwWjlObWpkckYzeS1vX2ZvWTQydkl5cllfdXB2V3pRSEhKOUdnRGxNazJwLV9OMEpPckxqcnNjMzB0eXhZT0dUU243dlJLbUd0a3FZakZQODctZkh1Sm5iRWdoUGsxQzljWDhnR0xXcW5YZkU0bmVjMkJkQ01HZnY5RnYtM3FwVDdUNnl0QjljbEJ3?oc=5",
+      "tickers": [],
+      "at": "2026-11-12T22:29:47.402Z"
+    },
+    {
+      "key": "c3e57d8872e24cb9",
+      "score": 6,
+      "title": "Figure sees HELOC momentum from rates, recent acquisition - National Mortgage News",
+      "domain": "nationalmortgagenews.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdDF5MThVUUllWFVjQWhHclFqX1o4b1ViUmhWVVk5WjZjSXNOU1Z3WWtvZU9kOEQ2cTVWVmtaNzBENDlPZUhwVTYyZTZUNWFGTmlBcGlzWWtWMzAzVHpERUZvcTMzV0RDdzkyVms4NnNsdHNFcjR3RWo4VjhENm9vNzhWNVRucW1FRkpLc0FjVVZMaHVfSTJGN1BzY0t5MkU?oc=5",
+      "tickers": [],
+      "at": "2026-11-12T22:29:47.402Z"
+    },
+    {
+      "key": "f5d3900f780505ca",
+      "score": 6,
+      "title": "GTERA: Globa Terra Acquisition Corporation filed SEC Form 8-K... - Quantisnow",
+      "domain": "quantisnow.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOHAwMzRIWXFPSWw3d1FybkNaelk4ZjEzOXgxd1dVMUx4N2U5WFVWTDdqWlVKY1hOZFpkZ1B3UzJYcEtyY0lUTXdLQ1U2T1pDUC11dXlucTdtTnVnVkhsUTAxMkd6cDlXMWQyYXFUUUlweTZhUENIT0tWWGhwMHBFcEJhR0J3c3ZSdkVFUGdlYjNHTjBRd0sybmo4dlozUnNVY21PYmFQWEdYN0Ji?oc=5",
+      "tickers": [],
+      "at": "2026-11-12T22:29:47.402Z"
+    },
+    {
+      "key": "e0213c1b4256baa4",
+      "score": 6,
+      "title": "LSF: Acquisition-led growth lifted sales and EBITDA despite gross-margin compression - TradingView",
+      "domain": "tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQaFVEbXFid3d0Q0JDdENaeEJJLVVfeG9nS0Z2a1VCbExIZVVBUjBmT3JLc3lJZ1pDZC1ySzlLQzdlWXkzcFZoVGkzUzBBd2VXNXJ5MXUzWEFhcE9rcnNXMENGUng5NUduWmRacnFNT3VhSFd6V0hIcF9BUjB0a2ltdXBmQVVBRjR4MEc5QlZaUlpYdExlY0hvYnFMSHpfVVNKZW9wbUpkRlpsRzUwQ2wtSUQzLWZXYmJ0Ni1OeS1PaEhJV3lyYmdGZ0ZaYTl1RS1weGUwOU8tekJEWVh0am1KTUMxVnBUbjl6OG5qRDBOQXJHQ1FCOWxISFZR?oc=5",
+      "tickers": [],
+      "at": "2026-11-12T22:29:47.402Z"
+    },
+    {
+      "key": "d994ef021c82fa9d",
+      "score": 6,
+      "title": "GoPro Extends Merger Deadline With Action Acquisition to March 2027 - TradingView",
+      "domain": "tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNmpESlNhN205SzdiS3NHVkxQMHZ4aGRlNUxEQkVtbDY0OE8wNjlBRWlNNDR5SkZKZ1ctckhpUXlCUVBQZzAxdjAyVTVqOHNueThoZE9VQlZadFdtVjhRNE14SktHZEFJWXpFS1AweWFjZGV4ZVE4VEtBaXR0cEdHcjk3WlhLYXRiVW9yMFJTcWVZQ3hxcWpxeWZTbGd1Zy1NTWMxWVN6RFV1ZVo3TnJab3hUeHNkZDVhdlktZ2ZfMTF5ZjhPbWp0YQ?oc=5",
+      "tickers": [],
+      "at": "2026-11-12T22:29:47.402Z"
+    },
+    {
+      "key": "fa98d62aefb1512d",
+      "score": 6,
+      "title": "IMPALA Responds To WMG’s Acquisition Of Zebralution - CelebrityAccess",
+      "domain": "celebrityaccess.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdVcxTXpDTE9qZXRHVUI5ZjBQTGJqbExtMkV5cm8wUnFkWnVWWVJ3eWZsX0lCdXhzWF9sYllWT1NXOWlKTGtjUjR0T1lQX2lVVDZlcEt0LUtxdlBXa2ExSzFZa0FlNTd3b21meVYxV3NCbVVUVWloRzlDMk9nVmN0U1VZN2pKRjRJUnBQRmFnMzJMSkZL?oc=5",
+      "tickers": [],
+      "at": "2026-11-12T22:29:47.402Z"
+    },
+    {
+      "key": "0e5461e6181388ff",
+      "score": 6,
+      "title": "SpaceX And Tesla’s Merger Talks Put Megadeals Back In Focus - Finimize",
+      "domain": "finimize.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaGUzemYzQzRiVHVfVnZ0aEhRODBMQjhQQTlyNTl1QlNSUXVjRTRoS25oTFFiUk9GSEJqWkNNMFgzcjBPRVJ6WjUtM1pyZ2FVTjhNajRfZk5NUGlvX2lPRzVLNzhmN3ZyTk9KVUdFM0w1OGprRGppT21YUks3V0M0NTBCemFQaUx6V0R3cDZhazA?oc=5",
+      "tickers": [],
+      "at": "2026-11-12T22:29:47.402Z"
+    },
+    {
+      "key": "fdfb9e5b36e132fd",
+      "score": 6,
+      "title": "Skydance Targets Major Sports Media Position After $110 Billion Warner Bros. Discovery Acquisition - Ministry of Sport",
+      "domain": "ministryofsport.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRzB3YlpRcEdmWmI2Z0psOFI4X1RsdHNieTJsWXFXUVhPNlVRNGFHNGswa3NhbkppakQ0cjRrNjQ5OFdMNzh2VmdvajBDZUF6MUZfN2RucGVUV0diZ2VCdUljUng4ak9RWWh3WEJKb0FwdXZJUnpwSWVNYklrbDM5WHpNWjJHcVlrNVdSWG1GdFpaSWpjUk5QcXVnX3picnZRa3lnSXhTdkdreDZsaWdic0hEOUZ6b2dLSTR4dHQxRXREVTQ?oc=5",
+      "tickers": [],
+      "at": "2026-11-12T22:29:47.402Z"
+    },
+    {
+      "key": "55bc9318487ca7d1",
+      "score": 6,
+      "title": "EAGR: October financing enabled renewed user acquisition investment and a push for 2027 growth - TradingView",
+      "domain": "tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOQmZtTkpYT3BfcmtRdF92enBrdTh3MFJVQkJVMENXdVJ5NTI3Nk1kcjdMRzZjV2lVMHI2WVlIQmtKT203VGRNOU1pNFJqZnJfa0FBWXdaVVplX3laVzFZUXNKck1XWVpycGNaVjBubk13Vl9vaWs1NFYzT2pJSmV0VGE4Q2YyUnZPZUp5WTdMenVEZ1JOeXpqYVNpRWc4RThyT3h4TkVzRGhCaS1lNmY1anB4dHU0Sk0xLUtOanV4YjJXUWYwWWtsM0NaOHc4T0lJNHZ5ZE5Yc3RubGI3dTNPOHE2QTJfaWk1cXN2UDBuNG1LWUFEWl9UVlZHVXkwd2ZlalZqdUZvVQ?oc=5",
+      "tickers": [],
+      "at": "2026-11-12T22:29:47.402Z"
+    },
+    {
+      "key": "fc56ec084a3f595b",
+      "score": 6,
+      "title": "Burtech Acquisition Corp II 3Q 2026: Net income $565.82K — 10-Q Summary - TradingView",
+      "domain": "tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSXhRdmo0enNieV85aUhOaUJveFMxYUhzc3VWSVFyaHBYOUUzRlByWEtCNzIyajZTdWtyYU5FSWlwQ3ZlU19keGlSaWNpdUFybEplZVBFY1FUQVotYlZ2b2MyVC1qRGlkUlFxOHRfVlRZWS05RXVQMk81VFd3eW5OUWlldm5NSUlRS3A2VXk1Z2NsNzM0LWZGdjRpV2hKb294alVBanppSHFXdUM5ZmhmQ1RPajYzU0c0bHlIbjg2aHhZQzNoRm03NQ?oc=5",
+      "tickers": [],
+      "at": "2026-11-12T22:29:47.402Z"
+    },
+    {
+      "key": "5584274e209cc9ae",
+      "score": 6,
+      "title": "Rallybio Targets Nov. 20 Merger Close, Updates $13.90 Cash Distribution - TradingView",
+      "domain": "tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSHMyYUhDSHJTODFpQ1ZoTnBJS1pTa2wweS1hQWJOYTd2Z3BxSzRNRFMxYjFhM1hnODBfM0VkMGhNQXBCM2RjT2tPZXMzVGw3bktXLW5JNS1qLVF2REZwcE9JQ1Ffb3owU3NxVzhKXy1MRzExVHczdGIyQ2VqcXlzSjBzeTBGWVNoaDZJQ0tHMUk3V25nMnNIZnBSck04VWdQbHhUMENIdFBwY09nOWlfWU9Mak9IeDhINUdNQ0cyVUpZM0ZmM3hkOENn?oc=5",
+      "tickers": [],
+      "at": "2026-11-12T22:29:47.402Z"
+    },
+    {
+      "key": "2c970114d3a2dc78",
+      "score": 6,
+      "title": "FACT II Acquisition 3Q 2026: Net income $1.16M — 10-Q Summary - TradingView",
+      "domain": "tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVldISV8xZkhSWk5USVg4WDRMai1acVpzeGNsVHE0Z21NTlpoSFM3elZ1TVZUVGVuZkduMnMwMUVUZTBiblc0ZmYta05MRTNzU1IzaVFnMnFmMHprcHhYY3FvaTFzaUJNZVRrWHVna2VzVTh5ckFzaGZZRmZvNl9xMS1lT3phN25hZDJ1cEJQZl9CSzhaeXFMLThDS0dtSUV4NzZTekplRGxNQk9VV19KcDhGVHJiWTZBUV9z?oc=5",
+      "tickers": [],
+      "at": "2026-11-12T22:29:47.402Z"
+    },
+    {
+      "key": "489ae60645c8878f",
+      "score": 6,
+      "title": "Pinnacle Acquisition 3Q 2026: Net loss ($4.27M) — 10-Q Summary - TradingView",
+      "domain": "tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUlhiejF4S1VpaEUzVVVqR1VUMGk0UUUzZ0h5OUVjbjJHNHY2N0szNlhySmM1T2E4dnY2aWlYWHZEeWtkRmF0d1l0ZTZrS2xTM2RSOGlaclowYUZ1Q0lNYWFxaHM4R1g1c2FBVzJ0eEVWUzdwdXF5blhCel9MYVhMalVnWFZGWmtFX0hYTTEzeTdWV05kNFhtZ3Z3UU1YQ004WDMxZXJOcWh4aGFJRExYMUZBdl9MLWRxZEE?oc=5",
+      "tickers": [],
+      "at": "2026-11-12T22:29:47.402Z"
+    },
+    {
+      "key": "eaaeda84b942d910",
+      "score": 6,
+      "title": "FG Imperii Acquisition (FGII): CFTC approves tZERO DCM registration, completing derivatives unit - Quantisnow",
+      "domain": "quantisnow.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUUIxWEpPcHJ1Xy1ieDVZYVN4cTJYamRGYlMyUTNyS2h4WU5fM04tQkdlVlA5d2xGM2RXX0pTcDZYblBQZjRfaHZPUEdIN1ZKbXJxN2E1NE4xcFVzM1Buei1BRUFxZ3RxTExodlk2dWM5T2g1elZDTEJkcTNtZXlsa2p1Z1VVR2xzZVQ1ajVfcnd2dXpJVGJN?oc=5",
+      "tickers": [],
+      "at": "2026-11-12T22:29:47.402Z"
+    },
+    {
+      "key": "1181978e2ed68f9a",
+      "score": 6,
+      "title": "Nessel launches antitrust lawsuit against Mackinac ferry operator, alleging monopoly - Michigan Advance",
+      "domain": "michiganadvance.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQklBeGtReDU1THY0WjdFcHY5RGVFUnZlX3k1WHBHYXU4N1I2dVI2M1lvNm41Wi1pdlVBdEFHRmYtbUpoMi16dEFWc2tJV0pLTGYwYXlWcElleEFIUUM1cVdnRUdUaHMxa3NKcW9kR1hzWklPWGNGOFhucWhaNHdxM0l0ZWUxS3lCa2ZrZWpHOFFEcXAwRXJFTVFiVVExcUhWek9rNVhCZWFySmFKYWM4Q1lZTHRvTXRhc2FJTXIyYWI?oc=5",
+      "tickers": [],
+      "at": "2026-11-12T22:29:47.402Z"
+    },
+    {
+      "key": "53ddf1f3af77f767",
+      "score": 6,
+      "title": "Trump’s FDA pick faces Republican doubts as confirmation deadline nears - NBC News",
+      "domain": "nbcnews.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQWI0dHBaLWs2TDRoaDMySWRQQnh5aHJyY0tMLVpocTZ6LUZkcWNIVzRtQUtNTVJZYk1tUF85T25SeVU1T2gzdFNaWkxvY2ZwLWtLUlJ4aG96RkYzZlVhbkltUnlOb2dwMmZGYmNzMUlNUldmbkFRR2oxeGxoYTFFN2gzZ3lYcGJQd1hncVpKNXZzYkNqNWVCVzFBVDJTam5iU0hhdw?oc=5",
+      "tickers": [],
+      "at": "2026-11-12T22:29:47.402Z"
+    },
+    {
+      "key": "59e4c5581d12df6a",
+      "score": 6,
+      "title": "More than 80,000 insulin pumps recalled due to safety risk—patients should follow latest instructions - Cardiovascular Business",
+      "domain": "cardiovascularbusiness.com",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOb2RBc0xYRVhCMGNoeXBVTTB0X1k3V1U3RGV3ZUZGaFZNdnlIQWxfbGF3T2RBLWF6N3hvZDZBeTl6NlRIdGotWTd5QmxZbzlnOXVxTVVDSmNieW9ybTJLQkh0QXYtTHo2LUZndzhSTmJReVhDTFBtSnFaZ2V6U1dmWWhjQndoQzJnVHFDX3E0eUFqbnp6V3lFM3NwTFJ3cU5JSC1iVlExa2lKVFBTczVUd0QxdE9SaXRfQjA5Q1R6aklCc042MGtHcVlnR19OYWJPMVNNWXpXbXBwMktWQXpJUkgwOThDbWNmUlRkNXdJdVh2b0E1VGU3QUkxWE9IN0RJWDZISkRZdXJZUkREV0hBRQ?oc=5",
+      "tickers": [],
+      "at": "2026-11-12T22:29:47.402Z"
+    },
+    {
+      "key": "2231975bbe413ae7",
+      "score": 6,
+      "title": "Bechtel Medical Receives FDA Clearance for Wound VOX System - HME Business",
+      "domain": "hme-business.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQzUyTUE0czVoZDc5VHRKdjNhdWJzVkpzUlhVT1BkZFhnMlRiR3N2b1piX21BWVQ1dVhsZWI4MUF1UmZQX3JILVJqZWcwRUE1Y0k2elU4WjdlZTQyYWhlS3hGQUNNQzRFRDAzRUR6cjBSRzRPNlhrb3pOUGQxVGgtTk5ENm1Gdm42dW13WVRn?oc=5",
+      "tickers": [],
+      "at": "2026-11-12T22:29:47.402Z"
+    },
+    {
+      "key": "1ec79ba6cb71fbb5",
+      "score": 6,
+      "title": "Nessel Files Antitrust Lawsuit Against Ferry Companies - Mackinac Island Town Crier",
+      "domain": "mackinacislandnews.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbzJtaEkxQUtnWHJrT3RDQkhzU3UzbVRkTWZRLVpCZU1wNElOY1R4TWhfVlF6SUlIekRwTFlFTVFtcGItZHhRN29fUEhuQ2txSzUzMlFaUGRQM1p3eG9vV3d0Q3lQNnBqUW40eGFGY0o1TkF2c3JsUlFaTmFrSXFJSzNwOVU4S2lDUnJ4OUUxMGhIT3BOaGdTZ3c1RDNYblRp?oc=5",
+      "tickers": [],
+      "at": "2026-11-12T22:29:47.402Z"
+    },
+    {
+      "key": "a3de94f52cf79c7a",
+      "score": 6,
+      "title": "Once Upon a Farm expects recall to weigh on FY26 sales and profits - TradingView",
+      "domain": "tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeDdWekp4S1FselFCcnVoQW93ZUNudGVqR3ByXzFYZkRDbWxwV2JVakZ5MHY5d1VubWlRWllGcEFUZWQ0RWM3Vm14dUlkZDBiOGk2SnFWN0lHWEppMC1PdUttVkZ6ekxqZXc0dDR2aGpQVFR1cGtWak9BWlFRYkY5V3I1el9Rd2RkUnRabGpMSTRnYk1wdkY3QlhUb3c0M0Q1TWNMNXdRbGV4V1o2OEdOUkMxVlJKRlo1Y0JtMDFjVklnSWh5cGxKcg?oc=5",
+      "tickers": [],
+      "at": "2026-11-12T22:29:47.402Z"
+    },
+    {
+      "key": "1092e7f48faded9c",
+      "score": 5,
+      "title": "Stock Market Today, Nov. 12: AMD Jumps 5.9% on Bank of America Price Target Hike to $700 - The Motley Fool",
+      "domain": "fool.com",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPV0t5QXhyTjNBSE9zZFZKYlBkcGpTam5DUHN4LU04d0s0U0xpMXMza1hTYTdSMUJxeHEzTTdFMnN2Z1MtZENPQWVwdmlzS3Q5ZThxaW5GMkN3Z0FxWXUwNXAwSlpZclhTY20xeUJzMlJkNW9leVZsWEZGQ2pSczFiUWtfU3ZtZ3g2Y2UxTTVMeWNsM2ZXTTFhUGZqUFRBb2NCb1JhaFZuTFpFaUZzLXJpeHNOV0cxVEtFZHVjRGJMRUtETTcwd0N4OF9HNkxIVFNuU0ZBZi1vWXUtZVU?oc=5",
+      "tickers": [
+        "AMD"
+      ],
+      "at": "2026-11-12T22:29:47.402Z"
+    },
+    {
+      "key": "b86c2c8781e23345",
+      "score": 5,
+      "title": "$3.9M Arcare data breach class action settlement - Top Class Actions",
+      "domain": "topclassactions.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaHlHalBjeWVGLVVVdkZQMjVCVC1UUndFWVYxRndzRzJIXzBRaVUtUHZYTHYzSnRmR0lyOEpadWFvYWNrUHFRdlJHNE12dDVaNnYwRGRLMlBWSlRIVlBRQVZNUkV4UzVmTllWR3pOVEotQlhuaXl4eERwMzVSTkdXQlUwOXFWZTNPZThqNGNpdnBhMk8xdF9HZFVzeHd4M0NYZlJXczJRX293WF80cEFrYUhvR0ZWa1hhcG9hd2Fn?oc=5",
+      "tickers": [],
+      "at": "2026-11-12T22:29:47.402Z"
+    },
+    {
+      "key": "dceedbfcff56781c",
+      "score": 5,
+      "title": "FDA approves first blood test to diagnose Alzheimer's - WSMV",
+      "domain": "wsmv.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaG1Ua3haR01JUGtlSnVGTUNHZ0llX29pcHhfUXJ0c0RONkVBS2hLYURBN0VfMmZ2ak1rcUdpaGRXcHNDNHlIS1JBMC1ZcVdpaVRaN1VkZ1ExdUFKczNJaWU0NjlwMEFtQ0pONjZkX0U5VmFVYnFaZmpRdUhhZU12MEUyaG1aNmhjR3ZQMU1ZVWh6Zw?oc=5",
+      "tickers": [],
+      "at": "2026-11-12T22:29:47.402Z"
+    },
+    {
+      "key": "29a96b5b902c6123",
+      "score": 5,
+      "title": "Signs Point to FDA Shelving Priority Voucher Pilot, Stalling Fast-Track Drug Reviews - PharmTech.com",
+      "domain": "pharmtech.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNTdrcWRHdUF5UGJvWS1fQXc2Rjc2a1J0YWxUZlRGY0JwTVlCRldWbkF3bHpmb0VwcUp5YkZEZmJKckRGOWV6RC1sZnlfLVJSTml3ZUtIZnI1YUFkcmtndkdTcWRoZDRVMHRqUU5jWVowLVpoMjA5bG9DaUxWTDdWcUY4S3psMFQybEpBQW5mM09GMkNRdVVnX191OHprcG8?oc=5",
+      "tickers": [],
+      "at": "2026-11-12T22:29:47.402Z"
     }
   ],
   "lastQuotes": [
@@ -13234,5 +13206,5 @@
       "ts": 1794517201
     }
   ],
-  "lastRun": "2026-11-12T21:51:33.826Z"
+  "lastRun": "2026-11-12T22:29:47.402Z"
 }
