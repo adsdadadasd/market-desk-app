@@ -1,38 +1,6 @@
 {
   "version": 1,
   "seen": {
-    "ea2036f749d4239f": "2026-11-07T07:39:18.979Z",
-    "a700ea5bc042271b": "2026-11-07T07:44:18.740Z",
-    "de41fa1e5f5abe49": "2026-11-07T07:46:19.717Z",
-    "b94e199846f32a32": "2026-11-07T07:46:19.717Z",
-    "342b2ee8fcfd4be2": "2026-11-07T07:46:19.717Z",
-    "0ce7b8fca23fdf63": "2026-11-07T07:46:19.717Z",
-    "aef1a0986c629b64": "2026-11-07T07:46:19.717Z",
-    "45835a63056eb452": "2026-11-07T07:46:19.717Z",
-    "d693350bf42053af": "2026-11-07T07:49:20.499Z",
-    "333150e768ebac24": "2026-11-07T07:55:20.247Z",
-    "5a4a697adead77bb": "2026-11-07T07:56:19.396Z",
-    "63cf28af38bc4179": "2026-11-07T07:59:19.694Z",
-    "58fe87563df00004": "2026-11-07T08:01:19.906Z",
-    "8e79dd5b02fd6587": "2026-11-07T08:11:19.767Z",
-    "6d8c0216012df001": "2026-11-07T08:11:19.767Z",
-    "aca156d05cd0c2db": "2026-11-07T08:11:19.767Z",
-    "f084f9998523374b": "2026-11-07T08:13:19.789Z",
-    "431e41104feb127c": "2026-11-07T08:13:19.789Z",
-    "6b6febdf339e65c9": "2026-11-07T08:13:19.789Z",
-    "b7c0fb9a225d9227": "2026-11-07T08:13:19.790Z",
-    "d8e041970650f194": "2026-11-07T08:14:19.736Z",
-    "b5613490cdabaae9": "2026-11-07T08:15:19.814Z",
-    "15998da23279432a": "2026-11-07T08:15:19.814Z",
-    "7a5c314e9dd5e6e4": "2026-11-07T08:16:20.407Z",
-    "909949f848b4a2af": "2026-11-07T08:17:19.857Z",
-    "2ee6677a9f7c6b85": "2026-11-07T08:19:19.919Z",
-    "a5659e01582a25b9": "2026-11-07T08:23:20.127Z",
-    "3832eb3d1845768b": "2026-11-07T08:23:20.127Z",
-    "611ebc3eef85ff9d": "2026-11-07T08:24:18.724Z",
-    "f3dde8040d2761d9": "2026-11-07T08:24:19.672Z",
-    "d97fa387d305fe97": "2026-11-07T08:25:19.931Z",
-    "a36fa799e8320b76": "2026-11-07T08:25:19.931Z",
     "30a7ee0195c78b4e": "2026-11-07T08:27:19.966Z",
     "b2f060e98be8d26e": "2026-11-07T08:27:19.966Z",
     "3d93a64a1817337d": "2026-11-07T08:30:19.917Z",
@@ -10868,7 +10836,23 @@
     "865768894fe9adcf": "2026-11-14T07:36:50.244Z",
     "57916370fb9dc407": "2026-11-14T07:36:50.244Z",
     "84d082327ad4514c": "2026-11-14T07:36:50.244Z",
-    "6ea66f457a033b60": "2026-11-14T07:36:50.244Z"
+    "6ea66f457a033b60": "2026-11-14T07:36:50.244Z",
+    "dff2e5e92d85c921": "2026-11-14T08:25:43.202Z",
+    "87a3b2e1b988f69f": "2026-11-14T08:25:43.203Z",
+    "e912b0fdc904372e": "2026-11-14T08:25:43.203Z",
+    "2be7322fa94d2fbb": "2026-11-14T08:25:43.203Z",
+    "1a6aacbbf96faae5": "2026-11-14T08:25:43.203Z",
+    "f88a9d215381476a": "2026-11-14T08:25:43.203Z",
+    "fb4bf80fba8270a3": "2026-11-14T08:25:43.203Z",
+    "8dce8d7446c599c4": "2026-11-14T08:25:43.203Z",
+    "ec3d6c5c2c913f45": "2026-11-14T08:25:43.203Z",
+    "0caf9105ccdec473": "2026-11-14T08:25:43.203Z",
+    "f64e6ac672590f6e": "2026-11-14T08:25:43.203Z",
+    "8a1267241990977d": "2026-11-14T08:25:43.203Z",
+    "0b6cc4c1f66a3c48": "2026-11-14T08:25:43.203Z",
+    "b62f11ece1ca0f1c": "2026-11-14T08:25:43.203Z",
+    "a22a2f53efdb78b4": "2026-11-14T08:25:43.203Z",
+    "753cfe5825bcbdee": "2026-11-14T08:25:43.203Z"
   },
   "alertsByDay": {
     "2026-11-07": 2,
@@ -11034,78 +11018,6 @@
     }
   },
   "pending": [
-    {
-      "key": "57933b7a7607c273",
-      "score": 6,
-      "title": "Keen Vision Acquisition 3Q 2026: Net loss ($145.23K) — 10-Q Summary - TradingView",
-      "domain": "tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNDNNZEViTzMxMFhTQUdKMkpVQVE0alRIUFgwR0N0LVJBYjRiZXQxRlFvcHVZbVBTMlRCY0tVdzFvRW9ybWxJN3h6SmdnN1VXem81SEhJSUZTN3NLa2NoMW9Wd0xNMU5hWWhCYU9SV1N5LXVPN19pdVNLVGtmRG5NUTBOUzdXakhaQUs5WERkOE5pQXI0Q2o2VlQtdUl4ZkFjX1RSNWlLaXdLb3RQMGhUeEh5ckllVlEzV2NkTjJWWEk?oc=5",
-      "tickers": [],
-      "at": "2026-11-13T22:58:13.593Z"
-    },
-    {
-      "key": "eff11066dee4f1e2",
-      "score": 6,
-      "title": "Highview Merger 3Q 2026: Net income $1.81M — 10-Q Summary - TradingView",
-      "domain": "tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNczhMRnptOS1zMV9vUVhWdUxiYTJIQURhcUdRcnFIWGo1dDJEVkg4TW5RNkRnTGlSYW9sTS1mV0NqZWYzWUZSb011OGlOSjkzeVZrVFgzVkIybW5lb2tGVVU4RVR5b0IxRElFNHppRmhHVnV4Wmpqc3R3M1hmck05Y1VraVhOR0FhMW1qVlFRVmJkT3JSc1Jxa2FpR3RETjRuN2k4N0M4REI4NmRfRFVSYnVyQlVydw?oc=5",
-      "tickers": [],
-      "at": "2026-11-13T22:58:13.593Z"
-    },
-    {
-      "key": "25723bf8bc58bb87",
-      "score": 6,
-      "title": "McKinley Acquisition 3Q 2026: Net income $422.67K — 10-Q Summary - TradingView",
-      "domain": "tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONWNLSkVmT0VUVWdlQUFEWWM4R3lGZ0ZvY2xLczk0WnFhUlFpNTl5TTBiWTlKVjFlUTNRNnVaV0l4bTZLNkJVMFdIVzk2MzlCTWd2em9NWFZwbXI5TWtfZWF1SnZhdjZYRkcwNEx0UUctNUJkUHVreDZzQkFVTjJoaU54amktZmYyRTJ2S1JUZWVCbnRuZE1OdldSQmttMW8ycHNySFBZRzNwbWVfaVpaZTJuWHdUNnlUWjNRR3VqRQ?oc=5",
-      "tickers": [],
-      "at": "2026-11-13T22:58:13.593Z"
-    },
-    {
-      "key": "7df401b8806b8227",
-      "score": 6,
-      "title": "ITHAX Acquisition Corp. III 3Q 2026: Net income $1.97M — 10-Q Summary - TradingView",
-      "domain": "tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZ18yWTl1c3NTVnRGaFloQnd4bTlyOFFtanl0VFJSaE4ySjhUem1GU0E2eXFyQmdmOTBZREQ4SUJBQ3lHeElmOU5UclhoSkdyZzdHeXlUdkpMcjlWa2tvM1RSdmpPbWVqLVdRVHVXd3RZc0szSnV2YVJCUHJhZHN1alFlTXA1bFlfMzRTSFpUc2FvSmw3V2RWbWl3bVgtamY1V1ItTGlXcDFEUW5Qb2VMX3MwTk82djRhcVBPSEJURVpPNkFG?oc=5",
-      "tickers": [],
-      "at": "2026-11-13T22:58:13.593Z"
-    },
-    {
-      "key": "57057d9049e801b6",
-      "score": 6,
-      "title": "NMP Acquisition 3Q 2026: Net income $633.5K — 10-Q Summary - TradingView",
-      "domain": "tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcndmS3UzZlZ3ZmVYVC1KS0o0Ym0zRk1MRHBScFFUUW82OEdLa1ZrczhqVVNZbGIxdy0tdlJNWVRDWHJuQ19CVWtWamtlUkNpeEQ1LWN6U3duY1JiMkhDdnIweGJ1N3NoRUt3T0VydXlYbG1pS3h3YXNBQ2tUT3V0ZzFlUnZXOHRiX2pad0ZZUTBKUmtDZnpGNlE1alRvd2p5VVVoV3ZyZEpwcGdsb3ZLY2hFQ0w5eVk?oc=5",
-      "tickers": [],
-      "at": "2026-11-13T22:58:13.593Z"
-    },
-    {
-      "key": "4efa18fd0ddc9387",
-      "score": 6,
-      "title": "AIRTP: Revenue grew 68%, but acquisition-related costs and operating pressures drove a $20.0M stockholder loss - TradingView",
-      "domain": "tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxORlVDbDgyWXJGbENnaHkzQXhralRXUF9rRklXV0RHWFFsRTZ4c081MFk2WEgwQnJsVTZINnVTemRIQ0JfNW1BTkhzV1QtaS11LW5Wc2VocEdxSTV2OGFMOVJsRndSUlBGMHRwQ3VWeXFjVnRaN0Z0OVNwbUFYeDlfY09KUEtUT2NoTF9ablBvSXdIdUNNVldmdEZkeHo5Y3lJdjE2YkpHRzJGRjd4YUE5enJaNms4dW83SzJ0akJ5VzZFOWFma1NmSndoVVU2YndPM3pKQV83bDU1QXR2RGhGSENJRHVpanhHdGdvNThMZTBSdnhVazN3Q1BZZWc4WGZVd3N4QUlHWVZIQUFKaWNJLWlrZDBycDFj?oc=5",
-      "tickers": [],
-      "at": "2026-11-13T22:58:13.593Z"
-    },
-    {
-      "key": "c1f3a40b7cdaa41b",
-      "score": 6,
-      "title": "Injectable Nanobody Wins FDA Approval for Myasthenia Gravis - MedPage Today",
-      "domain": "medpagetoday.com",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5hSWJodDdqQnBIZFl0ZDZKcTNkNnZaRVZRejRHMXFCdXJPNWEtSkQ1NndIVTJ4Zzc3Y3FGVzFXZ213cHBEb1VFdDVqUHFHemxBVUwwWkZwd2djVUlzaS1jT19fYlpXclZ0NElpdGtBNA?oc=5",
-      "tickers": [],
-      "at": "2026-11-13T22:58:13.593Z"
-    },
-    {
-      "key": "c31bdb3cafb5e807",
-      "score": 6,
-      "title": "Canada's Stelco to Recall 175 Laid-off Workers, Restart Ontario Plant Finishing Lines - GV Wire",
-      "domain": "gvwire.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcjcxNDdhR1BsRUNSSlBzNlU3RG5aTzg0Z1o4NlNlT0w2TktOUFhaWW9nRks1OXNtTHpkc1ZPQXBHcHpLWWVLTzJJNW54dVBDTnItVXViRllGVUJacFBvWkxyemRXSU43RzJQZ2pBWjNnVllrRWRpM1VHLVUwWHpiUXJRaC05R3hHM2tvSGlJbjVjWVhoakVsYUtiSnhkTndWYlFnaXVxRUo2bEtfd0RyTEY0UUM?oc=5",
-      "tickers": [],
-      "at": "2026-11-13T22:58:13.593Z"
-    },
     {
       "key": "d92bb63a19b8f168",
       "score": 6,
@@ -12843,6 +12755,81 @@
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9rU0lMM2J3MmF6NkpkZzB3T1Y2OUpJYmNBa0ZacVpKQjRnT19aQ3hqUnhSTFAtRzdiLWdyaDdKSklxb2ZibDRkSzFfUHhMS3ZDUlNScy13NERPdGdzd0E?oc=5",
       "tickers": [],
       "at": "2026-11-14T07:36:50.244Z"
+    },
+    {
+      "key": "0caf9105ccdec473",
+      "score": 8,
+      "title": "Dow Jones Forecast: Trump’s Mexico Tariff Remarks Test the Rally - FXEmpire",
+      "domain": "fxempire.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTjZtQi1oVzBmVW1RUXFVMDVSWGtRWDI5di1CRWtmVUFMdXE2Yk52N3ZZQVFEUllXQTlic2IycExISWozVzZXZVFQbnVPd2NKNjBlWXhRTlhUR1M3LUR3X2l0eENiQW5Ca29uWDI5OFA1OS1UVVJHN1IyZk9xVkJvZk54eW5MQnVUM3J0NjZyNy1YdktwTFZRV3Zqems0OFQ1TWFqR1ZzRnBnSTgzN2ptVkJSaw?oc=5",
+      "tickers": [],
+      "at": "2026-11-14T08:25:43.203Z"
+    },
+    {
+      "key": "0b6cc4c1f66a3c48",
+      "score": 7,
+      "title": "Rocket Pharma’s RP-A501 Danon Trial Gains FDA Alignment on Endpoints - The Clinical Trial Vanguard",
+      "domain": "clinicaltrialvanguard.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWWM1U2dWUDI1N2dHUVdPOGl6bWNuRVBzejR6MDBDOE5pVkFHbHl4X1YzYS1MWTFxejdlR1FtMmEzTlJsUGJPMmlYSzJNdWxiUlJTYXBVOTUteFRQQWMwdER1OFREMDVUSG1leWY5WUVMb3RyRGJjbjFQYjhBZ3lydjljcDVKMG1TNDM2VFk2WGE5WGNyU0E5a19LNkQwdmZQSjJvVkNGR1U3cnp3MEdOSg?oc=5",
+      "tickers": [],
+      "at": "2026-11-14T08:25:43.203Z"
+    },
+    {
+      "key": "e912b0fdc904372e",
+      "score": 6,
+      "title": "S&P 500 Movers | Winners: CHTR, STE, GPN | Losers: AMD, DELL, CSCO - Trefis",
+      "domain": "trefis.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPR3dVY0JTaWg1RmxtMzM5Z2JwWWhZTzVudG1KODB4dURUc0pXaFJhemI1R1dEeFowckd4UzNfQk5OLUE5bjAtMUVlZGNQeUpTb3lldktxVVdZRm5ycnRIcmg0UXVHTVBBVlZRd0tTdkN4ZjFjX3VDZDB1YUh4T05OOUxBMXJZLUo0cGtmYnVYbUVqa0RCbFpMNGVWcHJKUHlHcnZkVVZoQ2wtX0p5aVhSNTNhOVl0QQ?oc=5",
+      "tickers": [
+        "AMD",
+        "DELL"
+      ],
+      "at": "2026-11-14T08:25:43.203Z"
+    },
+    {
+      "key": "a22a2f53efdb78b4",
+      "score": 6,
+      "title": "Students fondly recall four victims of the 2022 UI homicides - The Lewiston Tribune",
+      "domain": "lmtribune.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWjh6WTVGTnhITV9zSHhERmxKVlpkbG5xb19jWXRkRHJvVG9mZW9NTERjZ2hFTDVMWVJaS0lRNFF5MExxTGtwYXlILW44NjVHMU1idTRkSEhmUjlHU0IzdWJxWjhXa0twd2ZfdEU3dG1qZ09zU2VqbVJLUWt6RDBqNHFqMWpFN05veS1v?oc=5",
+      "tickers": [],
+      "at": "2026-11-14T08:25:43.203Z"
+    },
+    {
+      "key": "753cfe5825bcbdee",
+      "score": 6,
+      "title": "Transport Department Warns Public of Fraudulent Airbag Safety Recall Messages - 巴士的報",
+      "domain": "bastillepost.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMGNWZ3diZ2Q0TEtOSHNpUV9TVmdjeDRJbGY1MjBCRG9NWHB5VWRYd0FSdmFVbVNNZUxVZVFDNks4UE5YWGs4bnFlcEhfSzd4Ty02bFowbERSejg5NzJZdGdfMDhNSDhpb2NpMHdkRUMxM3F2U3FCMTVieldITXJGRi1aS1AzRWQyZWVkaGFUempuY3VvQTBQclE1blFsbjRqN2pBMEduN05TWnB1cGtJTC1ITlZLQnU0TjlvWl9mYXVad2ZwNmZ5ZQ?oc=5",
+      "tickers": [],
+      "at": "2026-11-14T08:25:43.203Z"
+    },
+    {
+      "key": "1a6aacbbf96faae5",
+      "score": 5,
+      "title": "Nvidia Co-Founder Jensen Huang’s Downfall Is a Sign of Silicon Valley’s Power Drain - WSJ",
+      "domain": "wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1pTWpBNEFVQXdpaDFva1g3eFVXMExBVzdia3oxdDdmVURaLXl3aEt0enBhYmU2Y1NTdE4xUU03Yzg1bjJCRmxHX2J4WWNKd1RvbDY4TUxxcDI4WklaaVh0Zm5uVjgzcHd0V29vRmtjV0hjUUpNUi1v?oc=5",
+      "tickers": [],
+      "at": "2026-11-14T08:25:43.203Z"
+    },
+    {
+      "key": "f88a9d215381476a",
+      "score": 5,
+      "title": "Dropbox: Customers Have Proven Stickier Than I Expected (Rating Upgrade) (NASDAQ:DBX) - Seeking Alpha",
+      "domain": "seekingalpha.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNLXduSnJzT09ka1Z6c19BdHU5b0I4YU0tSUd2RGxuSnNGWGRNbU1ycmhodDhUd1A0SUpuNzJBUF93eEVfWW1BaC1CcGEwMGVqSkd3NnpObWxNbUNHY3hYclN2Y1drUXprdkVNWTRia183WG5ya284b21iYXlSZU9BcGZNZzc1SHFOc3BtTEYzRk9fZjMyalJUVmRCaUhfcFBlOXBWR1lqQ0Q2djVYNnBrNHQyVTVTcVNyZktpbjV1X254c1BvU0NTNA?oc=5",
+      "tickers": [],
+      "at": "2026-11-14T08:25:43.203Z"
+    },
+    {
+      "key": "8dce8d7446c599c4",
+      "score": 5,
+      "title": "United Bankshares (NASDAQ:UBSI) Stock Rating Lowered by Wall Street Zen - MarketBeat",
+      "domain": "marketbeat.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcmJXY2t2UkxXZHVrNllNdHl6Vmppcy03MG5JLWlUTlFZOEpBeGRMWGNYd1pHbHVZckhkcFZ1MTVwNXY0ZjBNeFg5LTBDcVV6dzVNSmFqb1ducmlXalZxMmRlYWNid3BLT0d5d0NqMVVOWjBwTEduYW5IMkJmRUhjMWZXTG1pT1JPaVpFU05jRWs4Qmt2bVgwWEJJUUx0T2UxVzRDTVg5cGlCQjdZZjhCWHR2R3Fzc05IWVBVSl9ka2l5MzFmYmlvTUhLRQ?oc=5",
+      "tickers": [],
+      "at": "2026-11-14T08:25:43.203Z"
     }
   ],
   "lastQuotes": [
@@ -13378,5 +13365,5 @@
       "ts": 1794603601
     }
   ],
-  "lastRun": "2026-11-14T07:36:50.244Z"
+  "lastRun": "2026-11-14T08:25:43.203Z"
 }
