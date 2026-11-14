@@ -1,30 +1,6 @@
 {
   "version": 1,
   "seen": {
-    "44d0d976da0c7ca3": "2026-11-07T20:09:05.122Z",
-    "b6ea62d1a9846e0f": "2026-11-07T20:11:05.042Z",
-    "67a14cf73c02815c": "2026-11-07T20:11:05.042Z",
-    "17b9b46277df1cda": "2026-11-07T20:11:05.042Z",
-    "84465f8d8a6bf1be": "2026-11-07T20:13:05.042Z",
-    "da7f83d2343c4f77": "2026-11-07T20:13:05.043Z",
-    "03b71a0db00041f4": "2026-11-07T20:13:05.043Z",
-    "954298b1b8867746": "2026-11-07T20:19:05.078Z",
-    "ab105fa8d23eb03d": "2026-11-07T20:21:05.093Z",
-    "0318b164e2a2e045": "2026-11-07T20:25:05.216Z",
-    "7d8f3baaf5864372": "2026-11-07T20:25:05.217Z",
-    "98014410e96d1854": "2026-11-07T20:25:05.217Z",
-    "051f3042961bb244": "2026-11-07T20:29:05.181Z",
-    "11325c4057c5bd77": "2026-11-07T20:31:05.182Z",
-    "89cc2d835f64ed77": "2026-11-07T20:33:05.374Z",
-    "db6ee45afd70ab27": "2026-11-07T20:33:05.375Z",
-    "3b674ac8e816259f": "2026-11-07T20:33:05.375Z",
-    "4b4e03276094488a": "2026-11-07T20:33:05.375Z",
-    "c3ca58bf0110eeb2": "2026-11-07T20:35:05.240Z",
-    "ff0c321c0bd1a5da": "2026-11-07T20:35:05.241Z",
-    "696612f25daecc10": "2026-11-07T20:35:05.241Z",
-    "5e9f34902aa1b214": "2026-11-07T20:41:05.268Z",
-    "632ea1affc8d3c6f": "2026-11-07T20:43:05.274Z",
-    "e4efed24b0bc5fef": "2026-11-07T20:43:05.274Z",
     "c928acab2ab64616": "2026-11-07T20:45:05.364Z",
     "e00da5511697e10f": "2026-11-07T20:45:05.364Z",
     "dd1b3a3a094080eb": "2026-11-07T20:51:06.064Z",
@@ -10720,7 +10696,21 @@
     "8de03e39da7bd9e7": "2026-11-14T20:08:01.476Z",
     "775ef37d901ac1a5": "2026-11-14T20:08:01.476Z",
     "3f3d8b50ea84dac9": "2026-11-14T20:08:01.476Z",
-    "44c40921724e0ad9": "2026-11-14T20:08:01.476Z"
+    "44c40921724e0ad9": "2026-11-14T20:08:01.476Z",
+    "b09e04259f732e8d": "2026-11-14T20:43:57.467Z",
+    "ba7929295b6fde52": "2026-11-14T20:43:57.467Z",
+    "d5d745aab110b300": "2026-11-14T20:43:57.467Z",
+    "7ac88079f5db2915": "2026-11-14T20:43:57.467Z",
+    "b98a93ad201dfe9e": "2026-11-14T20:43:57.467Z",
+    "f4e85e89326e6bdf": "2026-11-14T20:43:57.467Z",
+    "ff51ac62ed57c135": "2026-11-14T20:43:57.467Z",
+    "f21fa62a516e6060": "2026-11-14T20:43:57.467Z",
+    "b81eb91c73cda214": "2026-11-14T20:43:57.467Z",
+    "664c04caed8980f6": "2026-11-14T20:43:57.467Z",
+    "61cb2e50c413714c": "2026-11-14T20:43:57.468Z",
+    "a459458148cb82ed": "2026-11-14T20:43:57.468Z",
+    "e9698c5275645e8a": "2026-11-14T20:43:57.468Z",
+    "3bb266f4232a7f6e": "2026-11-14T20:43:57.468Z"
   },
   "alertsByDay": {
     "2026-11-09": 22,
@@ -10885,98 +10875,6 @@
     }
   },
   "pending": [
-    {
-      "key": "7a72b066a1392a18",
-      "score": 6,
-      "title": "Roanoke looking to weigh in on Norfolk Southern merger - Roanoke Times",
-      "domain": "roanoke.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQa0R6RVMxdGhTWi1yeTlLQm53QVZRZVFTcWJKU1l2S1BZX2htbllNVVd5SzFiN25IRGUzM3lLR3RkQ2pyNzN1SjdmenlfaUx5ZDdIdVJCYVc1elZmdFlCTVZqalpFZ3B1MzVzWUdSMmMxdElvRGU0MUVnR1BtUFBNUmJBZmZFdXVxV3MyRTQ5TUlDaDQ?oc=5",
-      "tickers": [],
-      "at": "2026-11-14T11:18:07.601Z"
-    },
-    {
-      "key": "66ba8bc59f263c71",
-      "score": 6,
-      "title": "Union Pacific-Norfolk Southern merger could benefit Tennessee | Opinion - The Tennessean",
-      "domain": "tennessean.com",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUWdzYnJBZXZyMWNUNTNUczd1TWpJS05uOGg5M0czNno0WFlYVm5ZRlVRUW14Mzl6aFpWQzMtRWd3WGkyYVJuNUZOLXA2eHlTeG04QVdyNG5QYjlEVm9yREhXXzRHMm92WjFnaTNtd1RWMTZabkJLR1hQMHJmUmJBRWpXalIxZ3FsWVAzUDFMcUFxXzRMS2dVQ0l3MjdSZ3ZUU1M5WkFHdlJmY1Vrb2l3V0xBZEZseVVYTTVBTlVQX1R5bVE?oc=5",
-      "tickers": [],
-      "at": "2026-11-14T11:18:07.601Z"
-    },
-    {
-      "key": "1bc6a3c3080d818c",
-      "score": 6,
-      "title": "JD.com Completes Takeover of MediaMarkt Owner Ceconomy; EU Terms Open Logistics to Rivals - Tech Times",
-      "domain": "techtimes.com",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNeTdTNzRSNzNGMVhjUmpTa3Z2NEVVb3ljSVdaVjZoZzhDdDdwTnBfMVFybU00UWMyOFhWV2stOWhCRmtJNVNaQmFOSHhUaXk4Z01lMEJUT2FlLVM2S3RRc1BZUVZnM3ViLWJId09fazMzbmN0a1JudGF4SE1SR2tNVFJ1cFNmYXI3Y0NYT09rNV9YVHQ4R0xVcnMzdW9VQ0t1RXBhQkhtWGZNdEVVNFowVE5seUk5cE0xalV4VDcxT2FpLTJXMDZpcFN5MFVva1JUU0E?oc=5",
-      "tickers": [],
-      "at": "2026-11-14T11:18:07.601Z"
-    },
-    {
-      "key": "39354d8765d1e3dd",
-      "score": 6,
-      "title": "Fake Toyota airbag recall notices circulating on WhatsApp, Hongkongers warned - South China Morning Post",
-      "domain": "scmp.com",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPc1Raa2ExV0dSRmlieEI4X1ctRXowYkpRajctOG1jaXM0VmtsRWR0Mm4xZjJfTjByU0FMMEJIQnZlbV9mTXNkTUxycmNHLVlZYmkwQ3ZCeVZ6T2E1WTRHMkl4S2puQl92eFF4akRBZFhObTl3OTRjc2dsWldPZkdlQURuTHhpeGRvSmNVS2hKSjQ2UGM2alJaYTdTUlN4alVIZ290SGluV01jM1VnMDllb2pBenlXUV9FT29PbVAzOEc4V25NT21tQVZmc1JEdXcxblZLcnpn0gHWAUFVX3lxTFBwa0JFLU03SzkwbGRCWEhkclZkNFNURkNRV2c5cGVXTnZrNmR5NTdPMEZpbGZFZDJBX3hIMzlETjE0dXMyX2EwVGQ4czd2ekU2VUJhejRsbDNPdTBiODFhbVFpeGRyM21yVTdwRmM0ZnV2MlBndXBnNFFrQjVCOXlnR2NPN3hjWG1OOWFMa2Rqa21vbElzX2FRejQxeU8xT0FxT0MwZTBpdzZrX1ZtN3gxUGpEdTRNY2JnNGExbUNNbEVDQ0ZfQmFaV3J3ODhEVmNmTHB6OGc?oc=5",
-      "tickers": [],
-      "at": "2026-11-14T11:18:07.601Z"
-    },
-    {
-      "key": "378356a5a93a8efa",
-      "score": 6,
-      "title": "More than 42,000 Honda and Acura vehicles recalled in Canada due to steering issue - BNN Bloomberg",
-      "domain": "bnnbloomberg.ca",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWVkzM09RSVM0QV9BVEd0SGRyMjBrb3d3a0ZETGwyWWhEZS0weHRBRDJfc0VxODVYSUhFSkg4bm81SU5pRFVRY1pnYlRxQV9NYnI5dkdYQi1xVDc1cUZmd0IyQVA5emg4Ums1NTF6a2ticFVSZGZlbjhlTUs0Q2l3eEVfaHgtT0FCallURHFPTDUydllhVkVnVkxIbVVwTmN3Yk9oMDJuWWUxajJ1bldUelduV1FvWUowVk9ObVdaZFpYbGdEaXpJbWdOdFBVWGd5bDA1S0ptYzJ3OVE?oc=5",
-      "tickers": [],
-      "at": "2026-11-14T11:18:07.601Z"
-    },
-    {
-      "key": "9884ea75656e0a81",
-      "score": 5,
-      "title": "Weekend Air Travel Woes Mount After FAA Lifts Nationwide Groundstop - WSJ",
-      "domain": "wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTWttclRZeVZvN2JCTHVnXy1Hdko4UFhvRHY1TzNPcGo5cFkyMXFhZTRreUtwaW9fUUxCaGY0VDNhempMRzd1RHNaSUNITFY1VnpLSk5CWFhOR0JVeURzRG9uYnUzME9qM1g4LUNBcjdjeDcxR2JLa2FOeE1uRFBqWGd5RQ?oc=5",
-      "tickers": [],
-      "at": "2026-11-14T11:18:07.601Z"
-    },
-    {
-      "key": "e66339571b31d109",
-      "score": 5,
-      "title": "In Jensen Huang’s Ouster, Tech Billionaires See a Mistake—and a Lesson - WSJ",
-      "domain": "wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQkFZaWU0ZEdlakM1WnlreGY5X19qOTNjVjFlWTJXZWFwZkl6QlNYdUlYZ1JCNkNtQ0U3T04zaDNPYnNyd0NqZUtTYlJlRkhwaUwwYl82aWpUaEZ3Y2FCcGh6UHdXaW5FUmZEZU93NE81U0UyYVhia1JXdnVZUG1kYW1UbGZWTlJsQVh6bGZFMkZtY0I3SEdCNHFlVUlsYU1rRUNF?oc=5",
-      "tickers": [],
-      "at": "2026-11-14T11:18:07.601Z"
-    },
-    {
-      "key": "dc4f1f2f27534237",
-      "score": 5,
-      "title": "Nvidia CEO out — 10 stocks to buy before S&P 500 hits 8,000 - Yahoo Finance",
-      "domain": "finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE15bWdmQzg3S1pXa3U0SWNrQWZid3FrWmZSdEdKQkUxTXRaLVJLU01nRGlUaWNSTWpHQTJpdmhKV0xJY0c5SGxGWVlsX3Z4T2xZamRpajIzQWxaUFVReTFhR3gwdjNYX2drVGpOZFcyWVBucnRxTklyM3FFZw?oc=5",
-      "tickers": [],
-      "at": "2026-11-14T11:18:07.601Z"
-    },
-    {
-      "key": "c8cf33fd72fbbb16",
-      "score": 5,
-      "title": "Denmark Pledges €665M in Defense and Energy Aid After Zelensky European Tour - Kyiv Post",
-      "domain": "kyivpost.com",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBuYldLd0I3bElzWEt2M3R6NFdMbW9KR0x6QXVxVGRRSXEwaVZQcTJnczNqa21MTXFuY29PWDFLZE1RajJ2LUtQMXgxbw?oc=5",
-      "tickers": [],
-      "at": "2026-11-14T11:18:07.601Z"
-    },
-    {
-      "key": "1d60b2cd68ba5b8d",
-      "score": 5,
-      "title": "Taiwan Semiconductor Manufacturing Company Dividend Increase - TalkMarkets - Howl.Link",
-      "domain": "t.co",
-      "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9nOFNSQjdJdkV1b3dRcEQ2eGNzNnp2R09ILU8wOHdZalRLUERteFJJOVZzQkZwM01uc2lN?oc=5",
-      "tickers": [
-        "TSM"
-      ],
-      "at": "2026-11-14T11:18:07.601Z"
-    },
     {
       "key": "06fc911722420c56",
       "score": 5,
@@ -12722,6 +12620,96 @@
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOblpXRnJzOFY4MTUtMmhjSWJqM1FncVk5blpnc3IxUWFPbUNmNGVqdW9aWkRzZE9Wa2tyazh4bXdwcTNSc2ZvSXpMazU1VWJRRVZRaDlWUWFUTmJsWE1nUWVyeDl1ajdweG9lVFlPQ3drbmYzQnQ1WjBmQTllclVrRkV3dEtKdkdWelQxRFp2cmtMOC1uMV9CWE41U3pHMEZad3ZLek9NMzlNNk41Z0RiMQ?oc=5",
       "tickers": [],
       "at": "2026-11-14T20:08:01.476Z"
+    },
+    {
+      "key": "b09e04259f732e8d",
+      "score": 7,
+      "title": "Fed Rate Hike Odds Reach Near-Certainty as Bitcoin Price Falls to $65K - Cryptonews.net",
+      "domain": "cryptonews.net",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1KZTdKdlpXVEdnekJuZEE1WDUzLXdtVTBBRHB1bkZfaGlVYl9GNWxmX1RpemZpd213TjlveTNBaHJsbG55NHVVVWM4bDVZMFpFeVZkWnhqeVY?oc=5",
+      "tickers": [],
+      "at": "2026-11-14T20:43:57.468Z"
+    },
+    {
+      "key": "ff51ac62ed57c135",
+      "score": 6,
+      "title": "What Haemonetics Stock's Raised Guidance Means For Shareholders - Simply Wall St",
+      "domain": "simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWkU2aUZvU0FycVFrNGV6ZEdjclQ2cER3ZnlDMGxibXZOMVVZQXZ0TTh5eUxJa3JZWHVFLXNidjk5cUpjMG1uOGJhRU9pS3dKZUxzZVJseDhnZUJMUm1MXzFKNGZHWEZ3bm9ZZXcxTjBKRVJIbG4yYzRuaW5pMmpmTnVNZmFnRUZLUFZUQi1faEtQangwbURqNG9Qa0tPM3NJN3ItbTAxMDI5WldRYXl3aEpTakY2ZEswRXJRQy16aEZWRVZCbTZTNdIBzgFBVV95cUxPWGF2ZHlQWmRkT2lPaWZra1lwUC1ONFhNZE9qZVJ3MUo2b25LSmxYQkpzU1hFNXJzYXNrcVlTejFvSDNPbno0ZTlvZFFqSEsxX2hYZ19rU08tWHh2UURDaF9oUjVoUzJxSjBOMlNDaTBJWDhXbUQtSmVIMjZuOUpmTGt2N2ZxV2hERjZsV2NlZTVYV0VMRW1FM1RfdlNqQjNXbUhKUV8zdlRyU1FhQlNWTUE2SWZYX2NYMXZ0M1Bnb3JUMFhadHd0SDhwZG8xQQ?oc=5",
+      "tickers": [],
+      "at": "2026-11-14T20:43:57.468Z"
+    },
+    {
+      "key": "ba7929295b6fde52",
+      "score": 5,
+      "title": "Nvidia's leadership crisis rattles the AI trade. Here's how we're adjusting our portfolio - CNBC",
+      "domain": "cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUlZuRGNwODhyT3Npb1V3dDVFSnQ3OFZ2eDY1VUk0WDdLUWktdVNrSnQwQzhhZDJWcFdCeWtwd0plOG41bEdYSk9PZmFrQ1JlUjJqb3RKWXVzOWZCOHRrU3BoWlluOU5kczhwVldlZElqa0pyUHJ5M2tNYWZFVkF3T3hvTWc1YXdCTzdOVFdOTnRGREFJSHlvbFVsanFQWlNLczZUak1ZWlNoT0EyT1R2NGNhaUtJZw?oc=5",
+      "tickers": [],
+      "at": "2026-11-14T20:43:57.468Z"
+    },
+    {
+      "key": "d5d745aab110b300",
+      "score": 5,
+      "title": "Outage That Swamped Air Travel Blamed on ‘Routine’ Work to Replace Copper Wire - WSJ",
+      "domain": "wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPX1BwaGNac0VESjJsbHppTjVuN2syUTNyNWZrZlhsUDU2S2N6TFlTZWpQbXlqQVFFdFNibVdraDRsb19TRTNVbzdfbXlpSldua3pmS3NDZEp6R3dSRTk4ZGhLNDA4QzJQTUtpY0tVTXVIR3p4Wl9rVlg4ZUJpN2dnQmhRTmVmTkF6SWg3THBoOGVKMy04Z3F0Tkd2YmF6STZ6ZENXNlJuNS1HZVRtTlE?oc=5",
+      "tickers": [],
+      "at": "2026-11-14T20:43:57.468Z"
+    },
+    {
+      "key": "f21fa62a516e6060",
+      "score": 5,
+      "title": "Gildan (TSX:GIL) Stock May Be Below Fair Value As Guidance Was Cut - Simply Wall St",
+      "domain": "simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPS3lEbEN4MXZXMmRPZk5BN2lNQmV0WmhwMS16VVB5ak55NzJLUVZfVDVaV0o1VzhYMTA1SWJRUklwTmQzOGpDdXQ3enRPLUh2OW5iMWdydTJyQzFRYy1nWG9DT2w4cGFmRGhnNWl2a29qZ1lnVkZybUM0RWJjM3B2bXlndkNoU0FuNmZ6YU5Sd01sWHFBYldtc29wLTlFbzdwYWZOdnJUYWVoMmJ0RUVpV2hBYm9ibmpTVTMyZXBVN3paOUJhVHI3N0FuWWlOSGw3RmYtYVktV1FjR1I1VmZZdg?oc=5",
+      "tickers": [],
+      "at": "2026-11-14T20:43:57.468Z"
+    },
+    {
+      "key": "b81eb91c73cda214",
+      "score": 5,
+      "title": "Timeline: How Benton County weighed paratransit takeover - Corvallis Gazette-Times",
+      "domain": "gazettetimes.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOa1JhcEpyS3M4TV9oc09ub2s4YmdyZDNqZkxaOU1vTWJpMXFzVmRyVGFaVHFXVzJsYUdFU2pnR0JaRXRCbm9LZHBzTWRyZ21LV3hhekNJZWFfX1pPTnNKVkJJcFNjTXlkWHFseVUwQmRLLXBLWmxkcTV3SlVFNS16RndlVTRoRXBYbDFMN3Z3?oc=5",
+      "tickers": [],
+      "at": "2026-11-14T20:43:57.468Z"
+    },
+    {
+      "key": "664c04caed8980f6",
+      "score": 5,
+      "title": "TruGreen: Acquisition By Birch Hill Equity Partners Ends 19-Year Partnership With Clayton, Dubilier & Rice - Pulse 2.0",
+      "domain": "pulse2.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeTZBYnNpdUVINzgwclo4RlpxWkpsU0RHc0NGcjJudTZFajBELWQ3YV9nOHNwSW5lVTU1U19uTGZ5UDVuYXJxaEY4bGc4d2JGYzJweVN2Qld5Uld5czRwTlNmd2xNcXA0Y3h1c0ROaGY5VG1pT1ZmNzlIbXhjZVc2OGlsbDNWX0FuZnFMaGlHOUM4RE1wbGJUcWlNWXZScXl2NEFfb1JTUVpsSlpRNlRvczB6UF9CWm1SMXBodzlXSQ?oc=5",
+      "tickers": [],
+      "at": "2026-11-14T20:43:57.468Z"
+    },
+    {
+      "key": "61cb2e50c413714c",
+      "score": 5,
+      "title": "Amyris: Acquisition Of Oobli To Expand Sweet Protein Technology And Precision Fermentation Capabilities - Pulse 2.0",
+      "domain": "pulse2.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMjVNTzdSSzNYQmRzdVZndDI1dldWNVFXQ3VqeEY1WHUteFVoRnJYTnprS2xyQUNfeGdPcFRlV2ZLQ0RDaGdYcXY3Ry1ZNGNQcE1sRkZZZjJoTThFU3Z1MmROR3Y1VXVFRnE4ZWFJYUk2UWd1SmhKYUIyX2Z6X3lTWHRERXZSeXJ4ZE1Fd2RMY0t0QlJ0Zk1qYlRkVXBpWFFIcjk5RXhvZVhxX2d3TWl5MW5IQVRsVW5lSlNjYkYtNA?oc=5",
+      "tickers": [],
+      "at": "2026-11-14T20:43:57.468Z"
+    },
+    {
+      "key": "a459458148cb82ed",
+      "score": 5,
+      "title": "Argenx: Up To $1.15 Billion Acquisition Of Unnatural Products To Expand Peptide Drug Discovery Platform - Pulse 2.0",
+      "domain": "pulse2.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZlZ6SU5YZWc3YjhJT0NRVmdkUUFFOUtiLW5EUl9oZjhRWEhTT1BmbnBlV1EydkwyampBTm1sbXV0QmRnZEx6bnJkQy1SY3pjZTE4WEw0dFc2cUUxR1B3R21UWkNnaFZMSWlzTXQ1OTdsOGRIRkhweEZpYTZ0dFJ0YWZOSU8zV01CaXhaYVhqSjkwRFFZUHQyRzAwTGw5YUxyc2tlLW9RVEdjeWVxa0o1b045Nk10R0NuTklsV2J3?oc=5",
+      "tickers": [],
+      "at": "2026-11-14T20:43:57.468Z"
+    },
+    {
+      "key": "3bb266f4232a7f6e",
+      "score": 5,
+      "title": "Fluence Energy (FLNC) Shares Tumble Again - This Time on Top Executives' Departures; Securities Class Action Pending - PR Newswire",
+      "domain": "prnewswire.com",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQUzlNeERSR2c5Mk5DTDczdFpVY3plWHZPVmNKYTFCNlVXeDlCUmp4T2hqU2p6ckFmX0hvakVaMW0wNHFUT1lhX2RfZ1JMTjNuMkU4UFF5R214NEtjb0xnMFp1aFY4cm9feHFXZ2tXRzhia1dnTGRqcUR1Yk1xc2lBV3k4RDRDSkY3eUdSclM5NzVVS2NkNFl6N1NuVWxfRE85MGtuckhZZkctR2gwT2k5c2cyS0s2Z0lMZkN6SERaZ2xzcXhsaFZOWTJfODJHbVNTZzg4Znc0ZHg2V2VfUmY2czNSWUpzZ3NTSG4xTXZjQVFnUXp6Zi1ZX3l5WQ?oc=5",
+      "tickers": [],
+      "at": "2026-11-14T20:43:57.468Z"
     }
   ],
   "lastQuotes": [
@@ -13257,5 +13245,5 @@
       "ts": 1794603601
     }
   ],
-  "lastRun": "2026-11-14T20:08:01.476Z"
+  "lastRun": "2026-11-14T20:43:57.468Z"
 }
