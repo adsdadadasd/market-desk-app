@@ -1,33 +1,6 @@
 {
   "version": 1,
   "seen": {
-    "a0e2a71832f46c5e": "2026-11-07T16:21:02.508Z",
-    "1c3fa6f86d14e35b": "2026-11-07T16:31:02.544Z",
-    "511fca0584bbf4c5": "2026-11-07T16:31:02.545Z",
-    "c0fc9f5e301d9372": "2026-11-07T16:31:02.545Z",
-    "e53363a5fc3634b5": "2026-11-07T16:31:02.546Z",
-    "5b5a55a6dc2d78ef": "2026-11-07T16:31:02.546Z",
-    "172396a74354ab36": "2026-11-07T16:33:03.601Z",
-    "625481d8cabd9c79": "2026-11-07T16:33:03.601Z",
-    "1e94e3d46b4b6e7b": "2026-11-07T16:33:03.602Z",
-    "b5e21e138d673cbc": "2026-11-07T16:36:02.501Z",
-    "fa627b3a58099a32": "2026-11-07T16:36:02.501Z",
-    "3690e028a701c257": "2026-11-07T16:36:02.501Z",
-    "e0677a08f50b6641": "2026-11-07T16:36:02.502Z",
-    "73d03720fee64166": "2026-11-07T16:36:02.502Z",
-    "4a89ffdd9d761c77": "2026-11-07T16:36:02.502Z",
-    "73889390cfc55fd2": "2026-11-07T16:36:02.502Z",
-    "119ec2a79da26335": "2026-11-07T16:38:03.659Z",
-    "87308ed4f336f163": "2026-11-07T16:38:03.659Z",
-    "08770188027ccfe4": "2026-11-07T16:38:03.660Z",
-    "dd56c7c37eb82091": "2026-11-07T16:41:02.469Z",
-    "a4b06e620d983fae": "2026-11-07T16:41:02.469Z",
-    "fe1553c6762efac1": "2026-11-07T16:46:02.610Z",
-    "5435594bf124c0c1": "2026-11-07T16:46:02.610Z",
-    "090387d3a6d7c4a9": "2026-11-07T16:46:02.610Z",
-    "6e0349fcdcd12581": "2026-11-07T16:48:03.736Z",
-    "c019bd035c07550d": "2026-11-07T16:51:02.549Z",
-    "e491922c7a8c87d9": "2026-11-07T16:51:02.549Z",
     "dfd8c75424553780": "2026-11-07T17:01:04.258Z",
     "c4a7bf66524646b5": "2026-11-07T17:01:04.258Z",
     "72f19b09e88bd6a5": "2026-11-07T17:01:04.259Z",
@@ -10751,7 +10724,25 @@
     "4b5b0c1e8a4edeca": "2026-11-14T16:16:59.424Z",
     "937bed2bf15bcbb7": "2026-11-14T16:16:59.424Z",
     "750d05f7c428cb80": "2026-11-14T16:16:59.424Z",
-    "2f738aaf5f953df7": "2026-11-14T16:16:59.424Z"
+    "2f738aaf5f953df7": "2026-11-14T16:16:59.424Z",
+    "77ef67de0d033309": "2026-11-14T16:57:51.577Z",
+    "359801753d38569b": "2026-11-14T16:57:51.577Z",
+    "750a43efdd13a6c4": "2026-11-14T16:57:51.577Z",
+    "02f29466c61eba55": "2026-11-14T16:57:51.577Z",
+    "85089df4f71178af": "2026-11-14T16:57:51.577Z",
+    "48d441ab25417a62": "2026-11-14T16:57:51.577Z",
+    "ca57584460b1d5cf": "2026-11-14T16:57:51.577Z",
+    "6167a50a180c234a": "2026-11-14T16:57:51.577Z",
+    "932695b10c10549f": "2026-11-14T16:57:51.577Z",
+    "c455e5bc41187733": "2026-11-14T16:57:51.577Z",
+    "63bb7e06ed063230": "2026-11-14T16:57:51.577Z",
+    "4ee7e4fbfbc932c7": "2026-11-14T16:57:51.577Z",
+    "c4fd163c193ac88a": "2026-11-14T16:57:51.577Z",
+    "c70ed617245c81a3": "2026-11-14T16:57:51.577Z",
+    "7023368860725210": "2026-11-14T16:57:51.578Z",
+    "dfd4355e8274a47c": "2026-11-14T16:57:51.578Z",
+    "6c799b7f754632a9": "2026-11-14T16:57:51.578Z",
+    "4fda699169a8a21b": "2026-11-14T16:57:51.578Z"
   },
   "alertsByDay": {
     "2026-11-09": 22,
@@ -10916,87 +10907,6 @@
     }
   },
   "pending": [
-    {
-      "key": "2a9077cea3b5a52f",
-      "score": 6,
-      "title": "CBL & Associates Properties (CBL) Lifts Guidance And Adds Buyback, Is The Stock Overvalued? - Simply Wall St",
-      "domain": "simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZ0xnV0RrMi1KSFBSQ1J2MGt1Z3c4MUVvd1doWkJVR3p6SC16QTBjUWNoNlNnbGZoNG9PM2Zlc09QMXZBODVjZElJZVBmZk9aekVoQmdSNXNpVU9KWDNpc3hiNUV1R0JKZnR6Zk52c1gwYjNmdHM1VmhNVFktWmJ6Ym03OUZuM1dPUzVzZWpWRFFxdkxXdkpNaXpzdWhCOGlwZkk5cXVOZ2U4Xy1HZkZjTmZNbWtKbHNobXhSVmpaaU81WlNXVlJLNVM5TVB0LW9nZ090TTY5OXRYcko20gHiAUFVX3lxTE1KN0hnYWZkUC1ZdElvT2VMcDNVaHVfMFF6SGg0YlplaUJtRXlJYlgxWXFUcEI4N0lMVndnYW5nc0RFY0UwLVlWeFRxUmVWYzVqdDdiZFBzZ1FYOW5ndGYzREZaeW5zSG50dmppWnJuSUQ1ZDNaNjE0TExlYmFRazBRM1M5REgtREZjMjFhcUJnQmxYeDkwM3EtWnFPNENJM09FN3FGSkFHYmxrU1lEU0Z5T2lQRHJZQ3ZfZVltSWwzRDQzMWduSVdlMHJYSkV1UW13clNLMW55UnhkeEcyaVMwbUE?oc=5",
-      "tickers": [],
-      "at": "2026-11-14T07:36:50.244Z"
-    },
-    {
-      "key": "560bc7d1c73b225d",
-      "score": 6,
-      "title": "US Soccer Mum on Using Pochettino Buyout for Next Coach | RG - RG.org",
-      "domain": "rg.org",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQN29IOEZKYklXNkthS1VwNC1vN2RxallncjlULWoyNjh2eG9MQ29aZzVIRzhrLVlYTUJTcWdTM2RSakNXcEY2T0d6T0xXVUZIWTdCeGlZdWtVeTV4cG5tZW8wcnZ4NWVZNktGYmRtLURXZ3M3TFRHbjB2N19CMVE3TFRNbFJQUk0tRm5rUlVn?oc=5",
-      "tickers": [],
-      "at": "2026-11-14T07:36:50.244Z"
-    },
-    {
-      "key": "865768894fe9adcf",
-      "score": 6,
-      "title": "Microcap Soars 50% on AI Security Merger - The Globe and Mail",
-      "domain": "theglobeandmail.com",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTzJjVmZNeTY2X25WNk0wTUd0bWZwVGsxZFZMR19CTndINkhERHpPUVZjTElBUXA1NHJvMlVqd0FkYWtFZFJ4bVEyTnNWZlczQnk2b2pxc1g0ZVhDWUxDOS1ILVpVSDNVZVUxM1NMbktVUU1RcXBoS2c1cGwwZEtmaW1VZ2Y2bTBVUU9FTFBSckQxNloyQ2FuTXBabHpxTE9Td0txUmZEaW9aN1EtWE45bF9tTURzSGNtYlBtMENMQ2QtaUE?oc=5",
-      "tickers": [],
-      "at": "2026-11-14T07:36:50.244Z"
-    },
-    {
-      "key": "57916370fb9dc407",
-      "score": 6,
-      "title": "3 cancer-linked chemicals lose FDA approval for use in US food coloring and produce inks - The Cool Down",
-      "domain": "thecooldown.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOFhjWlJYcl9iV0pSY0sybVUwZUM2Q0IwUUE1aFZVLWh4ZU02MEFzd0JUOUpaMmdiUU1ycjd5bUswR0xqa1FfdGtwVHluMzEyak5PUFlZNU5vYXh0MEREWDBmYjh2Q2hYYlN1QzRPcFo4dnBHTTlUejhOajFvVnhWWUlhblFZazhLSlN5aGJEeTNKZXJSbndj?oc=5",
-      "tickers": [],
-      "at": "2026-11-14T07:36:50.244Z"
-    },
-    {
-      "key": "6ea66f457a033b60",
-      "score": 6,
-      "title": "FDA Standardizes Bioequivalence Administration Protocols for Generic Chewable Tablets - Bioengineer.org",
-      "domain": "bioengineer.org",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYmV6Qzc5dFpKUW04NE5Zcl95U3AwQ1RuUmRyYl84OGkwQlIyQzExX1FINURjWE1makJOZ29RSC04S1dfSnJyQjctZ3FhMFRPTjUwMWQ4MGxWS2tJbFZRaUZjblJwdXYwdEVYWkFYSDQ5T1hFY2NERjdmWVU0VnFBelMwNHpZS0JkcEZsdWtwRDh6VjlUbGFIdzBhOWhfTkFLSW5ybkV1b2pRakIwWW9R?oc=5",
-      "tickers": [],
-      "at": "2026-11-14T07:36:50.244Z"
-    },
-    {
-      "key": "ff44a68374a02d7f",
-      "score": 5,
-      "title": "Fed Vice Chair Jefferson: Inflation Guides Policy, AI May Raise Productivity - News and Statistics - IndexBox",
-      "domain": "indexbox.io",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUG8wdm90eklITjd3RmpYN3I5TVFQUERnOEpGaGhwOUYwbGw3UXF0ZWVUcUJJNmlVTHJYQW5sTnE4WmpVRXNHblowcnhUYUFPbDhvcDBvdXRFR2dMQ2pHTUFtS3dWdXRhUHlpaDF2anYyaVRHX2MwVUoyZDR4NWNGMVhQYTZ1TnNKUzZxTzRUSXhTZUNKOWtUMmg2TzY?oc=5",
-      "tickers": [],
-      "at": "2026-11-14T07:36:50.244Z"
-    },
-    {
-      "key": "8d070f85650fc838",
-      "score": 5,
-      "title": "Oil Prices Up - 13/11/26 - Armenpress",
-      "domain": "armenpress.am",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBlUmQ4Q2F5Sk45cHBKdlk1dUE2Y0Fwbi1CNjdsZC1MazB3R2Z2VmdLd1NZbG45b3Z1eE9JdTRxUlplYzdzSkRjYXV6S2hvY243NnfSAVdBVV95cUxPTmJjVU9VeW8xRnREYndWLVZrbzE0ZXNYdGxvUWFCa3RBcFZYSFkwMzlucjYyWWw5UXZaVnl1eWxFdDFlVDVBaUtpTFJYSXhkQ2NnbjlZa1k?oc=5",
-      "tickers": [],
-      "at": "2026-11-14T07:36:50.244Z"
-    },
-    {
-      "key": "245c2a1b815662d2",
-      "score": 5,
-      "title": "[PayPay Q2 2026 Earnings Call] PayPay Raises Guidance Again as Adjusted EBITDA Jumps 55% to ¥42.1 Billion, Margin Hits 36% - BigGo Finance",
-      "domain": "finance.biggo.com",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9rU0lMM2J3MmF6NkpkZzB3T1Y2OUpJYmNBa0ZacVpKQjRnT19aQ3hqUnhSTFAtRzdiLWdyaDdKSklxb2ZibDRkSzFfUHhMS3ZDUlNScy13NERPdGdzd0E?oc=5",
-      "tickers": [],
-      "at": "2026-11-14T07:36:50.244Z"
-    },
-    {
-      "key": "0caf9105ccdec473",
-      "score": 8,
-      "title": "Dow Jones Forecast: Trump’s Mexico Tariff Remarks Test the Rally - FXEmpire",
-      "domain": "fxempire.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTjZtQi1oVzBmVW1RUXFVMDVSWGtRWDI5di1CRWtmVUFMdXE2Yk52N3ZZQVFEUllXQTlic2IycExISWozVzZXZVFQbnVPd2NKNjBlWXhRTlhUR1M3LUR3X2l0eENiQW5Ca29uWDI5OFA1OS1UVVJHN1IyZk9xVkJvZk54eW5MQnVUM3J0NjZyNy1YdktwTFZRV3Zqems0OFQ1TWFqR1ZzRnBnSTgzN2ptVkJSaw?oc=5",
-      "tickers": [],
-      "at": "2026-11-14T08:25:43.203Z"
-    },
     {
       "key": "0b6cc4c1f66a3c48",
       "score": 7,
@@ -12756,6 +12666,89 @@
       "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxPYW54aUZNVlNrMkRPWGppQ2h1LUNPWHFQZHVhSXI4Qkl6dVYxY3JKX1pGeC16eDBfNXVaZEs0bllzdWR1VXR2clhyUjdtOUdoanNlY2QxU0w0aEk2WllkWEhUclJJdDI3T2VmMkNuWjFjS2JNWmR3eEZsbS1GX2FZZUg4b0J2Q2FROW96SWpTaEEyMzN2cEZZT1JYSlB2VDRwZXFfZTFMbHVLcENkTDE5VllMSm1WZl9WLWhWd2JCN2Noa19NN0p1RU0wS1RRYXI4VEFCUlF2b1VZbGp2ZTBJU004NFhLNkhQbHBjN3YzMlpJcnpqZzBJWEp5NGN1a3NGZlM0VWpCRzd6dWxFU1g1dWlsNFNwVi1SY2FfUWxpTWpaRnpMZlIwSE9hNVJqaC1BcHZYajhzR2ZmXzZ3Q3IxbGJHTXNrNW1tN3hWM3dvelUwLVlyd1RDQXFEcnJ1N05SMzBxSG83QQ?oc=5",
       "tickers": [],
       "at": "2026-11-14T16:16:59.425Z"
+    },
+    {
+      "key": "48d441ab25417a62",
+      "score": 8,
+      "title": "A bitter pill: Indian pharma industry, Trump’s tariff and a Congress that campaigned on cheaper care - The Times of India",
+      "domain": "timesofindia.indiatimes.com",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPSk4wMDRyX1NQUV9ELVFFOHV3VDdBMWh0Mlo4WE4ycWxyVU5JTVpFSktkWDM3WGRkNEJTazQ1bFg0MG9DRUVBc25MWU8tdXZEcUlBeG02LTVDamdIcnlSUjhwbkZRODl5LTVacEpNT2VWcENiVUpial83VVVKRlNxZmtUcERiXzlKTWxrYWh4T01mODhoRnpIelpvOFJDYjliakdVQnlFbVdZR21na1pfODhaLTNiVllRM2htdlFpb3hEcUZkR1NGV1hBSVhQVVRMU1pwdDd6anJWYUE3NXhScDNOUlB2emtBRmczR2xpdGtfZ1RpUFFoZUxvMkVmM3JkOVduYndCaXpoX1FYMGE5Y9IBlgJBVV95cUxQV1czcHk3YWwySUpKckJQSkh0R2I1XzdlbnVERGNXZE5zNEF6OGQzOXZvYXlDNjNJSXdYRkNJUWtCbTE2cXJ4QWdDeFFIQjd1OU4wQXBRYmRrV0hKNFJDd2dMa3pDSm5iSGVjWjFsbUhYN3JqVFNDRjlyMzlRT1VUR3J0c0JrQ1BDY3Y5d3FDcWtZRnpuNGlra2h1eGQ5Qkl1YllFMDd4Qjg1TFk2LUNlUTk3NURvLWwtckQ2aklNT0F6Y1ozMFRPNnNUdXNGMDVpeUY3ajVWU2hXTkZCUHEwR0VMUU5WOElaS0ZjcEVyQUc1ME1XQW8xMVFqLXZYNGdocUNKWkdjamlGQ1JSSExhWjhUdWhUUQ?oc=5",
+      "tickers": [],
+      "at": "2026-11-14T16:57:51.578Z"
+    },
+    {
+      "key": "c4fd163c193ac88a",
+      "score": 8,
+      "title": "School Board opposes Dominion/NextEra merger - Annandale Today",
+      "domain": "annandaletoday.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdVdQeVVoQ0FSV3R6eGMzeEpxQ01McjVObGMtb2J6ZmE2VElXSXRyY0tnLXptcHoxYmJEcXBFa0hXdHNYYU16V3ZLVWx0NF9sNlNyX0NKbWJ6NWVxdkV2UGxHUW4yN1U3YnVKMTZWem9leHJFc01pRTNtRnFjUzN4cDF4d2FrN1ZJRGhaNw?oc=5",
+      "tickers": [
+        "NEE"
+      ],
+      "at": "2026-11-14T16:57:51.578Z"
+    },
+    {
+      "key": "63bb7e06ed063230",
+      "score": 7,
+      "title": "Cellebrite DI (CLBT) Slides On Guidance Reset As Undervalued Narrative Faces A Test - Yahoo Finance",
+      "domain": "finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONHdQWDd0NWd6TDJDQTNNam11dnZSd2pVcUdhWHVfd1RGLXA3V1NqZTJ0U3p6MUEyLTUwQUJrWlZ0SnpXdG1KUGZjNllkaDhJMXc4T3B3bm1vczJ6bWs4amZvNUF6SDYzcTFtcGc0bXNoUkhuWnhrRXFCMWwzZDd5eEJ6RlA0dks2WlhBMi1SN3hZdmc3QjNZdVFyOGtXQkZ4?oc=5",
+      "tickers": [],
+      "at": "2026-11-14T16:57:51.578Z"
+    },
+    {
+      "key": "4ee7e4fbfbc932c7",
+      "score": 6,
+      "title": "Wise Group (WSE) Lifts Guidance After Strong Half Year Results But Is The Value Still There - Simply Wall St",
+      "domain": "simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPY0UyTXAzZl9kUHdaQm5jNFhuUTdSaUhCM2dPY21KanQtWUcwTjdFbUZGMl9qSFhRVktMci04NUJiWmhESDFVb0dpaUdfdVF2ZVQ4bk02RTNxVmdzNUNKSDBEczhabTNwOW9zbG1DS3ozSXdsQnRBXzdaaTQtejlId3pBTXF6cExvcWdjcEdiaXdTWnZiU0VCSTd2ejZ6dnBKcjFYbTBDRUNnTmtKdW1IX2Z4RXhZQVp5OUJ5TE1kVDN3R01BREtxakJVLUpkalY2NURlWGRVZEVQd9IB3wFBVV95cUxOODhRMEN1QXk4NnN6MDFMVXliN1lIcWlIVHFndEpsTGdnT25idlRqS3ptMC16aWZLWFJBdUZBdDdQQXo3TDBkeTN0RUZ5RmlqRDY2aUt1cllVZVBKbGlxeEJCNXJjV2JWRlFOQmlNM041cFpNME55SHh0b1gxUENZdHQ1VjFHdFdCR2thdWZ2al84ZHBRd2U4VUpOaUsxTDZ1Rl8tX3FaSnIyeXRLTUhka0ZxRUR5dzFscEJSRE1CM0dxRUp2NmNNTTdkSG96cngtekcwUWgwcmw1RlhRVTk0?oc=5",
+      "tickers": [],
+      "at": "2026-11-14T16:57:51.578Z"
+    },
+    {
+      "key": "c70ed617245c81a3",
+      "score": 6,
+      "title": "Texas’ Next Attorney General Vows “Tremendous Scrutiny” of a Tesla–SpaceX Merger - 24/7 Wall St.",
+      "domain": "247wallst.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNOHBOT01nZ09MRWEzemdsOURrU2JFNExSck13X0h6eXg0eHVYeFFramZEYTVXMDlCSko0cEJpV3plWkJYRUppa0tVWndzYTVHb1BwZFB4Rk9tc0VzcEpSS0lqdExRS3lsb3hjbkd2aExOeG9jR0FJVDg4dUhERWxqeklNbmQzUnBLZktGTmpQZTRsZHZ0QnduWVZCR21aYW1aS3lYR2pGZ3A2LXF2VXFDSE5tSWhkQXFmYjFmWGtB?oc=5",
+      "tickers": [],
+      "at": "2026-11-14T16:57:51.578Z"
+    },
+    {
+      "key": "dfd4355e8274a47c",
+      "score": 6,
+      "title": "NCP merger talks ended with death of Ajit Pawar, says Supriya Sule - The Hindu",
+      "domain": "thehindu.com",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQLWlJbUFoeGRIOHFQcEE5dGVKLXUxbU1qekF3RU9xNHpabnFBaVVqX1ZRX3NmNVpUY1NUTWd5bHpHeHhPTFVnMC1GVWJsQW1LZzdLNjlqRExVZDBKUXJNQUdlS2MxUVJIWVV4X1RUUVF0NUpoZVRVQS1HTHYtZENObXpjNFp0M2ZuTnVRZmNnVmFHWkwyOEMtS28td3B2ZnN2WHZuQVU2ajNFcEJKZ3BHdUw5T08tdW8yUnFncEN3Zk5jVExydUZHb2tRbEVFTXpXWEHSAdgBQVVfeXFMTUI0eUlDTWp3ZWNhSmhaaWxEdl9FMnFERHg4UzFhM2pGdHNMblFwSm5qZG05Tk40a2Y1T1BqU1JUUHVRNmppMFk1RDMzUzZjenFZUVpYdTdlSVp6d2xTNGJCeG0yallfN0FzQ250Ykg0a1hud1ZoODhhVmRSbUJ4SkE0SGUyQUMyMG5jX1gtbERKVzZ4eWlRUEdFQzhTMUtSeXFqR1BkVGRjYmw0VnI2R29MTUpaRmxqZnJaYndfX2JUeUlaTHBzSGJQOFcyYkphYmhEY2hoZElS?oc=5",
+      "tickers": [],
+      "at": "2026-11-14T16:57:51.578Z"
+    },
+    {
+      "key": "6c799b7f754632a9",
+      "score": 6,
+      "title": "Some Disney Execs in Proposed Class Action Can Get Early Retirement - MyNewsLA.com",
+      "domain": "mynewsla.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNFo3eFpRVzhCTEJMdUFUSndVSE1wQ2tlSXVGSHAzbGk5LXVvbmh2R1V5NTFRanB3NzVOanphNGtTczh0T2o0LTBTY0V2WXZja2pLWjhWS1Z0WDRENmhFV19uLVdCcEJqei1FZXI4dXpFWmpVYUhKMS0zckIzOVVVR3dJTDg3LU5udG9qcDlBT2locU5SSjE2amktWGc0VklNQ2RxV1piRXpqdk5hYTdF?oc=5",
+      "tickers": [],
+      "at": "2026-11-14T16:57:51.578Z"
+    },
+    {
+      "key": "7023368860725210",
+      "score": 5,
+      "title": "CCI approves Advent International-backed firm's stake acquisition in Yatharth Hospitals - TradingView",
+      "domain": "tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPR1dEM2VLUENkNkNnQV9UZ3RRZzNlMnBSTnJsaTdlUUw4a2Y2MHdVck5GQkZqVWRUTGE0bDJaX1NCNTVtUlREaWtrQTdiZFpaemFKQTRxVzV4TGVIcGlTTjd2QzIzSndWenFFQkFySkI3OHlBeUVDODY0RndfQ0tySzZEek9GaXJDYWMyV2lwWG43dnZfY0VXZUxOTHJxX05SdVdFOXYtSkVhNkJGVHU1VEVWUk0yLWRLUlpuWGlBQzEyU1A4d0tzV2ZFYWEyWWRuMENvdEZoM25nZ293?oc=5",
+      "tickers": [],
+      "at": "2026-11-14T16:57:51.578Z"
+    },
+    {
+      "key": "4fda699169a8a21b",
+      "score": 5,
+      "title": "Toyota Tundra Recalled Again Over Another V6 Engine Problem - Autoblog",
+      "domain": "autoblog.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZ0dJVWRISzY4YnZTcmk3R1dxRGdmTDRDczBMUEhRSkxCLVJSLXI2cnVaSkZHblV2aFVYc0IzNHJ1dFl0bUhHdkVUaXlBem1xc2MyTXdUbnNHQTNYQThwaE5GbWJIOGVqWEZWRGVFQ2R6d1lLZG9WSzVXTzJJM3ZMRTU1TXhHcW5FSGtabExzRGtEeWM?oc=5",
+      "tickers": [],
+      "at": "2026-11-14T16:57:51.578Z"
     }
   ],
   "lastQuotes": [
@@ -13291,5 +13284,5 @@
       "ts": 1794603601
     }
   ],
-  "lastRun": "2026-11-14T16:16:59.425Z"
+  "lastRun": "2026-11-14T16:57:51.578Z"
 }
