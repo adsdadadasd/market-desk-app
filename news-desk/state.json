@@ -1,26 +1,6 @@
 {
   "version": 1,
   "seen": {
-    "608b633f7b54da6c": "2026-11-07T23:43:06.455Z",
-    "6671b6040512642d": "2026-11-07T23:43:06.455Z",
-    "32f508cc1c4be1d5": "2026-11-07T23:46:02.771Z",
-    "6b144fc2d7dd4171": "2026-11-07T23:51:03.587Z",
-    "b273fb5b5935ddab": "2026-11-07T23:51:03.587Z",
-    "1a7e8a6b9f00a9b1": "2026-11-07T23:53:06.446Z",
-    "7d743919d824849c": "2026-11-07T23:56:02.855Z",
-    "4c1e2a27a4ddd8a7": "2026-11-07T23:56:02.855Z",
-    "f9cc499dfb2ae4e7": "2026-11-07T23:58:06.512Z",
-    "ce624f0767c822bc": "2026-11-07T23:58:06.512Z",
-    "eddd53bde4114057": "2026-11-08T00:00:06.294Z",
-    "bdbe2f4f34fdffa3": "2026-11-08T00:01:03.039Z",
-    "44997576a57e571c": "2026-11-08T00:06:02.799Z",
-    "a3303349ac005618": "2026-11-08T00:08:06.599Z",
-    "29d463171504166f": "2026-11-08T00:08:06.600Z",
-    "1bf2fa3092bfbbc3": "2026-11-08T00:08:06.600Z",
-    "0578fb436919b716": "2026-11-08T00:08:06.600Z",
-    "5cc11ec0e2cec4bf": "2026-11-08T00:11:02.824Z",
-    "0039acef3fa34ed9": "2026-11-08T00:11:02.824Z",
-    "32a68207677fa72a": "2026-11-08T00:13:06.688Z",
     "4fb2a0633bf2648b": "2026-11-08T00:21:02.817Z",
     "41b6ab09e7e2b15f": "2026-11-08T00:23:06.541Z",
     "3f83621fb7b0ab78": "2026-11-08T00:28:06.727Z",
@@ -10679,7 +10659,24 @@
     "1d2499a0576a7a8b": "2026-11-14T23:40:33.207Z",
     "a5317478e3a6b011": "2026-11-14T23:40:33.207Z",
     "9d5b30d9debd0324": "2026-11-14T23:40:33.207Z",
-    "0c2d5e24cc81935f": "2026-11-14T23:40:33.207Z"
+    "0c2d5e24cc81935f": "2026-11-14T23:40:33.207Z",
+    "6aa9544c2c98f999": "2026-11-15T00:15:32.200Z",
+    "bd963c5bc8fbdc80": "2026-11-15T00:15:32.200Z",
+    "d4f9e6e63e199275": "2026-11-15T00:15:32.200Z",
+    "6bb938c26b4a2e56": "2026-11-15T00:15:32.201Z",
+    "655ffe18f0655e7b": "2026-11-15T00:15:32.201Z",
+    "6f4cc081bccff016": "2026-11-15T00:15:32.201Z",
+    "556ad4e8596fab30": "2026-11-15T00:15:32.201Z",
+    "97aad7284c56f8b1": "2026-11-15T00:15:32.201Z",
+    "4f013403fea9e0af": "2026-11-15T00:15:32.201Z",
+    "4478b1928b4098ef": "2026-11-15T00:15:32.201Z",
+    "f96d3cd59cf4d6f0": "2026-11-15T00:15:32.201Z",
+    "969ae0f5ea0eb27f": "2026-11-15T00:15:32.201Z",
+    "819e02f5d3dd9699": "2026-11-15T00:15:32.201Z",
+    "1c816d4bacac66b0": "2026-11-15T00:15:32.201Z",
+    "b0abebdd7f64fcc8": "2026-11-15T00:15:32.201Z",
+    "131bcbc7b5dc37c8": "2026-11-15T00:15:32.201Z",
+    "6a0c3e542fc10dd0": "2026-11-15T00:15:32.201Z"
   },
   "alertsByDay": {
     "2026-11-09": 22,
@@ -10844,109 +10841,6 @@
     }
   },
   "pending": [
-    {
-      "key": "2c05db7721a53c37",
-      "score": 8,
-      "title": "I’ve never trusted the stock market. After the Nvidia scandal, should I move my money to bonds? - Yahoo Finance",
-      "domain": "finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVF9MN3h3VVdtYnRtalNFWlUtRjlxRElqbWFLazdkeXBjWWhhUDZJdmQwRzQwelhESFU4emp2Q3UxRWFWYU12dGw5QnVPZzdjV2dmenNKRHBLTm9MYkZ3eGxqRzlJUkcxXzkwcWxzckZGQ2ZYX3ZSLVJzZmkxS1BwNzdhdUFFRWdweWhPZEtaaEdvMUZhV0FUWWxB?oc=5",
-      "tickers": [],
-      "at": "2026-11-14T14:20:54.267Z"
-    },
-    {
-      "key": "0085b42e190e47eb",
-      "score": 8,
-      "title": "FDA Flags Potential Vision Loss Risk Linked To Ozempic, Wegovy And Zepbound - Blavity News",
-      "domain": "blavity.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9uamJESnllaHcwc3dQMkRKT0pxS00zZW5kdjlfeFBDVWRQQnRuT29rZTJveFJlTEQ2UW9zUU4wakdmMTV5VXRHRmY5Ulp2Z0YxdURMV3pwaHplb242X3RqdEd5M3B1MklsWXlOLUNXNWNQeTdtdUlmcUpnaFFTbkU?oc=5",
-      "tickers": [
-        "LLY"
-      ],
-      "at": "2026-11-14T14:20:54.267Z"
-    },
-    {
-      "key": "402cd58b664cb8fd",
-      "score": 7,
-      "title": "Think Nvidia Stock Is a Bargain? 6 Reasons the Face of the AI Build-Out Can Plunge Another 50% Following Jensen Huang's Resignation. - The Motley Fool",
-      "domain": "fool.com",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMC1mNjM1NGl0eGFyd2tUM0gzclZmbndNSVZKX1F6WDJ3VDRxbURIWnpJbnBmV2xtUnczLTNleGZXOW5VNHhob0x4cmhqTlZOVFd0bXd1MUwzblJxSHRLZ3FWWUxpWjVpY0ItT0VtNzl1LUNjLXZVaU1ZSm82cDlCbklNcWZ6M3BuUi02RWRsYTV3YlVWTE5obUpJUTU3Rk91Y2ExY2g0Rlpib0pfaTNraEtCTmY5UlBYRWFRcml6c2V0QUptQkFCQS1ROERUMjFwU2ktZVhzYURjQQ?oc=5",
-      "tickers": [],
-      "at": "2026-11-14T14:20:54.267Z"
-    },
-    {
-      "key": "f5dd0429074f3376",
-      "score": 6,
-      "title": "Stock market this week: Broadcom jumps 18.2% - Opening Bell Daily",
-      "domain": "openingbelldailynews.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWkpRLXc5U1N5N2RCcFNUMmd0NWNMUmZOTW1rWUFRRTJkMkgyaGRiNGZIcExtejRwcU5iejJscGFQZnNNZjRSTTJxT0w2SkZ3akY3TC1lSEpjZDQxemV1QkZJQlVZNk5iYU1xY2Ewb2VySEhZNTBPckhuU1FENG5uY3VqRDFtemVqNEl5VXJNcVFXX2V2Ymg5Sg?oc=5",
-      "tickers": [
-        "AVGO"
-      ],
-      "at": "2026-11-14T14:20:54.267Z"
-    },
-    {
-      "key": "76b99d7d99ea3be3",
-      "score": 6,
-      "title": "Stock market week ahead: 4 big retailers report earnings - Opening Bell Daily",
-      "domain": "openingbelldailynews.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSUN5a0YxR3YtZ3RBTXhsVW10cTVFMmU1bTJlbEJkWnhCX18zajlOc245dHhKSThEc2RieUxOZk5hSTd0MXVDdHE0aUM2MVpaaWEtU296aUQ4OW14RHFTR2pMeTNUdV9talJzblgyd3oyeUw1RFh4TFo1d053MkI5OGU0U09GdERCM3ZESnlJcWtwRnhj?oc=5",
-      "tickers": [],
-      "at": "2026-11-14T14:20:54.267Z"
-    },
-    {
-      "key": "873a716d8dc894e7",
-      "score": 6,
-      "title": "If Surging Inflation Triggers a Market Crash, History Says Investors Should Do This 1 Thing First - The Motley Fool",
-      "domain": "fool.com",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQalhFR2xuYXhXc2drTlRIUlRyUEh1eGJuaU5XTTRBN3dSeGhoYUxFUTZQY3ZUTTREaXBDeVJ3SU5RaTBqNHVJaERFSkg5U2ZmT0hEY2l2eXdIVnVhOXpjUUV3TzFjczZmVnRLQkFDYk1nR2VMT3Ewcmdvc09ZR3VKYzNPVnk2QTRsU3NMczRoMjNzTDZPMklvenBabWhtTUJadGVOWWU4bUNmZjNOT0FVMWE4QzhGSjJqbUhJVGY1U1BSczlnY2R0WWVvSUtUM0lnUEk0Z3pRV2JoMG9fUHRTOUxBdDNnNVJpRGpqSFdtS2Ftc0wx?oc=5",
-      "tickers": [],
-      "at": "2026-11-14T14:20:54.267Z"
-    },
-    {
-      "key": "2393068cc46d58fa",
-      "score": 6,
-      "title": "CMSINFO: Record services revenue and 26.7% EBITDA margin, with FY27 margin guidance at 27% - TradingView",
-      "domain": "tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPNGhPamJIWXNUTlVGVmU0SmlkRGhqM3FGYUZwaThhaU9TZ2tBQzRFcU50YzdVeE5IbE4yeFdxY0FMekljSmxGVjZCa0ZCQW44b19BYVFNT1AwcUt2UkV2dEh3MWI0N3dUNUZwUWEtODdLSl9zOXRFQXZSWWhHRWRXRVJ6RVdZclYyRzRwTE8tMmItQVJNTTJ4ZGJKb2ZoRzBER0gwSHYtUm1ESi1TYnBPS3hfeGxVa2J6a3A1NVIxaWMtOUJNOUc4dVlDQ0cxOFljeDNSMDlsT1NXNTVEdFkwbFNTeU9rRC1aVW5OTWo3aG9Ua1lvOUlYX3hrNXV4Zw?oc=5",
-      "tickers": [],
-      "at": "2026-11-14T14:20:54.267Z"
-    },
-    {
-      "key": "b9c08e263ec6cdab",
-      "score": 6,
-      "title": "Cardiologists Share Everything You Should Know About the New Heart Health Guidance for Women - Prevention",
-      "domain": "prevention.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQ1pPZFVrS1JmX2FnOHM0U1JLUlB3dTZzWXlfbEUxVDl4eTVHQ0pncEQtZmlBeEtNZ1puTFpvbVZBNEdNQm1Yc2ZSRlBjcWtZUXpPOTJySks2UjJhMS1SSndvc0N0QU54YkZGbkotZlV0bjVYSXc0VXdib1dtbkdhOEYxY2VIQQ?oc=5",
-      "tickers": [],
-      "at": "2026-11-14T14:20:54.267Z"
-    },
-    {
-      "key": "84af6d5d89c90050",
-      "score": 6,
-      "title": "California’s merger proposal could turn small business retirements into legal paydays - Orange County Register",
-      "domain": "ocregister.com",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdzNSZHFGS0xXVnJUQ3BOWTdPdl9jcUJzN0VJSnJkMm9TYnpzYkg0dnJPMjVVX2lMdF9VZkNLTV91dVpIbU4zbFJrZGlndkZYX1BHRXNfOXhjM05OZGVPZURqZW5kcE9SQjRBYmJDbmRvNWc5WEtkQ2ZzNmhGSnB1eXF4OVM3Unhnb2JMRXVyc2ZuMWd0RGJmY21zMjZWWkNiOWhvZDZLTTZTZVRPM1Y5X2pPZW56VWFRekJtXy03VnE?oc=5",
-      "tickers": [],
-      "at": "2026-11-14T14:20:54.267Z"
-    },
-    {
-      "key": "8c76d7951b94bd5e",
-      "score": 6,
-      "title": "Free turkey breasts to Kandiyohi County residents Saturday during \"Turkey Takeover\" - Willmar Radio",
-      "domain": "willmarradio.com",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQM0x5S2hhbHNjQW1USWVjcGVHX1BOY042U2h2QklFZHE5eURYX2hIS3JhZzNEVERqcHdCbHVKTGxqWWIyX2o2OG5pYXR4QUpFTXdhdEhzaTNEY253THd3RzFVdzNPSFc1MEozNGIwWnFmbW1VcmRjcGJDR1BLRG9RZ3pHa1VndmdwMzV4bWs3ZUhpOVd6ZGRJRkx6NHA0UjVGcS1Kd1U0VEdXNDZmVW5FOXQ5TC1GZGExa01JNFNJTWZuM3J2dmgtSlV6dEVtZGk4UEJXM0lWLVhkMWpHX05BRWt0TFdzbEE2Qk44WTFuYms5RmdHZExaSg?oc=5",
-      "tickers": [],
-      "at": "2026-11-14T14:20:54.267Z"
-    },
-    {
-      "key": "a2682bf01414a166",
-      "score": 6,
-      "title": "What is Mark Pope's buyout? Kentucky would owe 75% of his remaining pay - Nacionale",
-      "domain": "nacionale.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdTZsQ0dhX3NOSHZ1cUFFZkR6aXJRZlEwTzIwQzVBcTJpTDNUUXB5N3hnZFpRYmlQMnBmNDJHNWZoU2x4YnJvZnJlMjV5X1lXbm1ad3FzY01iRlRIZ2ktTUhldnlzek5fZ0ZER0pBV09JcTUzeURjM0JoeUc4RE14d3NHZXZQdGpYdGhvY1VSNVBGRXVrWGk0OGpB?oc=5",
-      "tickers": [],
-      "at": "2026-11-14T14:20:54.267Z"
-    },
     {
       "key": "b00d026895b70efe",
       "score": 6,
@@ -12677,6 +12571,110 @@
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdGNqQ3NNSmZ4eHc4VjN0LTBWU29heG56U1BUMnZLY3c0blB1bkdCdDMwX1g0M3YwdDNjaWU2LWxrUmRtZENGV0t5SVBObjZRWU5kQ2xfX1ZSeXJ1RFQtN3JFdTJWZTdHTWZWbHVSZWtRdUVfQUJfQVIxUUhMRjdreUQwZ3hITmhUMm9DWTQyRHROc2VQM1ZzUVNJTTRQaGNVVzU3a1JqQXdsaG1ReE9rVXhYbXR5VUFtZkdnLWNEbF9acVJnSFQ1Zmx0a2dzZHgtUkRQOVBJRlJCUzBEWmQ4?oc=5",
       "tickers": [],
       "at": "2026-11-14T23:40:33.207Z"
+    },
+    {
+      "key": "1c816d4bacac66b0",
+      "score": 8,
+      "title": "Uber Data Breach Investigation: Edelson Lechtzin LLP Probes Class Action Claims After Driver Data Is Exposed - PR Newswire",
+      "domain": "prnewswire.com",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOWHJIclk3cW5oeHVnMTMwc2EzamlOc3VoanA5UHFsTHNtV0dZUktjZXpjN0FSdV9qQXFUaDI2QVRzdjNMVDlpMEItaEJseEt0X29fekNyZlhJU2IzYW9GTEYzcTYxd29HUDJBWmNnUDdRV3h3VDNZTFR3MTZxcGpVUEdGQk9SRnM5aHlKcUltTjNEVURfcEoxcGhoQVlKNFV3NFEzdXg0bGpCYkc5aVBEcGhDWXEyNEhRdURYdHU2NU1iRERyY0VYSVBGNkt0aEpmSFRlZVROQkhOc2JWYVlTbXBUaXFuNmN2YjV5ZGxEX3A0TUJkOUE?oc=5",
+      "tickers": [
+        "UBER"
+      ],
+      "at": "2026-11-15T00:15:32.201Z"
+    },
+    {
+      "key": "556ad4e8596fab30",
+      "score": 7,
+      "title": "Taiwan police detain 320 people in pre-election raids — Taipei Times - UA.NEWS",
+      "domain": "ua.news",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdkcyeWF4SzdtaXlvdlhLMkxCZllYSG9jQUNnYkFlNFM4UUpWUlU5QjNzdlpKMkJHaW1XRWRoYlpURVliRFJrSDlRZXBKZklON0J5eWFVNWs0VFVLSDJKNEZuRnpXNHNpVHdSczEwSmpWV2IyN1pmNS1VSlo3QzNhUm9FYUpNVHYwWW5vcDFwNlFzeEt1UW9EZ05zb1ZMcU5temdJRGlEeUNjb3VXTGJ4UXg5OUI?oc=5",
+      "tickers": [],
+      "at": "2026-11-15T00:15:32.201Z"
+    },
+    {
+      "key": "655ffe18f0655e7b",
+      "score": 6,
+      "title": "Google Cloud's EPYC Chip Deal And AI Tailwinds Push Advanced Micro Devices (NASDAQ: AMD) To 30% Weekly Peak Gain - Foreign Policy Journal",
+      "domain": "foreignpolicyjournal.com",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQSVJiRXhqMmlfY2lLZlktMkFwdHdDQi1ia25XWTV2blo2SXRKSGU3RzB2TWx4aTNUWGx1M3Ezd2NBUlFBR0tTYVNsTE05emE0cGN5cmZId0xBVld4cWNBLWhCU0s2UVVmYXJKV2I0d1EzMU1ETFppUnhlbzVEMmduM2p2RWhwb3dOUGQtdDJqN05LT2F1T0dPQjNHOGRPZUljMlBqdWJpV3FRaS1yZkdEVXVQUnNJS3hKemtuamJWZ3UwWS03Z1dZMDdNa21WQjFaQnMzbnZHaTBiaWdKSUNCZXpNN3BGUDZzcEhxTg?oc=5",
+      "tickers": [
+        "GOOGL",
+        "AMD"
+      ],
+      "at": "2026-11-15T00:15:32.201Z"
+    },
+    {
+      "key": "6f4cc081bccff016",
+      "score": 6,
+      "title": "Russia’s ship inspector scores partial court win against EU sanctions - EU Perspectives",
+      "domain": "euperspectives.eu",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ3pPcFJWTUVONkEtNWFvUGVVUmFodVRURmRabnV1ZnJ3VzE1T0dTcVJrSDV5dVowU0dJMVRkYkFfUHdaNFpIcFlwS1RXbjcydjc1RngxWFZYT1VIQ1VsVGkyMjE3RVozd19GRlZCdUhGZm42dXpnbTVnYnJRazBhN0hYSFQtNTJNZUM1MEUxajNwc19KSTdNSWNRcmJNU09pZTZIVHpB?oc=5",
+      "tickers": [],
+      "at": "2026-11-15T00:15:32.201Z"
+    },
+    {
+      "key": "4478b1928b4098ef",
+      "score": 6,
+      "title": "South Korea's Korean Air-Asiana Merger One Month Out: Cho Won-tae Faces Harder Test Proving 'Synergies' Than Building Scale - BigGo Finance",
+      "domain": "finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5TbnV6RWdzbjNZaFlERmtNZk54a2NhT3hzVE1HQ3k4UnB2dG9zTVNZRVpnNEFfcDdleHozbE1rTHpDd0F4bG1ERTNLR1cxeEQ4T1Uxc21CdmdzOU1nb3VCTUdUYjlfbk5tVWR5QTVwSVp6R0c4Tmc?oc=5",
+      "tickers": [],
+      "at": "2026-11-15T00:15:32.201Z"
+    },
+    {
+      "key": "969ae0f5ea0eb27f",
+      "score": 6,
+      "title": "International Day of People with Disability story time takeover - Logan City Council",
+      "domain": "logan.qld.gov.au",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQlktUzRKM20weGhTWDJ1WUtkdFRxWmxEbHlRTlNZOVNOcjVvY21HYjllVUtMbUdkSTd1aF9nblpVRWJBRzB5VUIyQmlYNzFCd01ETlhDYTJYbjJBcXBFWXp4c0JoWHZGMHB6QTdOX1FNSTRrVm41M2QtNkowaTY4UURhYmR3UzVkRUd3V2cxekg4TWh0MmZOTEJ3Mks5V1NwWG5tdk13TGNxekU2a3BVR003WWE?oc=5",
+      "tickers": [],
+      "at": "2026-11-15T00:15:32.201Z"
+    },
+    {
+      "key": "819e02f5d3dd9699",
+      "score": 6,
+      "title": "GO Wild: Rocket Takeover - Stockport Council",
+      "domain": "stockport.gov.uk",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQS3lrVlFpY3FBdGtFTjVma1U5MXN0QzFJZ1FDSi12Vk1yYVpJV3VIbWUyLVNrQ2FVbmxkVWZYaHBFRFo2TVlyWW1mU0xhb29YUkdHZ2Y3SnFBVVpOb1R2czg1R3Vfdy01dzNyNWtZY1d2WFJFZWg1eThRaUQybjB5dU1hcE4xMFdZZXc?oc=5",
+      "tickers": [],
+      "at": "2026-11-15T00:15:32.201Z"
+    },
+    {
+      "key": "b0abebdd7f64fcc8",
+      "score": 6,
+      "title": "EZaccessMD Data Breach Investigation: Edelson Lechtzin LLP Probes Class Action Claims After Patient Data Is Exposed - PR Newswire",
+      "domain": "prnewswire.com",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOV1BVdlhQM1pjZ2FndjZXNE0yWi1jOHc3MHF2TmRBaTNadHNMRFg0YTRIZFNlbWRBM1Y3aE0xV2NKQ1JkRnpBTEpiRTBMcy03NThBN1RMUkp5cFY3aWpCWXZMUXdJNVdaOXQtMUQwSlVxWjJHTFFWeWkyUXBNTGxnSldMSExMUTlDVHhLU2lVOU1Fd0J1QTNFUXlzQmU2NmpFTXNBbkdrOUllY0xUVEJuWjZVTUh6X3Fuc1RfU2owa3RSbXY3THYtRF9iMW1nWlBuMmlycDBoMEJDR3lweTJidUZDSkxyNU5ndWlPZEZtZWhmOEY1bzcwNVNMbklDRlU?oc=5",
+      "tickers": [],
+      "at": "2026-11-15T00:15:32.201Z"
+    },
+    {
+      "key": "6aa9544c2c98f999",
+      "score": 5,
+      "title": "SpaceX Catches Starship After Early Setback - WSJ",
+      "domain": "wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPc0h5Z2ZOZ3hGRDU2d0RaMk5ocV84cmVmTXhBOWl2dFgzVWhQN3hTNTVuNGhfcFJJbDJhZnZ3aVJFT1I1SnFSdUZGUW9tNFZrZ1ZkQlpXVXlaNDBqQUh0eWxZVU1jM3hSZ01hNEYwV1R1a3p2N2NJOThfTk9TbUNmUmFkZ2RkeTJMRVB6ZVdqeEhVQ0o1ZVozRmRHYVMydlZCWjBKVS1vTDNpZEtIWHpoVGxlUWc?oc=5",
+      "tickers": [],
+      "at": "2026-11-15T00:15:32.201Z"
+    },
+    {
+      "key": "6bb938c26b4a2e56",
+      "score": 5,
+      "title": "uCloudlink Group Inc. 2026 Q3 - Results - Earnings Call Presentation (NASDAQ:UCL) 2026-11-14 - Seeking Alpha",
+      "domain": "seekingalpha.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONWtuc0dFdm5KYmlPZXdwRHdzT0Z4Q3I5VDJhRFlOdGVUZS02b1hqbEJUZ3F1LTREUl9XZkhxQWNpM01nNURBWW5Ea2hZNHNiZ1hVVHlSNHNVYnpTbWljWm9YT0lEMVFNMXFMTXNtVFJlZlA0b0dtb0oxbjJXN01hMXpTZWpwQ3NuS0xyZXd1WFZEUmFGejBma3FJdks1VWhHYUlHRU1rNA?oc=5",
+      "tickers": [],
+      "at": "2026-11-15T00:15:32.201Z"
+    },
+    {
+      "key": "4f013403fea9e0af",
+      "score": 5,
+      "title": "How Much Is Wisconsin Coach Luke Fickell's Buyout? Contract Details In 2026 - FOX Sports",
+      "domain": "foxsports.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZmlwMF9tSDNpYVFieDBsQWRfOXFkNlQweWZ2eTJ4bnhJN0pJdDB2MmlxTVZnV2dNa0ViSXh6eWl2ajl4Z3hfSFlGblNXWjNkYXpYWGNIT05jVVMyVkdxbXJCY1V3NU5RM1czbGxRdDBxdDI3OW9MOE9qbDVZd0plcGZROFBqNTdOX3pLZG9nanBMUXlKVldwR2phc2NUQ0tCWlo2Q9IBpAFBVV95cUxNdHh5cU81LU1sNVZEZG44Tm1JMHhjSWZkTDBRb0VIMmFxSTlZcmF4elZ0WjEwUUVPT01wZ1hsMThVaTA1VlV1YUk1TFBjZnpMU21rckhuSERNZHIwUWNIRWFYaGdvbUdZT3BHaHpBWmI4RXRSNG9WUWd3ek85VVAwbGhGVmxGRU1TSHlWcVRMeVd1YVlFTGtvSVZPT2t4cWVDQmtRUg?oc=5",
+      "tickers": [],
+      "at": "2026-11-15T00:15:32.201Z"
     }
   ],
   "lastQuotes": [
@@ -13212,5 +13210,5 @@
       "ts": 1794603601
     }
   ],
-  "lastRun": "2026-11-14T23:40:33.207Z"
+  "lastRun": "2026-11-15T00:15:32.201Z"
 }
