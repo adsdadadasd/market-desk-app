@@ -1,30 +1,6 @@
 {
   "version": 1,
   "seen": {
-    "f22cd5dc242c92dc": "2026-11-08T19:13:14.586Z",
-    "9f264b537c9fb4a1": "2026-11-08T19:16:03.605Z",
-    "bb6d7e1656e270fd": "2026-11-08T19:18:14.673Z",
-    "619da24cb8623a87": "2026-11-08T19:18:14.673Z",
-    "9516beeca7333d09": "2026-11-08T19:21:03.606Z",
-    "aca2378d2b009442": "2026-11-08T19:23:14.492Z",
-    "61842956258d3db8": "2026-11-08T19:26:03.576Z",
-    "f1b4c13d45937a9b": "2026-11-08T19:26:03.576Z",
-    "c333405d0922d372": "2026-11-08T19:26:03.577Z",
-    "082ef3a9dbb0217b": "2026-11-08T19:26:03.577Z",
-    "d246907c32dea2e6": "2026-11-08T19:30:14.505Z",
-    "c6f499f93ce3a41f": "2026-11-08T19:30:14.506Z",
-    "7aa949279d5fc21a": "2026-11-08T19:30:14.506Z",
-    "05ccdc17b2d5a3ed": "2026-11-08T19:34:14.699Z",
-    "955e5ccb0510118f": "2026-11-08T19:38:14.792Z",
-    "9d69fce8b1b78362": "2026-11-08T19:38:14.792Z",
-    "3f6963e16e134462": "2026-11-08T19:38:14.792Z",
-    "51ca081d3694acb7": "2026-11-08T19:38:14.792Z",
-    "2c86e79adfa2ab8a": "2026-11-08T19:40:14.893Z",
-    "1dc0549d2f96d1b6": "2026-11-08T19:40:14.893Z",
-    "b979953722e5e46f": "2026-11-08T19:40:14.893Z",
-    "bcd457fadd88fbbf": "2026-11-08T19:40:14.893Z",
-    "08f4954446660040": "2026-11-08T19:42:14.788Z",
-    "7a6fed87772b3e3a": "2026-11-08T19:42:14.788Z",
     "85dcec203a34d3d4": "2026-11-08T19:56:14.912Z",
     "67a4618ee0d94b68": "2026-11-08T20:02:14.926Z",
     "d92f7fca05cff5dd": "2026-11-08T20:02:14.926Z",
@@ -10680,7 +10656,34 @@
     "0a003c66cf4139e5": "2026-11-15T19:12:15.552Z",
     "2a56e4e75e9ae5c2": "2026-11-15T19:12:15.552Z",
     "040a03a46d95424e": "2026-11-15T19:12:15.552Z",
-    "c57ae797e5fa15e1": "2026-11-15T19:12:15.552Z"
+    "c57ae797e5fa15e1": "2026-11-15T19:12:15.552Z",
+    "6f4c287eba5533e9": "2026-11-15T19:52:55.738Z",
+    "163045f07995133b": "2026-11-15T19:52:55.738Z",
+    "b3c6076d205b62a7": "2026-11-15T19:52:55.738Z",
+    "04048d98cc7d0601": "2026-11-15T19:52:55.738Z",
+    "d3efd753a3710e9f": "2026-11-15T19:52:55.738Z",
+    "42da9bedbcb6f9b4": "2026-11-15T19:52:55.738Z",
+    "38034ab5d9b1dc71": "2026-11-15T19:52:55.738Z",
+    "f9247568252abc8d": "2026-11-15T19:52:55.738Z",
+    "08dfbaac6eb927ca": "2026-11-15T19:52:55.738Z",
+    "1af917ac6ab53f74": "2026-11-15T19:52:55.738Z",
+    "579ea32f7ea3952b": "2026-11-15T19:52:55.738Z",
+    "97c2109e9dddfbf6": "2026-11-15T19:52:55.738Z",
+    "cdc663961649200b": "2026-11-15T19:52:55.738Z",
+    "38206dd7a03782c6": "2026-11-15T19:52:55.738Z",
+    "3b91abd59ca5dc4e": "2026-11-15T19:52:55.738Z",
+    "2e07f49f21b9d1e5": "2026-11-15T19:52:55.738Z",
+    "34ae524a49c3812d": "2026-11-15T19:52:55.738Z",
+    "a3e41169bb476563": "2026-11-15T19:52:55.738Z",
+    "6db4a666f97e33dd": "2026-11-15T19:52:55.738Z",
+    "340a31d36adf57ed": "2026-11-15T19:52:55.738Z",
+    "45c535c61605e4ab": "2026-11-15T19:52:55.738Z",
+    "52569399f8ac62f3": "2026-11-15T19:52:55.738Z",
+    "3d77a0e5e9a2ef0e": "2026-11-15T19:52:55.738Z",
+    "70a98bc309d2ee38": "2026-11-15T19:52:55.738Z",
+    "e25bce4c3f6a45df": "2026-11-15T19:52:55.738Z",
+    "d4efdb066d5b244b": "2026-11-15T19:52:55.738Z",
+    "c67b4ba1452c6f35": "2026-11-15T19:52:55.738Z"
   },
   "alertsByDay": {
     "2026-11-09": 22,
@@ -10845,161 +10848,6 @@
     }
   },
   "pending": [
-    {
-      "key": "3daf5e77c6bd4ac9",
-      "score": 6,
-      "title": "US FDA declines to approve Summit Therapeutics' lung cancer drug - TradingView",
-      "domain": "tradingview.com",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNOFo2UThzbUNYVUlPRzdLVXE5NWZjODcyYzFtR0lJY0ZjWEQ3cFozckJwVnBMVTdlRU5nVFNrQVRCdHJ1Nkd1NjF1ZklsR1N6Zkk3dmhuUEhtSUZhWF9GS0lNWmVydEJtU2taZ3h1WkYxNk5Sai1KOFdBNmZCSVVLU3doa2JyZ1VYSGJGQWlYbTNDcGhzalhxYjJRWXM5Vm0yMkdfdk9TV0dwSXdXY19NWUsyc0lsQ0NYQ0xwUUY3QnJ6dTFZdWl3WjBVREdNUQ?oc=5",
-      "tickers": [],
-      "at": "2026-11-15T12:55:54.996Z"
-    },
-    {
-      "key": "9516a250c8fc6a28",
-      "score": 6,
-      "title": "How Investors Are Reacting To Everest Group Stock Class Action Lawsuits - Simply Wall St",
-      "domain": "simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVDNfc1J4Z2JXWlJmQ2JIclZFbTRvZEU5azBld0dKcTNIMHA2M1QwMi1naDdHMkFZaHRxLXVoWDF3Y1pDeTU3MWdWSDBua3k3MndzMUZyOG1EWi1kYUlrX1BNUWlHSGV6eWlBUExBSXFfZ2R0MTRVc09Lc1VDdVg2OWdBLUNHcXhGR2htZzcwVzBKUU0tRU4tSmxjcTY2RUlqOWJCQkFHeTJLV2ZRUUw5dDloZzNUdzdjYUNfN25KY2xZV3NWZ1A5LdIBzgFBVV95cUxOOV9DYnR6a2N3X1BuazctekFFakdmUUZMVVg4bDhxSWtZTFZCSFJWMURTT2JKMjVlUU5PYm1EcElkcFdodWRVOTFTdEprZmNMM01Uak9LWVQzTUZOczJpXzlCM2h6R3RPUmRJTUZ2U3FjelpvYWRmNmNvd2xGWXdpVi1IMUhnTWQybTRWSno0T1lDN1FrYVNIQWR4Y0RweWVZN3VTcDhDQ2paeVp2UkRNUkFCaXZaUEE4OEQ2M2hUSEdxVUZDcTVVQTRvUG9jUQ?oc=5",
-      "tickers": [],
-      "at": "2026-11-15T12:55:54.996Z"
-    },
-    {
-      "key": "f1e69923907370c4",
-      "score": 6,
-      "title": "Sajad Lone Objects to Education Minister's \"ALL MLAs\" Letter, Seeks Its Recall - Rising Kashmir",
-      "domain": "risingkashmir.com",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTHdrYklHc3lfZ2xvNVFjQkxoeXI5U2prUnR1YzB6Z3NDUUxHWVNZbkpLTllOQkdlS2RmeGxmbWg2amtUa204bS1qZHcwalp5eTJSbXRVWUktNjV2aHhMbEhsaUdWTTNwNWpla2FEd0lEZnVKeGxPUzgxMDFibGN2NDBmM0dFLWNQSHRjLWIwVXNtWlNGNUxvX1BPeUNkX1NPWno5ZDhVOHllcGJBVk1Ia185dl9hR1NkN2c?oc=5",
-      "tickers": [],
-      "at": "2026-11-15T12:55:54.996Z"
-    },
-    {
-      "key": "88c0db76123a3a59",
-      "score": 5,
-      "title": "Analysts Have Lowered Expectations For Arrowhead Pharmaceuticals, Inc. (NASDAQ:ARWR) After Its Latest Results - Simply Wall St",
-      "domain": "simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPVDZFMS1reUtjdFVybHVxVEVVTFUzd3loX1ZnaDJEV3U2THZLSUlTSTZGTjZmVk50ei0yTUlUQ0Q4V0tZaVJ5dGJTX2d2S0tRX0lqUlZlRmx3Um54MDhjSU02Wl9mc0dDcTRZMUZ4X19HQmdnYW5mb0tPVGZfOVpPQ2lRbTdFMW1IU3lJWUpOZzZGdFJOM1l4N1ZKYVNmN21wNVJLZkc2ZlNjbTZBeTI4X1hCOEZReUR4MmJwak5Ob1RIUFg1dEVYZ25lTlNKeXJ3X09TRjZLaGRjOWtHcTBBdUpHbFgwUnRuSTQ0TXAwUlTSAfYBQVVfeXFMTjAxQTVmMFFJbmtaaFc5LVNWU2oyTkpDMEZucXdEMjVISXlTdFJPLTczQlFIalozTWhtNFZaaWxKUU94Yk94MzdzdU1uS2N4TDJsOGx4YzR0cTJBUjR6N1pTdkFJNUYwQVZackkxUGlhX3QtWWJENmNIXzVUZ3dLR2pJNVc1dUxlSVNiS1ozTDRzZDZ0WHAxTWdrcVd3NXdWOXZ1VjdkMjF5Vnl6d2VBWXVQa0toU0xxVmdROXhQbktiRUVnVmgyT2ZSdFNqWlV2SFZscmhCMThCR3Y5TndQOHpxQ2dNRmRzQ1doeGhmX3JpYUNNU3l3?oc=5",
-      "tickers": [],
-      "at": "2026-11-15T12:55:54.996Z"
-    },
-    {
-      "key": "2cf0731cd9dfc596",
-      "score": 5,
-      "title": "Trump blames Democrats for $3 trillion US stock market loss after 2026 midterms | Hindustan Times - Hindustan Times",
-      "domain": "hindustantimes.com",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOcEc2ckI4UVJmZElyMldIa2dldWZ4XzBTOHhWTGFOSWthWW10MVlJeTJRWERTZVlmNXFDY004ZGR0V2VuSGN5ZmxJVFM0N3dTc0NYcXZTalo5UkJ2X3dqbzd5dzBzODlpRURRdjlJWnJKQkNKWEV3RURoaDVUN1phNnpVMm9EUUptck5YWG9lc1AwVUc0aVFwNEdyeDFRUVZ0RUVTWXVKQ0hvZEZhYm5GWF9MNHVmQXdqaXZTVDQ2SWNkdFdReGRwMUtvclJrWWVfWkRuQmlkN3lPOWFuZ243dEQxRdIB6AFBVV95cUxNSm1fZ3NPZkttT3NIVzlsTGphd0RURWFKMEY2cEJJaWdKR2lzbGlZa0p4Wkl4TDBiVU44UzlqNEEza01EUEZJMXhVVVNiS3pXZHRkeDE5aFJJVVpPREVoQ1ZZSWZHenhDY3FzUEVwbkQ2Y3JycUQwcHJ2NGo1cUxMbWRSZkNiNmtrOGdaMkhCbFRmak9YVmIwd05FVVZpYTlJSXJYRFVYX0pJQlJKRVJ4cFRYTmNxVHljNGcyelhDUlJXcXFGU19EQk1XZG01c3hxRVVSOEt6SktOV0pWWFpwYWJZRlp3el9P?oc=5",
-      "tickers": [],
-      "at": "2026-11-15T12:55:54.996Z"
-    },
-    {
-      "key": "1dfc4498358a79eb",
-      "score": 8,
-      "title": "The Next Wave of Food Inflation Is Coming - WSJ",
-      "domain": "wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOGtfSTVyazhhZjA4UEJWRVFWTlJWV0dUREtpa3pndDRsN0cyQkFiQjBpVFJ2UHFtbXA5MTMwZTFCQUhENld5QUpiV1c1ZmM5My1HNWFvYk1oOUM4ZmNXZFZCVkJRejNkbmRJTS1UbDJwV1pJd3VOd2k4d0VPNW1Rd1RTTFV4ZEluN1dsYVg4b3NjQQ?oc=5",
-      "tickers": [],
-      "at": "2026-11-15T13:45:02.022Z"
-    },
-    {
-      "key": "f62ece4bceec4eff",
-      "score": 8,
-      "title": "US FDA declines to approve Summit lung cancer drug after trial misses key survival goal - Reuters",
-      "domain": "reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSkdFR0ppNThGcnFUbE1vVHBkWG5GQkFrQ3B5M2x0VFh4bDNRVFdXUm9LazNYYUI4WnpBdXpQQ0NpS2llVWFEcE1LTWpLRWVqdFp4eTRibUtROW16ZU5XeXRmc1RwaTZCbzV2UXlKcEhvaHpCNlJSeTFucnl4ZXZvUWVWbXl2MUtHY1hXUzJ3SEFCR3ZZUDY2VGFuTC1lek80UmRZTGlxRkItd2I4S1lrcnotSF8tVG5tTnJySnBoMlJ0NXJtcEo5bjROV1c?oc=5",
-      "tickers": [],
-      "at": "2026-11-15T13:45:02.022Z"
-    },
-    {
-      "key": "5f3a343bdf63e9b2",
-      "score": 8,
-      "title": "If you’re into Costco-brand whipped cream, hold off.(and other recalls) - Daily Kos",
-      "domain": "dailykos.com",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNc2FGVFh6WG14UjF1enVxZUdjNkRUYm9tWUctUEktdWZwSERGRFFqRVBRMUdMY2ZwdTl4aWlaMUNHUGRRc2d4V0FWa1FTUl9sZTRBdDBUVmRhOExmb1g1QTh1dUxUQnNfSC1MQmVtMFA0REtpYUNxenkwNlhSVnR1ZXdOTDlmclFkVkJIbFdiNGNWaVBIUEowQ3VuU2NGa3lVeFNzUVRid3otVW92WjdpRnlyY21qdl9Ra3Q1eklqY0tiTjlrVy1GM3UyZnI?oc=5",
-      "tickers": [
-        "COST"
-      ],
-      "at": "2026-11-15T13:45:02.022Z"
-    },
-    {
-      "key": "f145ebfba2a8be88",
-      "score": 7,
-      "title": "EU naval forces board Russian shadow fleet tanker sailing under false flag in Mediterranean as new sanctions loom - Euromaidan Press",
-      "domain": "euromaidanpress.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS1dUb3R5aXQ5UXU2LXV6aDZGcDFYT0pIY2Jwd3ZOUGNvbm9zNUJ1MXIyeUsyTGtxWElMVEEtMkZEUEk0M2lXZFJrNWxpM05XeDlPMlRqandxS3oteElrVGI1ck9yTC0tUG9Ud2phS1RNXzV0YTRnbDFTNVU3LUpySTNjSXJVTk1LbTZzSkhhdkM5WHFPcHZaZVJ2Y0VucWFkcGxLUkFBa3pQdw?oc=5",
-      "tickers": [],
-      "at": "2026-11-15T13:45:02.022Z"
-    },
-    {
-      "key": "cf46736879cd9e76",
-      "score": 7,
-      "title": "YUKONOMIST: Trade war artists - Yukon News",
-      "domain": "yukon-news.com",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE15ZGhURHNnTmxYbEtJNkFRTXp2T2lqRk9VcDRzV0VTQmpQTmJPV2w0ZkVUMVFNazVaN2V2ejlhRXpXZm5RV3RNOERIcDFTX0Y4dnFLb3doVzRmRjg1VTdwbXF4Ql85NE1PT0dxMkpWVXo?oc=5",
-      "tickers": [],
-      "at": "2026-11-15T13:45:02.022Z"
-    },
-    {
-      "key": "47c3ad1382371e3b",
-      "score": 6,
-      "title": "Gold & Silver Volatility Ahead: Inflation, Fed, West Asia - Rediff MoneyWiz",
-      "domain": "money.rediff.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPU1kwY0FBVGM1UHRXOVdsdl93Z0pfbmgxZ2lLczBLR1BsNGNKZGIwUHhDU1pEWHZ2eDNHYV9yZXVQLU45V2JVZTNSRERwT1A5X3VFZERVZkhfVHNDdjduTV9nUGxMVmpSVk5XVUd0WVA0U1JCTm1IbnVmRHRnRmFONFZreDlrWVp3SklaM2Fjc3JJNERVd1dCTFVZTUlFUDZ0S3M4S1NnWdIBrAFBVV95cUxNM3Z6eS03V09pTTFoOVhaQWh0WVpUYXdoSExibGNGY2poNi1DTlk3THY2enpRX294UmM1TkJCd0NjUTF1UXdtdDZnRWNwQ2U4Wk5oVURVcmNFSzhMRV91azFpdzkxbTUyYURGRE1OVHQ2andHUG9CZHd2eThqUURPTmxDVy1iUklDY0QzM09vSzhKREtfVjFWYXljQlg5RFFLYS1BT3EwM0hrNkh5?oc=5",
-      "tickers": [],
-      "at": "2026-11-15T13:45:02.022Z"
-    },
-    {
-      "key": "cecac617b0788d07",
-      "score": 6,
-      "title": "How Strong Revenue Guidance Will Impact Cloudflare (NET) Stock - Simply Wall St",
-      "domain": "simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPOFJ2N1dybmlFdi1qWG1lSHdZNVBSU3VzVk1yeEFpRWtha3BQemh6YUdDeTZPbUlVbTE1bEl6QWUzaVIxd09zV1o0ckc5Y1RVeWFPbFFRZVRfZWhpN1VQdVpiNDFrLVpBLWN6S2ZBWl9jcmQ4NnJMRnl3d20weDNtVmZCUHpNXzBvdUVydXdfWEpCbDBtQXdtMjlYdzYzU2w4cjZWRXZDTk9NeGlZME16ZWhHREt6QlVocG05ZVdWdzFDenA20gHKAUFVX3lxTE5RSzV6R3JyNl9nYUEyT281Z2VsYnlKclNsdkk0S2NhZW1raHMxMXVSMTNBOWhjbWZyeThHeTdRcktUUXdhdC1XZmJ2VUFGTVpROWRNYTMtR1F4YzU4Y2kxdy1mSXdrSWcxcThKeGVmQzVBNjNzWEJvQTB1RHoxSW9kckVlWjg2WUNJeGxFOXdra2txR0NibllzMEhmOExXWVc4TV9iaEZZSFJUd3E5NE1DS01pTVVkMl9hTmpOYW9NekZXRkdacFp2WWc?oc=5",
-      "tickers": [],
-      "at": "2026-11-15T13:45:02.022Z"
-    },
-    {
-      "key": "51773ea3094375e4",
-      "score": 6,
-      "title": "PACS Group (PACS) Lifted Guidance, Is The Upside Already Priced In? - Simply Wall St",
-      "domain": "simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTXVsNlczNk9oZnY3cUt0YVNMYXJQU2c3U05kYmp0aU9lQXpBQy1Sb3pYaUx2aG5iV014N2lKbWVkTmYtYkc3dkh6WVNxWXRxV0lacEFScmJSMVFqRVkzZGhfYklCd3lzQ0lEdkZDd0ZzbWdZZHd0aFpFYnpmNkI1cXZaT3U3ZTJCbF9ZTGltYXV2eGtIMzA2M0tGSUVaUXR2bTRBODZZeml4Vmo4aTBNekk3OWVJdEJ6cFZRMXZ1emRkOWRSdWpPRg?oc=5",
-      "tickers": [],
-      "at": "2026-11-15T13:45:02.022Z"
-    },
-    {
-      "key": "69f61c812e41f914",
-      "score": 6,
-      "title": "How Investors Are Reacting To Intapp (INTA) Strong 2027 Guidance - Simply Wall St",
-      "domain": "simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVWtVa0swQVZmcmttSFQ4ZEZRR0lWOE53WGI3OXEycUZEWWdQcngwQkxBbUs3NW54RXFsNjhuQ2ltSlk5bldobmx3bzkzZHkzWjd0SkNSdkxyYlFXdFlHemtNSmlvZmFYWXdDZWFldnN3V3EtOEQtN19yR1dPUVpHNFRCVGxpRUU2a3diMENFZkxtQk1ULU5CMVNyb21qZDlIX29oM0htMnllR3c2eUxXMkxWbzlOLXZtT2hYdVFqTjVoVGvSAcgBQVVfeXFMUE9uamhJb08tSWxFZlB1OHZGTG14TXZza2hFbDNjR25xOU92TXNJWmxaY09ZazJfV1lQRzJfSFBjdjFRMmNFaHdsdVNEcVhoanhTUlF3UzJ5UWJjemhnNUlvNUJOT2MwNm5uQWdSSWdSS1h3QjAycEdjVTJjZ2pUZUx5MTV3Y3lqYmhHQ0w4SjNMeUdBOFk3V3NRZHhzekE3TTdUTml0cGxVZDRXa0Z3REJ6eE9TQTJPbnZjN3BjQ01vNDNhenVhUTU?oc=5",
-      "tickers": [],
-      "at": "2026-11-15T13:45:02.022Z"
-    },
-    {
-      "key": "51fbd678c842d6c1",
-      "score": 6,
-      "title": "Should Raised Revenue Guidance Require Action From Alarm.com (ALRM) Investors? - Simply Wall St",
-      "domain": "simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVjFZZ2dzWDNsQURMQ0NRc1NOQy1uRHRBaWk2dHN6S3ZFcHljRVpzaFVtUnllc0JJRTd3cjIwamlZVmJ2UWZJdXBYeU5MN1JOTjlxcExaajdHaElKazl0VFF5LXJLMnE5cjh5ZUl2Z0FkdXZWRTZlcXdMa2wzQVR5S0l4cGJUa0d5WnZxY2tzTXZicUV3WUl1aGM4ZUp4V1BPR2JrM3ZHMzBLZXhNVkxveVBhTXlqdnJneF9XN3loTDgxNzZNMmU5R2xBM0VEUDJY0gHWAUFVX3lxTE81VXR3NzhyRWRKYTA4ckkxYlhaVnNxN0wzTy1LblJLeUktUnVHSG11R0pGR1dwOEFPU2pWb09SaGMzYXRhS0ZvLUsyN0tZd2h4M3VHZXlfS2Nkb3NldUFVZUk4NmpfZ2FLaVlMcVdDb2dOVWJMeU5MeW16aHdnT2lLZFVlNmx0UFFjT0NwX0tkSUJpOEJ5VVVGanN1YkY2eWswdktyQUtvSXVGbkRqNGlnZkVXX0pFZ3lXY2dhcG5kbDdJdnlJMHdsMWItd1dsT21nVVQwZEE?oc=5",
-      "tickers": [],
-      "at": "2026-11-15T13:45:02.022Z"
-    },
-    {
-      "key": "b5df6a32079f9ee8",
-      "score": 6,
-      "title": "Free agent Kris Bubic could be a smart acquisition by the Red Sox - Over the Monster",
-      "domain": "overthemonster.com",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQ29vWTVwYnU2ZjNtSXVkd3JnNjNfTEZlZm1uUHpTV01JMXptMndBaklIZ3Q1U0xkV2thYllQM3hsdjdONVQyRkVZZ3IwSHNkTVlrTVhET2U3R0NBcjNyTV90aUhMUWw4SGNUSVZtU1hpQUpVR2VqUHRxc1llcGNlcEhTcW1obzFMbmF6OXJ1ODM4aHFJV0ZnQWpleGZ4UktqV3JISllCNnpHb1d0U2k0djdfTGxSa3hzUlE?oc=5",
-      "tickers": [],
-      "at": "2026-11-15T13:45:02.022Z"
-    },
-    {
-      "key": "d37186eef9016fb5",
-      "score": 6,
-      "title": "FDA rejects Summit, Akeso’s ivonescimab in narrow lung cancer setting - Endpoints News",
-      "domain": "endpoints.news",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaGJ6bF9CdnU4ajdVM1FBSThXN29RZG5sWkllOFlCeElqVy10SHJ5Mmk5Tjl3bU1qWjhKWFFNU3dfX1FVUlNDWnhwVnoxX0tTNUV1V2ZCTDJodUVzNV93ZmN3SGFmU2ppRDBheHNsMmpoREllNlZncEV0ZFBDSU9SZENXdjdYZ3BxSVE2dk9ldVJNVlhfeEE?oc=5",
-      "tickers": [],
-      "at": "2026-11-15T13:45:02.022Z"
-    },
     {
       "key": "647ac2f890c5cf93",
       "score": 6,
@@ -12690,6 +12538,159 @@
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTHBsWmJHcWp2Mk1qaHpDM05BVEVDX3BfcFpZWnU5dmRSN1JKYnJGbEdwU2tCTlhSSUxmSU1scFBtZWVVQWN0bG4taVlBRTRTQTZYTVFCdmNYSWRfTFJtSlJoWFZMRVFhZ3JoU0FKOFZETmFUQUxPbVd0eERlTy0tNg?oc=5",
       "tickers": [],
       "at": "2026-11-15T19:12:15.552Z"
+    },
+    {
+      "key": "6f4c287eba5533e9",
+      "score": 7,
+      "title": "FILE PHOTO: Federal Reserve Board building is seen in Washington - The Daily News | Texas' Oldest Newspaper",
+      "domain": "galvnews.com",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQekpLOGgzb29OQ2stQlhkbHJxRUtJYkw4ZUk1LXdtV1VBVktmRzZUZmhiOTg4eTE2aXI3QzJnaTBuWEh2RWxYczhxNlpwWFpiSHgzLU5JTW0yT3JXdmF1WWMtbVRYMWRoS1VUMnhtNGdKamF4NFlQVS1VNUwxUk10UUUzVFN1UnRnOHYyUU1fNElmcVF4ZXJLeXp6UWFjbC1DdktPNWdqMzVFXzdmcnpXWFhqeXltZ1drNTBPdTl1MktKQzZJcEpNcTl5QnlfMnFodlFybWl1NklELVFwRWthUElpeTVfMUh0YThnLWE2dw?oc=5",
+      "tickers": [],
+      "at": "2026-11-15T19:52:55.738Z"
+    },
+    {
+      "key": "97c2109e9dddfbf6",
+      "score": 7,
+      "title": "NYT and CNN: Trump Awaits Iran's Collapse Through Economic Sanctions Without Negotiation or Attack - news.sbs.co.kr",
+      "domain": "news.sbs.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5MTUNUY2tFY3dJTWo3Tm9jSjdOaFlTRTFmVnozUnFjalVQMHNFUVdXTFFybkJWVFQ1N3VWUmNiZnBuOEZEemdlQzZBMkJRakRhVE0ta3Ezem5xRlVjRWJuZ3Z4T040R1E2LVlyYTBB?oc=5",
+      "tickers": [],
+      "at": "2026-11-15T19:52:55.738Z"
+    },
+    {
+      "key": "cdc663961649200b",
+      "score": 7,
+      "title": "Why Food & Life Companies Shares Are In Focus After Strong Earnings Guidance - Yahoo Finance",
+      "domain": "finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQV19RTHN6Vm42VGo1bWlBTmJOYkVnSUcxTVpEek1ENFc0TC1PTThlbW1Cbi1pRFJ4RFEyNmxjNFZIUGZGQkZhMlJLNHdINEFqRnlvNEhHb18zSFdXLWJWYS1waEJCY3N0dE15Z2JHS0N2Y0xoTnhjdVpBSWFTY2k1UTZpemlSZHRfWFhaemQxcFROXzM1cVROTk91QQ?oc=5",
+      "tickers": [],
+      "at": "2026-11-15T19:52:55.738Z"
+    },
+    {
+      "key": "34ae524a49c3812d",
+      "score": 7,
+      "title": "Bill Cassidy says Trump’s FDA pick faces uncertain committee vote - Politico",
+      "domain": "politico.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORXRqTWhLVWZLRndtYXkzMW9fSnhRYUg5ZWNMaXlUcFlTb09VRDdkdXZZRU40SDFuRjlTMV85SHRVNmVLdTBKWlA2OXVXblRVR2F6U1ZzdXI2TGUtd3NoSU9sWjI3bng3RkswR2JIanp1d3ljQWdKbUR2cktKYnUxTjhmTFZXQXEyNzBhekVJTF9DSVNmX3ItRFdEZXdpNXJ6akJ3V3NVdFlTbFZRQXc?oc=5",
+      "tickers": [],
+      "at": "2026-11-15T19:52:55.738Z"
+    },
+    {
+      "key": "a3e41169bb476563",
+      "score": 7,
+      "title": "FDA won't approve Summit, Akeso's ivonescimab - pharmaphorum",
+      "domain": "pharmaphorum.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9sc3JqdXlTRms2bG16aGgxM3BNZHdhZUlGMTNHZmNBdjBwR3lnTi1YSFJ3V3dmMUh2LTQxZlg5MkREeURSaDA5WG1HVDdhcVU1OEdhSXNEbHZVU1ZuX1lNWTRFbjN3VlRjUHBacHcybkUyR19PSHpHTm1FRUw?oc=5",
+      "tickers": [],
+      "at": "2026-11-15T19:52:55.738Z"
+    },
+    {
+      "key": "38206dd7a03782c6",
+      "score": 6,
+      "title": "Novo Nordisk Fires on All Cylinders: Haemophilia Approval, Raised Guidance and a Buyback in Full Swi - ad-hoc-news.de",
+      "domain": "ad-hoc-news.de",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPNEo4X0w4LXVyWXhHSm9IWDhvbDRHR0hPNjh4VWZrbGMxcHNJV2xGMW9OQWxEOC1OLWYzblQ0ZF9CbWxQa2kxcldVakhLbmVMc2N4Y0hGT0w2NUhZX0YyUmZ2QUtYSFNqdEo4OHUzMDlvVHk3VXJvOWtQMDRKd1BNb0p0YmZObGdTUUpSUm1fNWhkdUZNMEMybWZ2YWk0c0FSM2p2R1RHekt2UUkxd3N0RUt4VUcwNmE0Uk9USGRmcmhXVkVrN1FDZl96eWx3WUktNExFZ0ZGS0F5NGZUNVVfeDJyaXRFdHJqR1ZKbGN1TlZHUmk1WmdBbjlRVGVSekpSSEE?oc=5",
+      "tickers": [],
+      "at": "2026-11-15T19:52:55.738Z"
+    },
+    {
+      "key": "6db4a666f97e33dd",
+      "score": 6,
+      "title": "Jon Wigginton: FDA Complete Response Letter for Ivonescimab in Post-TKI NSCLC - Oncodaily",
+      "domain": "oncodaily.com",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1Dem9lTEF0NkhkLUN3aGRaM0VJR1QtRVBoal94UHBnbzV3QzVoa2ExVlNnNmdOZS1JUU9oY1NWaWo2TGd2VGlmS2t0VmFPM3M5Q0piNWVKbGdVeXZfNW03V2dOVnZlaVgzN1pNaTJrdw?oc=5",
+      "tickers": [],
+      "at": "2026-11-15T19:52:55.738Z"
+    },
+    {
+      "key": "340a31d36adf57ed",
+      "score": 6,
+      "title": "Summit Therapeutics reports FDA refusal for ivonescimab - Mugglehead Investment Magazine",
+      "domain": "mugglehead.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWUZKT0JfUzdOOHZSdEJqU2hGaVowY3RsaFphTnJpLUJEWXJRZUhuYnFVUFpWZzhFTlAyY0FLRUhYU2RJRGVTOGhOeEVJTVlHOXlmMXlJT0VBdWluZEcyaVM0QXRsWTRub3VYNG5IMERFTGtLdFhPUmxuaHZmNmpjWHp3?oc=5",
+      "tickers": [],
+      "at": "2026-11-15T19:52:55.738Z"
+    },
+    {
+      "key": "45c535c61605e4ab",
+      "score": 6,
+      "title": "Tom Powles: Ivonescimab Plus Chemotherapy Faces FDA Rejection in TKI-Refractory Lung Cancer - Oncodaily",
+      "domain": "oncodaily.com",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9naWRYakd2T1NWTnV5YWEwaW9ySEhJa05HSkxoMmtlMTd0aHY5dEMtSm1yWGxocnprWFJJbDJiTDUtdVBpcUtiS1hXRTVQUkU4M3pPbzZuYVJ1RTFDTDE1eUdpR3N6N0tJbV9J?oc=5",
+      "tickers": [],
+      "at": "2026-11-15T19:52:55.738Z"
+    },
+    {
+      "key": "52569399f8ac62f3",
+      "score": 6,
+      "title": "FDA Doesn't Approve Summit's China-Developed Lung Cancer Drug - Investor's Business Daily",
+      "domain": "investors.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZEpfN2h6QkhfeGdPQTFpbGc4YzJ2ZDlXd0xDR0F6ZXZOOEJBY0lNQWJDenY5WEl1NnA1dFhHMG9WYlRfOC15anNTMUZNZUlrR0dzZzZsb0ZValBFY1VXMjFJTjFMTTlxY2F6OC10aW16TUp2bmkxeDY3LVp5TXV3UUJmbnoxbE42TnZIWVZpbE9hcVV6cWliYllhVkxzSF95MzZvR3pseEgtMlVKWnkxZndjWWtxSENibWU0ZGNrdnQ2TzZR?oc=5",
+      "tickers": [],
+      "at": "2026-11-15T19:52:55.738Z"
+    },
+    {
+      "key": "e25bce4c3f6a45df",
+      "score": 6,
+      "title": "Canadiens Recall David Reinbacher; Place Josh Anderson On IR - Pro Hockey Rumors",
+      "domain": "prohockeyrumors.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYTN6Rk43bjhXdzAxV3VWUEZrOTMzTS1tQjFTSHd5VGZNd1ZxWjh3STlEdE1wZHl4QTBPT2ZlWFUxdkFYYkZwUDJQQmRtUDZ5UkFKN0N1Z1lpbHhodGlzZnRUNGJDbC0tZEhJS1RGbzVQbXFQcUxFOVgyY2lFbzFpX3ZYTmNvT3A1bzNxWlhkbzdia1BhbEhKc2VYRDlFT3Y0OXU2T3R4MA?oc=5",
+      "tickers": [],
+      "at": "2026-11-15T19:52:55.738Z"
+    },
+    {
+      "key": "d4efdb066d5b244b",
+      "score": 6,
+      "title": "FDA rejects Summit Therapeutics and Akeso's lung cancer drug ivonescimab, saying it needs an overall survival benefit - MLQ.ai",
+      "domain": "mlq.ai",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdC1SVnFvYVcwV0pud2p1cXBDOFRBWVZHaXUxREgyQzRkWHI1VUpaS0JMZ09VTEp1Z3NLMUItZEFNN0paTnBFZmkzSEZ1TDJEbHl0b0YydlJ4b05YRXZ5Slp0a3JJN2ZPRHkxNk9JZjBBV3NoYjVMeGRTSGtMay1RZ193dGU4Vzg0YlEwMDBYR0tCWFdfYWpHYXMyRFVmZENpaVNqTXllUWowTHlTaTRvVXJYa3JDVlprTjNaTzJVNW9PdGVQWXpuSzJVZE5XSGFSOWc?oc=5",
+      "tickers": [],
+      "at": "2026-11-15T19:52:55.738Z"
+    },
+    {
+      "key": "579ea32f7ea3952b",
+      "score": 5,
+      "title": "Heating oil prices could jump 50% in New England as governors seek $3 billion more in aid - The Cool Down",
+      "domain": "thecooldown.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LUDhGdU9YdTJWS19QYXBrTHJ0RzdNNjl4aF9laUp2TUVFbUM0YlRuSlY1RThyUERzZEpFTmhGMDdCZEROcHlwQnFaOHk0QUFCNmh4X1NmcVdtdFJVVENlOE9aeWdFOWVrVGdfMVRRZzgzdy00RlR4NWRJZ2E2a0k?oc=5",
+      "tickers": [],
+      "at": "2026-11-15T19:52:55.738Z"
+    },
+    {
+      "key": "2e07f49f21b9d1e5",
+      "score": 5,
+      "title": "BTS and ROSÉ Just Dominated the Kids’ Choice Awards, and K-Pop’s Cultural Takeover Is Complete - The Hip Hop Democrat",
+      "domain": "thehiphopdemocrat.com",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZjFXbzRsZEhrLVRMVlBWdEhvdWx5aHZXUHNKQUJIdEVFUU9NNHRWU3ljRmpqYk52QldjZ3YtaDU0Mk1raFdWWk1rZ1VWTjZpNmpvbHJYSnlTQnowTGU5S2Z3bW5TRS1VYnNyTWtOQ0ZUWmxubVVqLTVRaVBJUXZIb1Zzb3RkQUlhRDZidnZUWUtPTjE0N1RicTA4MU1rdGR2OTdaS1AzRXVLNW1ndkEycnhxQjRSazRWZzR4OHdBSDJKY1Y2Tzdua3RKMzZIQQ?oc=5",
+      "tickers": [],
+      "at": "2026-11-15T19:52:55.738Z"
+    },
+    {
+      "key": "3d77a0e5e9a2ef0e",
+      "score": 5,
+      "title": "SHAREHOLDER ALERT: Bronstein Gewirtz & Grossman, LLC Announces Class Action Against Honeywell Aerospace, Inc. (NASDAQ: HONA) — Investors Who Suffered Losses Are Encouraged to Contact the Firm - mykxlg.com",
+      "domain": "mykxlg.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxPUXBONTNKSWptMEVkVTFBUlVZaXUyOWNTZkd3WVU2dnctV1BGZ0tENlBZeE1UaTdvSm90N2hFcHItODVFTlU5ZFdVdG1GMXN6RnFpQXM0SHFVMjdWM0pSU2JRT3NiRm5paEEzRENtOUlhVDVhV21LektWNzFuejRRSWdCZHlMM3dmYmlqNTRRQW5PZXgzc2xFNHFCUjhWTEpYR2tWQlQ1ZFk0QjFjQlE3TkJWUDl1VXJHejc4XzI1Y3N0NGVpOGJkVzZmU2xhS0h5S2RNTU13UVRIVWVUTWR0ZzZJR0hZV0tmb3dzYmR1ZVE2cEc5V2Flc3NKb3I5cDAxeGZMT3hGSFF0d1lwU3RRd0ctZXRaXzI5SVZpWlN2a2hkR1dKRDVfX0FOYi1EZWVKWTJjY2h4MGRUdWlEYnluSQ?oc=5",
+      "tickers": [],
+      "at": "2026-11-15T19:52:55.738Z"
+    },
+    {
+      "key": "70a98bc309d2ee38",
+      "score": 5,
+      "title": "FDA rejects Summit's lung cancer bid for ivonescimab in EGFR subgroup - Briefs Finance",
+      "domain": "briefs.co",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUElDRDdDZzZoZVhwcEE0UXJjM051WnhfWTR6OUJsa3NZdV9xRGxJX1FiWGIteXdOVlQxOFJoaVA5bEw2bkhvQWE2NjUtUDlDbUt2bVFTLV9KMExyMUNOUm1mc3Z2RWt1UWMwLVJrODc0TnRPVHhZZ240VUszZERvOXpXWjVKWjhnQ1kydmtIVHgzUQ?oc=5",
+      "tickers": [],
+      "at": "2026-11-15T19:52:55.738Z"
+    },
+    {
+      "key": "c67b4ba1452c6f35",
+      "score": 5,
+      "title": "class action – The NEN - North Edinburgh News",
+      "domain": "nen.press",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1kQkgxejB0ejdOakdmVDFXdTVSUjItOE5iYWlYSHF0Y0VIUUozX0R2REV6dGdWUUx4YWdJU0NYSDlZSXdhZWFFRzZsQQ?oc=5",
+      "tickers": [],
+      "at": "2026-11-15T19:52:55.738Z"
     }
   ],
   "lastQuotes": [
@@ -13225,5 +13226,5 @@
       "ts": 1794603601
     }
   ],
-  "lastRun": "2026-11-15T19:12:15.552Z"
+  "lastRun": "2026-11-15T19:52:55.738Z"
 }
