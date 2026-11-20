@@ -12,7 +12,7 @@
  *
  * 只有「還沒有 sum」的新聞會被處理；已寫過的不會重複花錢。
  */
-import { readFileSync, writeFileSync, existsSync, appendFileSync } from 'node:fs';
+import { readFileSync, writeFileSync, existsSync, appendFileSync, statSync, unlinkSync } from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { getKey, getConfig } from './apikey.mjs';
@@ -36,6 +36,14 @@ const API_KEY = getKey();
 const BASE_URL = (process.env.ANNOTATE_BASE_URL || conf.baseUrl || 'https://api.deepseek.com').replace(/\/+$/, '');
 const MODEL = process.env.ANNOTATE_MODEL || conf.model || 'deepseek-chat';
 const BATCH = 12;
+
+const LOCK = path.join(HERE, 'annotate.lock');
+if (existsSync(LOCK)) {
+  const age = Date.now() - statSync(LOCK).mtimeMs;
+  if (age < 10 * 60 * 1000) { console.log('另一個解讀程序正在跑，跳過'); process.exit(0); }
+}
+writeFileSync(LOCK, String(process.pid), 'utf8');
+process.on('exit', () => { try { unlinkSync(LOCK); } catch {} });
 
 const target = path.join(HERE, 'news', `${date}.jsonl`);
 if (!existsSync(target)) { console.error('找不到', target); process.exit(1); }
