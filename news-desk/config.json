@@ -21,7 +21,7 @@
   },
   "collect": {
     "maxPerFeed": 25,
-    "lookbackHours": 24,
+    "lookbackHours": 96,
     "seenRetentionDays": 7,
     "pendingRetentionDays": 3,
     "priceMovePct": 5,
