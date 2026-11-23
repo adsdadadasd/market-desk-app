@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-12",
+  "updated": "2026-11-23",
   "status": "seed",
-  "note": "2026-11-12：NVDA 因執行長辭職移出基本面名單，名額暫缺（19/20），待有充分證據的候選補入。",
+  "note": "2026-11-23：UNH 連續兩週重挫（週線 -18.4%）且原因未確認，移出基本面名單；補入 JNJ。NVDA 空缺仍待補。",
   "items": [
     {
       "ticker": "MSFT",
@@ -432,36 +432,6 @@
       "thesisPlain": "我們賭「人會繼續刷卡」——不論誰發卡、誰做錢包，交易最後都要經過它的網路，它抽一點點。這是收費站生意，景氣好壞都收。",
       "invalidationPlain": "如果跨境交易量連續兩季低於 8%，或監管真的把交換費壓到很低，收費站的費率就會被打折。",
       "catalystsPlain": "財報看跨境交易量與服務收入；各國監管裁決是最大的外部變數。",
-      "added": "2026-11-03",
-      "lastReviewed": "2026-11-04",
-      "list": "fundamental"
-    },
-    {
-      "ticker": "UNH",
-      "name": "UnitedHealth",
-      "aliases": [
-        "UnitedHealth",
-        "UNH"
-      ],
-      "sector": "醫療保險",
-      "path": [
-        "醫療保健",
-        "醫療服務",
-        "醫療保險"
-      ],
-      "bucket": "satellite",
-      "conviction": 3,
-      "thesis": "美國最大醫療保險公司，規模帶來議價能力；老齡化與政府計劃（Medicare Advantage）是長期順風。",
-      "catalysts": [
-        "Q4 財報（約 1 月中，待核實）",
-        "Medicare Advantage 費率公告（約 4 月）"
-      ],
-      "invalidation": "醫療成本率（MLR）連續兩季高於 90%，或 MA 費率被大幅下調。",
-      "background": "美國最大健康保險公司，賣商業保險、Medicare Advantage（政府付費的老人保險）與 Medicaid，另外有藥品福利管理與醫療服務。賺錢靠保費減理賠與行政成本；規模越大，跟醫院與藥廠議價越有優勢。",
-      "recent": "11 月初股價偏弱，市場擔心醫療使用率回升，以及 Medicare Advantage 費率與風險調整的監管收緊。這是政策敏感度很高的產業。",
-      "thesisPlain": "我們賭老齡化會讓政府醫療計劃越做越大，而 UNH 是最大的承包者。它的風險不是需求，而是「政府願不願意付這個價」。",
-      "invalidationPlain": "如果醫療成本率連續兩季超過 90%（代表理賠失控），或 Medicare Advantage 費率被大幅下調，論點就要重寫。",
-      "catalystsPlain": "財報看成本率與會員數；每年 4 月的 MA 費率公告是全年最重要的政策事件。",
       "added": "2026-11-03",
       "lastReviewed": "2026-11-04",
       "list": "fundamental"
@@ -1743,6 +1713,36 @@
       "catalystsPlain": "看它能不能守住均線、成交量有沒有配合。",
       "added": "2026-11-05",
       "lastReviewed": "2026-11-05",
+      "auto": true
+    },
+    {
+      "ticker": "JNJ",
+      "name": "Johnson & Johnson",
+      "aliases": [
+        "Johnson & Johnson"
+      ],
+      "sector": "醫療保健",
+      "path": [
+        "醫療保健",
+        "製藥",
+        "藥物與生技"
+      ],
+      "bucket": "core",
+      "conviction": 3,
+      "list": "fundamental",
+      "thesis": "大型製藥，淨利率約 16%，現金流穩定，beta 0.2；在利率高檔時屬防禦型。",
+      "catalysts": [
+        "新藥審批",
+        "訴訟進展"
+      ],
+      "invalidation": "主力藥物專利到期衝擊超出預期，或重大訴訟賠償。",
+      "background": "嬌生是做藥物與醫療器材的大型公司，靠處方藥與醫材銷售賺錢。",
+      "recent": "近期沒有單一重大事件；防禦型資金流入時相對抗跌。",
+      "thesisPlain": "它賣藥和醫材，生意穩定、波動小，市場緊張時比較不會跟著殺。",
+      "invalidationPlain": "主力藥過專利、或重大官司賠大錢，就看錯了。",
+      "catalystsPlain": "看新藥過審與官司進度。",
+      "added": "2026-11-24",
+      "lastReviewed": "2026-11-24",
       "auto": true
     }
   ],
