@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-23",
+  "updated": "2026-11-24",
   "status": "seed",
-  "note": "2026-11-23：UNH 連續兩週重挫（週線 -18.4%）且原因未確認，移出基本面名單；補入 JNJ。NVDA 空缺仍待補。",
+  "note": "2026-11-24：HPE、DELL 因 AI 硬體趨勢失效移出趨勢名單，名額暫缺（18/20），不硬補。",
   "items": [
     {
       "ticker": "MSFT",
@@ -1136,35 +1136,6 @@
       "auto": true
     },
     {
-      "ticker": "DELL",
-      "name": "Dell Technologies Inc.",
-      "aliases": [
-        "Dell Technologies Inc."
-      ],
-      "sector": "科技",
-      "path": [
-        "科技",
-        "其他科技",
-        "其他"
-      ],
-      "bucket": "satellite",
-      "conviction": 2,
-      "list": "trend",
-      "thesis": "過去一年 +165%，市值 270B，動能與相對強度在股票庫中排前段；趨勢跟隨，不預測基本面。",
-      "catalysts": [
-        "趨勢延續／突破"
-      ],
-      "invalidation": "收盤跌破 50 日均線且相對大盤轉弱，或單日放量下跌超過 8%。",
-      "background": "總部位於美國德州圓石市的電腦硬體公司，主要從事個人電腦、伺服器、儲存設備與相關解決方案的設計、製造與銷售，並提供資訊服務。收入來自硬體銷售與企業IT解決方案。",
-      "recent": "近期沒有單一重大事件；過去一年股價上漲約 165.0%，風險評級為低。",
-      "thesisPlain": "我們只是在跟趨勢：它過去一年比其他股票強，先假設會延續，跌破關鍵均線就認錯。",
-      "invalidationPlain": "跌破 50 日均線、或跌得比大盤凶，就代表趨勢斷了。",
-      "catalystsPlain": "看它能不能守住均線、成交量有沒有配合。",
-      "added": "2026-11-05",
-      "lastReviewed": "2026-11-05",
-      "auto": true
-    },
-    {
       "ticker": "ASX",
       "name": "ASE Technology Holding Co. Ltd. American Depositary Shares (each representing Two Common Shares)",
       "aliases": [
@@ -1273,35 +1244,6 @@
       "invalidation": "收盤跌破 50 日均線且相對大盤轉弱，或單日放量下跌超過 8%。",
       "background": "這是一家做資料儲存裝置的公司，主要靠硬碟技術開發、製造與銷售儲存產品，客戶遍布全球。簡單說，舉凡電腦、伺服器需要存放大量資料的地方，都可能是它的生意來源。",
       "recent": "近期新聞面偏多，有外媒評論認為市場雜音可以忽略；過去一年股價漲幅約131.7%，風險評級為中等。",
-      "thesisPlain": "我們只是在跟趨勢：它過去一年比其他股票強，先假設會延續，跌破關鍵均線就認錯。",
-      "invalidationPlain": "跌破 50 日均線、或跌得比大盤凶，就代表趨勢斷了。",
-      "catalystsPlain": "看它能不能守住均線、成交量有沒有配合。",
-      "added": "2026-11-05",
-      "lastReviewed": "2026-11-05",
-      "auto": true
-    },
-    {
-      "ticker": "HPE",
-      "name": "Hewlett Packard Enterprise Company",
-      "aliases": [
-        "Hewlett Packard Enterprise Company"
-      ],
-      "sector": "科技",
-      "path": [
-        "科技",
-        "軟體與雲端",
-        "應用軟體"
-      ],
-      "bucket": "satellite",
-      "conviction": 2,
-      "list": "trend",
-      "thesis": "過去一年 +125%，市值 73B，動能與相對強度在股票庫中排前段；趨勢跟隨，不預測基本面。",
-      "catalysts": [
-        "趨勢延續／突破"
-      ],
-      "invalidation": "收盤跌破 50 日均線且相對大盤轉弱，或單日放量下跌超過 8%。",
-      "background": "Hewlett Packard Enterprise 是美國的科技公司，主要賣給企業用的伺服器、儲存設備、網路設備與相關解決方案，也提供IT服務。收入來自硬體銷售與後續的服務合約，客戶以企業與機構為主。",
-      "recent": "近期有華爾街分析師對該公司股票發表看法的報導。近一年股價上漲約 124.9%，風險評級為低。",
       "thesisPlain": "我們只是在跟趨勢：它過去一年比其他股票強，先假設會延續，跌破關鍵均線就認錯。",
       "invalidationPlain": "跌破 50 日均線、或跌得比大盤凶，就代表趨勢斷了。",
       "catalystsPlain": "看它能不能守住均線、成交量有沒有配合。",
