@@ -12627,7 +12627,10 @@
     "ba03eac9a7e6c695": "2026-11-25T21:14:53.679Z",
     "df7926714d54fe77": "2026-11-25T21:14:53.679Z",
     "185e4d998e64bd68": "2026-11-25T21:14:53.680Z",
-    "38af5a588918498c": "2026-11-25T21:14:53.680Z"
+    "38af5a588918498c": "2026-11-25T21:14:53.680Z",
+    "164c908a43f6b3e4": "2026-11-25T21:15:53.255Z",
+    "722944e6e16f6279": "2026-11-25T21:15:53.255Z",
+    "1c5176b7bc84e2f8": "2026-11-25T21:15:53.255Z"
   },
   "alertsByDay": {
     "2026-11-19": 7,
@@ -14634,6 +14637,520 @@
       "at": "2026-11-25T21:14:53.680Z"
     }
   ],
-  "lastQuotes": [],
-  "lastRun": "2026-11-25T21:14:53.680Z"
+  "lastQuotes": [
+    {
+      "ticker": "MSFT",
+      "price": 489.93,
+      "prevClose": 496.13,
+      "chg1d": -1.25,
+      "chg5d": -1.68,
+      "currency": "USD",
+      "ts": 1795640402
+    },
+    {
+      "ticker": "GOOGL",
+      "price": 273.1,
+      "prevClose": 279.05,
+      "chg1d": -2.13,
+      "chg5d": 0.16,
+      "currency": "USD",
+      "ts": 1795640402
+    },
+    {
+      "ticker": "AMZN",
+      "price": 244.43,
+      "prevClose": 252.29,
+      "chg1d": -3.12,
+      "chg5d": -5.03,
+      "currency": "USD",
+      "ts": 1795640402
+    },
+    {
+      "ticker": "AVGO",
+      "price": 300.86,
+      "prevClose": 301.08,
+      "chg1d": -0.07,
+      "chg5d": -13.21,
+      "currency": "USD",
+      "ts": 1795640402
+    },
+    {
+      "ticker": "LLY",
+      "price": 1392.22,
+      "prevClose": 1407.59,
+      "chg1d": -1.09,
+      "chg5d": 3.04,
+      "currency": "USD",
+      "ts": 1795640399
+    },
+    {
+      "ticker": "JPM",
+      "price": 316.74,
+      "prevClose": 317.1,
+      "chg1d": -0.11,
+      "chg5d": -1.09,
+      "currency": "USD",
+      "ts": 1795640402
+    },
+    {
+      "ticker": "COST",
+      "price": 1086.81,
+      "prevClose": 1091.71,
+      "chg1d": -0.45,
+      "chg5d": -0.64,
+      "currency": "USD",
+      "ts": 1795640401
+    },
+    {
+      "ticker": "XOM",
+      "price": 158.08,
+      "prevClose": 158.23,
+      "chg1d": -0.09,
+      "chg5d": -0.53,
+      "currency": "USD",
+      "ts": 1795640399
+    },
+    {
+      "ticker": "TSM",
+      "price": 342.34,
+      "prevClose": 349.2,
+      "chg1d": -1.96,
+      "chg5d": -2.77,
+      "currency": "USD",
+      "ts": 1795640402
+    },
+    {
+      "ticker": "UBER",
+      "price": 66.35,
+      "prevClose": 64.7,
+      "chg1d": 2.55,
+      "chg5d": 1.14,
+      "currency": "USD",
+      "ts": 1795640402
+    },
+    {
+      "ticker": "PLTR",
+      "price": 163.59,
+      "prevClose": 161.18,
+      "chg1d": 1.5,
+      "chg5d": 6.45,
+      "currency": "USD",
+      "ts": 1795640401
+    },
+    {
+      "ticker": "AMD",
+      "price": 406.03,
+      "prevClose": 413.27,
+      "chg1d": -1.75,
+      "chg5d": -17,
+      "currency": "USD",
+      "ts": 1795640402
+    },
+    {
+      "ticker": "ORCL",
+      "price": 103.88,
+      "prevClose": 109.5,
+      "chg1d": -5.13,
+      "chg5d": -6.05,
+      "currency": "USD",
+      "ts": 1795640401
+    },
+    {
+      "ticker": "V",
+      "price": 424.39,
+      "prevClose": 416.78,
+      "chg1d": 1.83,
+      "chg5d": 5.5,
+      "currency": "USD",
+      "ts": 1795640402
+    },
+    {
+      "ticker": "CAT",
+      "price": 543.69,
+      "prevClose": 540.63,
+      "chg1d": 0.57,
+      "chg5d": 1.18,
+      "currency": "USD",
+      "ts": 1795640402
+    },
+    {
+      "ticker": "WMT",
+      "price": 131.94,
+      "prevClose": 132.31,
+      "chg1d": -0.28,
+      "chg5d": 4.68,
+      "currency": "USD",
+      "ts": 1795640401
+    },
+    {
+      "ticker": "NEE",
+      "price": 85.41,
+      "prevClose": 84.58,
+      "chg1d": 0.98,
+      "chg5d": 1.93,
+      "currency": "USD",
+      "ts": 1795640402
+    },
+    {
+      "ticker": "LIN",
+      "price": 524.61,
+      "prevClose": 516.83,
+      "chg1d": 1.51,
+      "chg5d": 2.82,
+      "currency": "USD",
+      "ts": 1795640401
+    },
+    {
+      "ticker": "PFE",
+      "price": 28.46,
+      "prevClose": 28.46,
+      "chg1d": 0,
+      "chg5d": 3.34,
+      "currency": "USD",
+      "ts": 1795640399
+    },
+    {
+      "ticker": "KMB",
+      "price": 109.45,
+      "prevClose": 108.7,
+      "chg1d": 0.69,
+      "chg5d": 3.99,
+      "currency": "USD",
+      "ts": 1795640402
+    },
+    {
+      "ticker": "SHOP",
+      "price": 133.4,
+      "prevClose": 132.31,
+      "chg1d": 0.82,
+      "chg5d": 1.08,
+      "currency": "USD",
+      "ts": 1795640401
+    },
+    {
+      "ticker": "MS",
+      "price": 167.47,
+      "prevClose": 168.79,
+      "chg1d": -0.78,
+      "chg5d": -4.29,
+      "currency": "USD",
+      "ts": 1795640400
+    },
+    {
+      "ticker": "COMP",
+      "price": 10.61,
+      "prevClose": 9.85,
+      "chg1d": 7.72,
+      "chg5d": 6.42,
+      "currency": "USD",
+      "ts": 1795640402
+    },
+    {
+      "ticker": "WAT",
+      "price": 454.7,
+      "prevClose": 462.17,
+      "chg1d": -1.62,
+      "chg5d": -0.39,
+      "currency": "USD",
+      "ts": 1795640399
+    },
+    {
+      "ticker": "DT",
+      "price": 47.37,
+      "prevClose": 46.88,
+      "chg1d": 1.05,
+      "chg5d": 4.87,
+      "currency": "USD",
+      "ts": 1795640402
+    },
+    {
+      "ticker": "BPOP",
+      "price": 146.79,
+      "prevClose": 145.26,
+      "chg1d": 1.05,
+      "chg5d": -1.26,
+      "currency": "USD",
+      "ts": 1795640402
+    },
+    {
+      "ticker": "CVI",
+      "price": 30.43,
+      "prevClose": 31.48,
+      "chg1d": -3.34,
+      "chg5d": -10.24,
+      "currency": "USD",
+      "ts": 1795640402
+    },
+    {
+      "ticker": "SU",
+      "price": 64.42,
+      "prevClose": 63.83,
+      "chg1d": 0.92,
+      "chg5d": 0.72,
+      "currency": "USD",
+      "ts": 1795640399
+    },
+    {
+      "ticker": "O",
+      "price": 60.25,
+      "prevClose": 59.55,
+      "chg1d": 1.18,
+      "chg5d": 4.49,
+      "currency": "USD",
+      "ts": 1795640402
+    },
+    {
+      "ticker": "FISV",
+      "price": 59.78,
+      "prevClose": 58.62,
+      "chg1d": 1.98,
+      "chg5d": 5.58,
+      "currency": "USD",
+      "ts": 1795640402
+    },
+    {
+      "ticker": "RVTY",
+      "price": 150.82,
+      "prevClose": 153.17,
+      "chg1d": -1.53,
+      "chg5d": -0.51,
+      "currency": "USD",
+      "ts": 1795640402
+    },
+    {
+      "ticker": "NFLX",
+      "price": 59.41,
+      "prevClose": 58.87,
+      "chg1d": 0.92,
+      "chg5d": 1.63,
+      "currency": "USD",
+      "ts": 1795640401
+    },
+    {
+      "ticker": "ANET",
+      "price": 163.99,
+      "prevClose": 168.56,
+      "chg1d": -2.71,
+      "chg5d": -13.5,
+      "currency": "USD",
+      "ts": 1795640403
+    },
+    {
+      "ticker": "DASH",
+      "price": 166.4,
+      "prevClose": 160.13,
+      "chg1d": 3.92,
+      "chg5d": 5.9,
+      "currency": "USD",
+      "ts": 1795640401
+    },
+    {
+      "ticker": "FANG",
+      "price": 180.15,
+      "prevClose": 176.1,
+      "chg1d": 2.3,
+      "chg5d": 1.91,
+      "currency": "USD",
+      "ts": 1795640402
+    },
+    {
+      "ticker": "AME",
+      "price": 227.49,
+      "prevClose": 227.48,
+      "chg1d": 0,
+      "chg5d": -1.58,
+      "currency": "USD",
+      "ts": 1795640403
+    },
+    {
+      "ticker": "MSTR",
+      "price": 79.96,
+      "prevClose": 77.55,
+      "chg1d": 3.11,
+      "chg5d": -7.16,
+      "currency": "USD",
+      "ts": 1795640401
+    },
+    {
+      "ticker": "KDP",
+      "price": 35.63,
+      "prevClose": 35.8,
+      "chg1d": -0.47,
+      "chg5d": 3.55,
+      "currency": "USD",
+      "ts": 1795640402
+    },
+    {
+      "ticker": "ASX",
+      "price": 29.49,
+      "prevClose": 29.33,
+      "chg1d": 0.55,
+      "chg5d": -3.28,
+      "currency": "USD",
+      "ts": 1795640402
+    },
+    {
+      "ticker": "SN",
+      "price": 232.5,
+      "prevClose": 228.93,
+      "chg1d": 1.56,
+      "chg5d": 7.24,
+      "currency": "USD",
+      "ts": 1795640402
+    },
+    {
+      "ticker": "STX",
+      "price": 472.33,
+      "prevClose": 482.48,
+      "chg1d": -2.1,
+      "chg5d": -9.41,
+      "currency": "USD",
+      "ts": 1795640401
+    },
+    {
+      "ticker": "WDC",
+      "price": 272.45,
+      "prevClose": 273.95,
+      "chg1d": -0.55,
+      "chg5d": -8.2,
+      "currency": "USD",
+      "ts": 1795640401
+    },
+    {
+      "ticker": "MRVL",
+      "price": 130.93,
+      "prevClose": 131.57,
+      "chg1d": -0.49,
+      "chg5d": -5.45,
+      "currency": "USD",
+      "ts": 1795640402
+    },
+    {
+      "ticker": "DOCN",
+      "price": 71.72,
+      "prevClose": 74.01,
+      "chg1d": -3.09,
+      "chg5d": -6.97,
+      "currency": "USD",
+      "ts": 1795640402
+    },
+    {
+      "ticker": "UMC",
+      "price": 13.19,
+      "prevClose": 13.4,
+      "chg1d": -1.57,
+      "chg5d": -1.57,
+      "currency": "USD",
+      "ts": 1795640402
+    },
+    {
+      "ticker": "KYMR",
+      "price": 173.77,
+      "prevClose": 173.92,
+      "chg1d": -0.09,
+      "chg5d": 45.55,
+      "currency": "USD",
+      "ts": 1795640402
+    },
+    {
+      "ticker": "NTRA",
+      "price": 301.33,
+      "prevClose": 298.83,
+      "chg1d": 0.84,
+      "chg5d": 3.94,
+      "currency": "USD",
+      "ts": 1795640401
+    },
+    {
+      "ticker": "TEVA",
+      "price": 39.86,
+      "prevClose": 40.1,
+      "chg1d": -0.6,
+      "chg5d": 3.43,
+      "currency": "USD",
+      "ts": 1795640402
+    },
+    {
+      "ticker": "CRL",
+      "price": 332.08,
+      "prevClose": 336.13,
+      "chg1d": -1.2,
+      "chg5d": 1.27,
+      "currency": "USD",
+      "ts": 1795640402
+    },
+    {
+      "ticker": "VSAT",
+      "price": 61.01,
+      "prevClose": 60.46,
+      "chg1d": 0.91,
+      "chg5d": -0.76,
+      "currency": "USD",
+      "ts": 1795640401
+    },
+    {
+      "ticker": "BTSG",
+      "price": 64.22,
+      "prevClose": 65.37,
+      "chg1d": -1.76,
+      "chg5d": 0.31,
+      "currency": "USD",
+      "ts": 1795640402
+    },
+    {
+      "ticker": "CNC",
+      "price": 64.74,
+      "prevClose": 64.35,
+      "chg1d": 0.61,
+      "chg5d": -1.28,
+      "currency": "USD",
+      "ts": 1795640399
+    },
+    {
+      "ticker": "HALO",
+      "price": 95.11,
+      "prevClose": 94.99,
+      "chg1d": 0.13,
+      "chg5d": 2.22,
+      "currency": "USD",
+      "ts": 1795640402
+    },
+    {
+      "ticker": "TSEM",
+      "price": 121.74,
+      "prevClose": 123.47,
+      "chg1d": -1.4,
+      "chg5d": -4.72,
+      "currency": "USD",
+      "ts": 1795640401
+    },
+    {
+      "ticker": "BTSGU",
+      "price": 210.73,
+      "prevClose": 215.04,
+      "chg1d": -2,
+      "chg5d": 0.29,
+      "currency": "USD",
+      "ts": 1795640400
+    },
+    {
+      "ticker": "ILMN",
+      "price": 200.39,
+      "prevClose": 204.52,
+      "chg1d": -2.02,
+      "chg5d": -0.13,
+      "currency": "USD",
+      "ts": 1795640402
+    },
+    {
+      "ticker": "JNJ",
+      "price": 273.94,
+      "prevClose": 276.46,
+      "chg1d": -0.91,
+      "chg5d": 2.55,
+      "currency": "USD",
+      "ts": 1795640402
+    }
+  ],
+  "lastRun": "2026-11-25T21:15:53.255Z"
 }
