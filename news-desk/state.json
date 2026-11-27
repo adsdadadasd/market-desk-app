@@ -1,8 +1,6 @@
 {
   "version": 1,
   "seen": {
-    "e0c434831f0c244d": "2026-11-20T14:57:09.583Z",
-    "e4fbdf3c48229b0c": "2026-11-20T14:57:09.583Z",
     "3ce80a2aaabd2623": "2026-11-20T14:58:54.719Z",
     "acaa4946b8607819": "2026-11-20T14:58:54.719Z",
     "bf9c7a2315c103ee": "2026-11-20T14:59:53.053Z",
@@ -11636,7 +11634,12 @@
     "4b03cd9b3b59eb5e": "2026-11-27T14:54:43.760Z",
     "94b9e0f1f861912d": "2026-11-27T14:54:43.761Z",
     "64b7759563aca582": "2026-11-27T14:54:43.761Z",
-    "5fa02bf7e3de5726": "2026-11-27T14:55:44.776Z"
+    "5fa02bf7e3de5726": "2026-11-27T14:55:44.776Z",
+    "9dac2ce3acc1be10": "2026-11-27T14:57:51.776Z",
+    "4c36594abc7fe816": "2026-11-27T14:57:51.776Z",
+    "efdcebddef38a037": "2026-11-27T14:57:51.776Z",
+    "a1c406d34171ea79": "2026-11-27T14:57:51.776Z",
+    "225b520ce76ea12e": "2026-11-27T14:57:51.776Z"
   },
   "alertsByDay": {
     "2026-11-20": 27,
@@ -11829,33 +11832,6 @@
     }
   },
   "pending": [
-    {
-      "key": "7eb8bafee20fca33",
-      "score": 6,
-      "title": "OceanaGold acquisition of Ausgold wins 99.4% shareholder vote - StreetInsider",
-      "domain": "streetinsider.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRWNDSnl2ZUU4YU1xckJiRjVyelpJN01tRm91NmZjQ1lVRVFSRXZ0VUxuTElERkxKdmF0azkyUnBsMWNhZzc2VF9KS2FGb3lsRUFyWGRvVms1LWgyb2V1UUVlejRwbnZVSEVPV2lzSU5EUk1GNkNOLUlqY2ljeEZGZ1hnR0dUa3NQb1BWaVVzVHpqWW5wOGNtS1FhT21XaE1BTTZEQjhzZmlwdjY2SmtUdUtMbTNvTjlTcGtxZmhPWQ?oc=5",
-      "tickers": [],
-      "at": "2026-11-27T12:03:43.309Z"
-    },
-    {
-      "key": "6472dd4ad3325a63",
-      "score": 6,
-      "title": "Engineering group expands with acquisition of family business - TheBusinessDesk.com",
-      "domain": "thebusinessdesk.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbW85NzgzUnVVbzVNNHJTR1Ftam9YcVZ1azVneUlpZGF2RTVKdlJVTzJnVldBb3ZPb2Z6NW5yNkJIaVlzZi01T19aaElTWG5YYjZLYkwteDNZWnZXcmZCYUs1VWg0OUE1S0pXamVvNVJGZHBjb2JIR1AtNlJlejJYTWNKX2huc0ltVldJZVQ5Mk94QlByZWZ3NnA4X1I1NlAzR1VRU1pxWDZoamNLX2xkdWFyVVMwc2dWSzdB?oc=5",
-      "tickers": [],
-      "at": "2026-11-27T12:03:43.309Z"
-    },
-    {
-      "key": "f07c08dae0f28012",
-      "score": 7,
-      "title": "ECB eyes tokenized collateral amid stricter Russia sanctions - CoinGeek",
-      "domain": "coingeek.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNEdNckFkNHFOTk1IWk1KRElHQ09mdlhlZ0p3NERiLS1sRHphRTRJMkROQWxtU2RGMlVoTTF1YXl4ZE1qN25Hb2NHeDFSaWZvVllRSjE3dm0waUVSZ1MyM1dUR0dSdEd6YjBYNjJOZ1hjUFE1SUFSc1Q5SVd5dldlYWFuV3JUbTJLbWc?oc=5",
-      "tickers": [],
-      "at": "2026-11-27T12:04:42.315Z"
-    },
     {
       "key": "ceff5e553611828e",
       "score": 6,
@@ -13649,8 +13625,549 @@
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNS1M4djQ0NnUxRnJSZGEzSjFtaHhxcWUxcTZnTVpRNXMzaDNlTEtObHNVTzQ4Z3ZEUTMyNUVobjdjT0VzV2ctOEhadDVTeFE5Q2VaVzZidFdtckIzNEttQWREZmhQMnloWk1PUGFoeWhELVhiZmxsMUtDZ2Q2SGZtcm5oMkpHbjNHTjVBNnl5LUhZQ0YtTi01SVVla3dLLXZSNjNuOWxCblJlbENMNWl6elNzeWFxSDU4cVVLR2MzWQ?oc=5",
       "tickers": [],
       "at": "2026-11-27T14:55:44.776Z"
+    },
+    {
+      "key": "a1c406d34171ea79",
+      "score": 7,
+      "title": "Commerzbank continues its slide as takeover nears the finish line - marketscreener.com",
+      "domain": "marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZEhVeHdNWFMwRUY4VWpGcGlZUndaVFR4Nnl2REJMeXhpTkJvZTFuSk10bTVHQmItQnFqWWcydmoxWWR2dGtBYlBibjRJMzZ3bDcxamh1VDMzR1Nhc2ppRlhQalJjdzlpSS15ZlMycDExQXEyWGVQS2VtMjhtaWYteExfTW1ocEdqdGlPd0NMaGhST2NPOHhKTGhMRDVxTlpBbzhYQ2ZYaXlGRGVRaVNreHFvY3k2b0NJaEE?oc=5",
+      "tickers": [],
+      "at": "2026-11-27T14:57:51.776Z"
+    },
+    {
+      "key": "efdcebddef38a037",
+      "score": 6,
+      "title": "Alvernia University to acquire Wisconsin's Marian in Catholic college merger - Dealroom",
+      "domain": "app.dealroom.co",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbWJtWVVPaC1ZTzR2cGljS1Z0OFRyOFZOSGFPcEhfVF9yTXJjMXhncHFMdnFkTU9hbVJ1TjZ4ZERGWGtReURzZXZxMk5DaWN1cGdCT3VDOF9fVjVCQ0hLMXE4akkxVk85XzVvSG5ydkl1aFRRY2VydnpmX2V2ZGhPaDB0ajZMeURSUk83Z09VRGlZRkg4c2RqcmhtWEN3RThTY1NqM19Pd2J5R2RNWEgw?oc=5",
+      "tickers": [],
+      "at": "2026-11-27T14:57:51.776Z"
+    },
+    {
+      "key": "225b520ce76ea12e",
+      "score": 6,
+      "title": "Ibuprofen tablets recalled. Was affected product in Florida? - Tallahassee Democrat",
+      "domain": "tallahassee.com",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQ3pTeUdZeFJoTFZBVTh5STk1bE5YYkNjcHpVaW5fZVZQbXRadWw0ZzRLeDFTYXgyaEFWaGMxZ0tiWXZncTJCNDNoLUNXYWVuOUpZMTM3RlpkU21WdGw4a0d2am5xeU56SzFybmtpclJRTjFwTjVsUlpOUDRRMkh3RGVwOVgxY1JqTkE5cW9MRUFJc2k3alJSMjdkWnBhRzA1ekVwSXowV3pSaDZNVy05eUQ0bGpwZl96dDc0OS1UcGdUZDBuanlZT05B?oc=5",
+      "tickers": [],
+      "at": "2026-11-27T14:57:51.776Z"
     }
   ],
-  "lastQuotes": [],
-  "lastRun": "2026-11-27T14:56:46.061Z"
+  "lastQuotes": [
+    {
+      "ticker": "MSFT",
+      "price": 491.2,
+      "prevClose": 489.93,
+      "chg1d": 0.26,
+      "chg5d": 1.38,
+      "currency": "USD",
+      "ts": 1795791470
+    },
+    {
+      "ticker": "GOOGL",
+      "price": 272.94,
+      "prevClose": 273.1,
+      "chg1d": -0.06,
+      "chg5d": 2.88,
+      "currency": "USD",
+      "ts": 1795791470
+    },
+    {
+      "ticker": "AMZN",
+      "price": 249.52,
+      "prevClose": 244.43,
+      "chg1d": 2.08,
+      "chg5d": 1.09,
+      "currency": "USD",
+      "ts": 1795791470
+    },
+    {
+      "ticker": "AVGO",
+      "price": 308.25,
+      "prevClose": 300.86,
+      "chg1d": 2.46,
+      "chg5d": 1.26,
+      "currency": "USD",
+      "ts": 1795791471
+    },
+    {
+      "ticker": "LLY",
+      "price": 1388,
+      "prevClose": 1392.22,
+      "chg1d": -0.3,
+      "chg5d": 3.04,
+      "currency": "USD",
+      "ts": 1795791469
+    },
+    {
+      "ticker": "JPM",
+      "price": 322.08,
+      "prevClose": 316.74,
+      "chg1d": 1.69,
+      "chg5d": 3.72,
+      "currency": "USD",
+      "ts": 1795791467
+    },
+    {
+      "ticker": "COST",
+      "price": 1092.03,
+      "prevClose": 1086.81,
+      "chg1d": 0.48,
+      "chg5d": -0.92,
+      "currency": "USD",
+      "ts": 1795791464
+    },
+    {
+      "ticker": "XOM",
+      "price": 160.66,
+      "prevClose": 158.08,
+      "chg1d": 1.63,
+      "chg5d": 0.42,
+      "currency": "USD",
+      "ts": 1795791470
+    },
+    {
+      "ticker": "TSM",
+      "price": 348.55,
+      "prevClose": 342.34,
+      "chg1d": 1.81,
+      "chg5d": 9.36,
+      "currency": "USD",
+      "ts": 1795791471
+    },
+    {
+      "ticker": "UBER",
+      "price": 67.06,
+      "prevClose": 66.35,
+      "chg1d": 1.06,
+      "chg5d": 5.65,
+      "currency": "USD",
+      "ts": 1795791469
+    },
+    {
+      "ticker": "PLTR",
+      "price": 167.82,
+      "prevClose": 163.59,
+      "chg1d": 2.58,
+      "chg5d": 16.95,
+      "currency": "USD",
+      "ts": 1795791470
+    },
+    {
+      "ticker": "AMD",
+      "price": 404.31,
+      "prevClose": 406.03,
+      "chg1d": -0.42,
+      "chg5d": -4.73,
+      "currency": "USD",
+      "ts": 1795791470
+    },
+    {
+      "ticker": "ORCL",
+      "price": 105.36,
+      "prevClose": 103.88,
+      "chg1d": 1.42,
+      "chg5d": 4.12,
+      "currency": "USD",
+      "ts": 1795791470
+    },
+    {
+      "ticker": "V",
+      "price": 428.01,
+      "prevClose": 424.39,
+      "chg1d": 0.85,
+      "chg5d": 6.5,
+      "currency": "USD",
+      "ts": 1795791466
+    },
+    {
+      "ticker": "CAT",
+      "price": 554.83,
+      "prevClose": 543.69,
+      "chg1d": 2.05,
+      "chg5d": 8.69,
+      "currency": "USD",
+      "ts": 1795791467
+    },
+    {
+      "ticker": "WMT",
+      "price": 131.86,
+      "prevClose": 131.94,
+      "chg1d": -0.06,
+      "chg5d": 3.06,
+      "currency": "USD",
+      "ts": 1795791468
+    },
+    {
+      "ticker": "NEE",
+      "price": 84.8,
+      "prevClose": 85.41,
+      "chg1d": -0.71,
+      "chg5d": 1.62,
+      "currency": "USD",
+      "ts": 1795791469
+    },
+    {
+      "ticker": "LIN",
+      "price": 528.67,
+      "prevClose": 524.61,
+      "chg1d": 0.77,
+      "chg5d": 5.14,
+      "currency": "USD",
+      "ts": 1795791469
+    },
+    {
+      "ticker": "PFE",
+      "price": 28.5,
+      "prevClose": 28.46,
+      "chg1d": 0.12,
+      "chg5d": 4,
+      "currency": "USD",
+      "ts": 1795791470
+    },
+    {
+      "ticker": "KMB",
+      "price": 109.39,
+      "prevClose": 109.45,
+      "chg1d": -0.05,
+      "chg5d": 2.83,
+      "currency": "USD",
+      "ts": 1795791465
+    },
+    {
+      "ticker": "SHOP",
+      "price": 141.11,
+      "prevClose": 133.4,
+      "chg1d": 5.78,
+      "chg5d": 14.06,
+      "currency": "USD",
+      "ts": 1795791468
+    },
+    {
+      "ticker": "MS",
+      "price": 170.66,
+      "prevClose": 167.55,
+      "chg1d": 1.85,
+      "chg5d": 3.01,
+      "currency": "USD",
+      "ts": 1795791469
+    },
+    {
+      "ticker": "COMP",
+      "price": 10.87,
+      "prevClose": 10.61,
+      "chg1d": 2.45,
+      "chg5d": 12.76,
+      "currency": "USD",
+      "ts": 1795791459
+    },
+    {
+      "ticker": "WAT",
+      "price": 457.94,
+      "prevClose": 454.93,
+      "chg1d": 0.66,
+      "chg5d": 3.97,
+      "currency": "USD",
+      "ts": 1795791465
+    },
+    {
+      "ticker": "DT",
+      "price": 47.01,
+      "prevClose": 47.37,
+      "chg1d": -0.77,
+      "chg5d": 8.18,
+      "currency": "USD",
+      "ts": 1795791470
+    },
+    {
+      "ticker": "BPOP",
+      "price": 147.57,
+      "prevClose": 146.79,
+      "chg1d": 0.53,
+      "chg5d": 2.53,
+      "currency": "USD",
+      "ts": 1795791360
+    },
+    {
+      "ticker": "CVI",
+      "price": 31.23,
+      "prevClose": 30.43,
+      "chg1d": 2.61,
+      "chg5d": -4.95,
+      "currency": "USD",
+      "ts": 1795791465
+    },
+    {
+      "ticker": "SU",
+      "price": 65.49,
+      "prevClose": 64.42,
+      "chg1d": 1.66,
+      "chg5d": 2.62,
+      "currency": "USD",
+      "ts": 1795791450
+    },
+    {
+      "ticker": "O",
+      "price": 60.31,
+      "prevClose": 60.25,
+      "chg1d": 0.1,
+      "chg5d": 3.93,
+      "currency": "USD",
+      "ts": 1795791469
+    },
+    {
+      "ticker": "FISV",
+      "price": 60.72,
+      "prevClose": 59.78,
+      "chg1d": 1.57,
+      "chg5d": 8.66,
+      "currency": "USD",
+      "ts": 1795791463
+    },
+    {
+      "ticker": "RVTY",
+      "price": 150.86,
+      "prevClose": 150.82,
+      "chg1d": 0.03,
+      "chg5d": 3.89,
+      "currency": "USD",
+      "ts": 1795791283
+    },
+    {
+      "ticker": "NFLX",
+      "price": 60.47,
+      "prevClose": 59.41,
+      "chg1d": 1.78,
+      "chg5d": 6.59,
+      "currency": "USD",
+      "ts": 1795791470
+    },
+    {
+      "ticker": "ANET",
+      "price": 168.27,
+      "prevClose": 163.99,
+      "chg1d": 2.61,
+      "chg5d": 0.39,
+      "currency": "USD",
+      "ts": 1795791456
+    },
+    {
+      "ticker": "DASH",
+      "price": 167.07,
+      "prevClose": 166.4,
+      "chg1d": 0.4,
+      "chg5d": 9.48,
+      "currency": "USD",
+      "ts": 1795791469
+    },
+    {
+      "ticker": "FANG",
+      "price": 184.2,
+      "prevClose": 180.15,
+      "chg1d": 2.25,
+      "chg5d": 4.81,
+      "currency": "USD",
+      "ts": 1795791438
+    },
+    {
+      "ticker": "AME",
+      "price": 228.86,
+      "prevClose": 227.49,
+      "chg1d": 0.6,
+      "chg5d": 2.68,
+      "currency": "USD",
+      "ts": 1795791418
+    },
+    {
+      "ticker": "MSTR",
+      "price": 80.07,
+      "prevClose": 79.96,
+      "chg1d": 0.13,
+      "chg5d": 2.91,
+      "currency": "USD",
+      "ts": 1795791471
+    },
+    {
+      "ticker": "KDP",
+      "price": 35.51,
+      "prevClose": 35.63,
+      "chg1d": -0.34,
+      "chg5d": 1.92,
+      "currency": "USD",
+      "ts": 1795791469
+    },
+    {
+      "ticker": "ASX",
+      "price": 30.91,
+      "prevClose": 29.49,
+      "chg1d": 4.82,
+      "chg5d": 17.66,
+      "currency": "USD",
+      "ts": 1795791470
+    },
+    {
+      "ticker": "SN",
+      "price": 231.61,
+      "prevClose": 232.5,
+      "chg1d": -0.38,
+      "chg5d": 8.92,
+      "currency": "USD",
+      "ts": 1795791468
+    },
+    {
+      "ticker": "STX",
+      "price": 490.5,
+      "prevClose": 472.33,
+      "chg1d": 3.85,
+      "chg5d": 7.33,
+      "currency": "USD",
+      "ts": 1795791467
+    },
+    {
+      "ticker": "WDC",
+      "price": 284.32,
+      "prevClose": 272.45,
+      "chg1d": 4.36,
+      "chg5d": 8.89,
+      "currency": "USD",
+      "ts": 1795791471
+    },
+    {
+      "ticker": "MRVL",
+      "price": 136.29,
+      "prevClose": 130.93,
+      "chg1d": 4.1,
+      "chg5d": 11.46,
+      "currency": "USD",
+      "ts": 1795791470
+    },
+    {
+      "ticker": "DOCN",
+      "price": 73.4,
+      "prevClose": 71.72,
+      "chg1d": 2.34,
+      "chg5d": 9.95,
+      "currency": "USD",
+      "ts": 1795791450
+    },
+    {
+      "ticker": "UMC",
+      "price": 13.25,
+      "prevClose": 13.19,
+      "chg1d": 0.45,
+      "chg5d": 10.05,
+      "currency": "USD",
+      "ts": 1795791469
+    },
+    {
+      "ticker": "KYMR",
+      "price": 173.81,
+      "prevClose": 173.77,
+      "chg1d": 0.02,
+      "chg5d": 50.73,
+      "currency": "USD",
+      "ts": 1795791414
+    },
+    {
+      "ticker": "NTRA",
+      "price": 300.04,
+      "prevClose": 301.33,
+      "chg1d": -0.43,
+      "chg5d": 9.74,
+      "currency": "USD",
+      "ts": 1795791468
+    },
+    {
+      "ticker": "TEVA",
+      "price": 39.49,
+      "prevClose": 39.86,
+      "chg1d": -0.93,
+      "chg5d": 0.66,
+      "currency": "USD",
+      "ts": 1795791461
+    },
+    {
+      "ticker": "CRL",
+      "price": 335.77,
+      "prevClose": 332.08,
+      "chg1d": 1.11,
+      "chg5d": 6.82,
+      "currency": "USD",
+      "ts": 1795791451
+    },
+    {
+      "ticker": "VSAT",
+      "price": 62.78,
+      "prevClose": 61.01,
+      "chg1d": 2.9,
+      "chg5d": 11.59,
+      "currency": "USD",
+      "ts": 1795791382
+    },
+    {
+      "ticker": "BTSG",
+      "price": 64.17,
+      "prevClose": 64.22,
+      "chg1d": -0.08,
+      "chg5d": 2.12,
+      "currency": "USD",
+      "ts": 1795791461
+    },
+    {
+      "ticker": "CNC",
+      "price": 65.36,
+      "prevClose": 64.74,
+      "chg1d": 0.96,
+      "chg5d": 2.48,
+      "currency": "USD",
+      "ts": 1795791452
+    },
+    {
+      "ticker": "HALO",
+      "price": 94.1,
+      "prevClose": 95.11,
+      "chg1d": -1.06,
+      "chg5d": 3.01,
+      "currency": "USD",
+      "ts": 1795791444
+    },
+    {
+      "ticker": "TSEM",
+      "price": 125.99,
+      "prevClose": 121.74,
+      "chg1d": 3.49,
+      "chg5d": 9.03,
+      "currency": "USD",
+      "ts": 1795791465
+    },
+    {
+      "ticker": "BTSGU",
+      "price": 210.77,
+      "prevClose": 215.04,
+      "chg1d": -1.99,
+      "chg5d": 2.11,
+      "currency": "USD",
+      "ts": 1795640400
+    },
+    {
+      "ticker": "ILMN",
+      "price": 202.79,
+      "prevClose": 200.39,
+      "chg1d": 1.2,
+      "chg5d": 5.17,
+      "currency": "USD",
+      "ts": 1795791434
+    },
+    {
+      "ticker": "JNJ",
+      "price": 273.43,
+      "prevClose": 273.94,
+      "chg1d": -0.19,
+      "chg5d": 1.09,
+      "currency": "USD",
+      "ts": 1795791468
+    }
+  ],
+  "lastRun": "2026-11-27T14:57:51.776Z"
 }
